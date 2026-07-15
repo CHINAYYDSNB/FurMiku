@@ -1,0 +1,11 @@
+{
+  "word": "abend",
+  "phonetic": "ˈæbend",
+  "phoneticUs": "ˈæbˌend",
+  "meaning": "异常结束,异常终止",
+  "examples": [
+    "ABEND crashes do not produce RIP or NSD files.",
+    "An ABEND is a special form of server crash.",
+    "The term ABEND is a combination of the words \"abnormal end.\""
+  ]
+}

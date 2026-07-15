@@ -1,0 +1,13 @@
+{
+  "word": "allocator",
+  "phonetic": "ˈæləʊkeɪtə(r)",
+  "phoneticUs": "ˈæləkeɪtər",
+  "meaning": "分配算符",
+  "examples": [
+    "Jeff's allocator revolves around object caching.",
+    "The allocator can't coalesce free space into larger blocks.",
+    "At present, the maximum pool size per process for this allocator is limited to 512mb.",
+    "The Fed is now an allocator of credit, not a trustee of sound money.",
+    "So the market replaces the circle of bank, tycoon, chaebol and government as the allocator of resources."
+  ]
+}

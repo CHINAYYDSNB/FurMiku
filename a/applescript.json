@@ -1,0 +1,12 @@
+{
+  "word": "applescript",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "APPLE 电脑开发的程序性语言",
+  "examples": [
+    "And the content of the tag is the AppleScript code to execute when the command is requested.",
+    "Scripting languages like AppleScript or Perl are often the best choice for writing this part of the fuzz test.",
+    "Of course, the PHP that runs this code must be on a Mac to run the osascript command and the AppleScript code.",
+    "\"The same thing you can do over a LAN with AppleScript, you can now do securely over the Internet with OS 9, \" Jobs said."
+  ]
+}

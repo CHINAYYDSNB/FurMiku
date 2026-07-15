@@ -1,0 +1,11 @@
+{
+  "word": "deregister",
+  "phonetic": "diːˈredʒɪstə(r)",
+  "phoneticUs": "dɪˈredʒəstər",
+  "meaning": "vt.<英>(为表示不予承认、不予保护等)撤销...的注册,从登记簿上注销:",
+  "examples": [
+    "If you delete an AMI, don't forget to ec2-deregister it.",
+    "After the verification, the customs will deregister the handbook and subsequently refund the money.",
+    "The administrator role is required for you to register or deregister a base node with the administrative agent."
+  ]
+}

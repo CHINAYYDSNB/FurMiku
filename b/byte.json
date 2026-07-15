@@ -1,0 +1,13 @@
+{
+  "word": "byte",
+  "phonetic": "baɪt",
+  "phoneticUs": "baɪt",
+  "meaning": "n.字节,8位元组",
+  "examples": [
+    "That is the address in memory in the heap of the first byte that the user typed in.",
+    "Why change to 4096-byte sectors?",
+    "Convert the file to a byte array.",
+    "System compatibility is also assured through usage of the industry-standard 512 byte sector size.",
+    "The 10G-byte hard drive is encased in a stainless steel box, ensuring a few bumps won't disrupt its contents."
+  ]
+}

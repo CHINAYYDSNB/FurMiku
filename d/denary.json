@@ -1,0 +1,10 @@
+{
+  "word": "denary",
+  "phonetic": "ˈdiːnəri",
+  "phoneticUs": "ˈdenəri; ˈdiːnəri",
+  "meaning": "adj.十的,十进的",
+  "examples": [
+    "We now try to write a denary number, say 9310, in base 8.",
+    "The text does obstacle detection for the picked image. The process contains pretreatment, denary, lane detection and mathematical morphology in road image."
+  ]
+}

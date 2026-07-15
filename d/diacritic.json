@@ -1,0 +1,12 @@
+{
+  "word": "diacritic",
+  "phonetic": "ˌdaɪəˈkrɪtɪk",
+  "phoneticUs": "ˌdaɪəˈkrɪtɪk",
+  "meaning": "adj.可区别的,读音符号的",
+  "examples": [
+    "Whether a diacritic is ignored in a keyword search depends on the language and whether a character is a new letter or not.",
+    "Each character in a string is given several categories of sort weights, including script, alphabetic, case, and diacritic weights.",
+    "A culture-sensitive comparison of two strings depends on each character in the strings having several categories of sort weights, including script, alphabetic, case, and diacritic weights.",
+    "Part of the reason the M-R system has never caught on with the general public is that it liberally uses two diacritic marks: the apostrophe and the breve."
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "word": "chemostat",
+  "phonetic": "ˈkiːməʊˌstæt; ˈkeməʊˌstæt",
+  "phoneticUs": "ˈkeməstæt",
+  "meaning": "n.(尤指用于培养微生物的)恒化器",
+  "examples": [
+    "In this paper, we present and analyze a simple model for a chemostat with predator, prey and periodically pulsed input and washout substrate.",
+    "The fermentation kinetics of S-adenosyl-L-methionine (SAM) producing Saccharomyces cerevisiae HYS98 was studied through chemostat cultivation.",
+    "The delay nutrient recycling is considered in the models of competition in a chemostat with an external inhibitor, the sufficient conditions of bounded in the system is obtained.",
+    "In their research, the two professors used a chemostat, which is a continuous cell culture."
+  ]
+}

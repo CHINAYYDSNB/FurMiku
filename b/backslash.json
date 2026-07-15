@@ -1,0 +1,11 @@
+{
+  "word": "backslash",
+  "phonetic": "ˈbækslæʃ",
+  "phoneticUs": "ˈbækslæʃ",
+  "meaning": "反斜线符号",
+  "examples": [
+    "The first backquote not preceded by a backslash terminates the command substitution.",
+    "When entering the command, do not use the backslash.",
+    "Do not enter the backslash as not part of the command."
+  ]
+}

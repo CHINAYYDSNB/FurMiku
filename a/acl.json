@@ -1,0 +1,13 @@
+{
+  "word": "acl",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Access Control List,访问控制列表",
+  "examples": [
+    "Specify which ACL to test.",
+    "The scope of an ACL is at least the ACL owner.",
+    "Configuring an ACL is a directory specific task.",
+    "That's what makes this rough for Rose, who tore his ACL in last year's playoffs.",
+    "In 2011, Lattimore tore the ACL in his left knee midway through the season."
+  ]
+}

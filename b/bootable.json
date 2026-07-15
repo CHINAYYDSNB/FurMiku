@@ -1,0 +1,13 @@
+{
+  "word": "bootable",
+  "phonetic": "ˈbuːtəbəl",
+  "phoneticUs": "",
+  "meaning": "adj.[计] 可启动[引导]的(磁盘或驱动器)",
+  "examples": [
+    "Copy MLO onto the bootable FAT partition.",
+    "Copy u-boot.bin onto the bootable FAT partition.",
+    "To create bootable images, you use the bosboot command.",
+    "Customers can also free up additional storage space by creating a backup bootable USB and deleting the recovery partition.",
+    "This free utility generates a bootable disk that tests your system, then provides a comprehensive report of its findings."
+  ]
+}

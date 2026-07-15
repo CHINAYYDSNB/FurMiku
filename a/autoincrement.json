@@ -1,0 +1,11 @@
+{
+  "word": "autoincrement",
+  "phonetic": "ɔːˈtɔɪnkrəmənt",
+  "phoneticUs": "ɔːˈtɔɪnkrəmənt",
+  "meaning": "n.自动增量",
+  "examples": [
+    "You'll create the ID field as an autoincrement primary key.",
+    "You cannot use an autoincrement field within survey_response_detail because it needs to be unique for the group of question responses.",
+    "The agent will usually listen on port 1972 but will autoincrement the port if 1972 is already in use (by another Health Center agent, for example)."
+  ]
+}

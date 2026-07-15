@@ -1,0 +1,12 @@
+{
+  "word": "balancer",
+  "phonetic": "ˈbælənsə(r)",
+  "phoneticUs": "ˈbælənsər",
+  "meaning": "n.权衡者",
+  "examples": [
+    "Reconfigure the load balancer if necessary.",
+    "Here is the simplest load balancer possible.",
+    "Add the new server to the load balancer pool.",
+    "As we already knew, Amazon Web Services was to blame for the issue -- the company issued an apology earlier today -- with the Elastic Load Balancer (ELB) service causing the outage."
+  ]
+}

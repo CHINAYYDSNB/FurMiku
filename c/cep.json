@@ -1,0 +1,13 @@
+{
+  "word": "cep",
+  "phonetic": "sep",
+  "phoneticUs": "sep",
+  "meaning": "[军] Circular Error Probablity,圆概率误差",
+  "examples": [
+    "The event types are defined to the CEP engine.",
+    "This is a typical application of fraud detection using CEP engines.",
+    "But does CEP require a completely different type of architecture?",
+    "Some CEP providers have ideas on how information can be pulled out of the Internet, he added.",
+    "ScaleOut drives performance close to the CEP timeframe, seconds or minutes rather than hours of a batch processing system."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "word": "devel",
+  "phonetic": "ˈdevəl",
+  "phoneticUs": "ˈdevl",
+  "meaning": "n.重击",
+  "examples": [
+    "repo to be enabled=0; change fedora-devel.",
+    "Kernel-devel or kernel-xen-devel if using the Xenified kernel.",
+    "You can also contact them @ #shimmer or #xubuntu-devel on irc.freenode."
+  ]
+}

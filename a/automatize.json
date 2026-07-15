@@ -1,0 +1,11 @@
+{
+  "word": "automatize",
+  "phonetic": "ɔːˈtɒməˌtaɪz",
+  "phoneticUs": "ɔːˈtɑːməˌtaɪz",
+  "meaning": "vt.使自动化",
+  "examples": [
+    "The system is helpful to automatize and computerize the assessment and management of locomotive attendants.",
+    "Unit controller of BQ FMS manages each equipment in the soft line, in order to coordinate them and automatize the production.",
+    "Now within Struts, Struts 2 and Spring MVC applications we have to add this id manually and we would like to automatize this task."
+  ]
+}

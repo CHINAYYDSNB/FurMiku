@@ -1,0 +1,11 @@
+{
+  "word": "ammeter",
+  "phonetic": "ˈæmiːtə(r)",
+  "phoneticUs": "ˈæmiːtər",
+  "meaning": "n.电表",
+  "examples": [
+    "What does that ammeter read?",
+    "Also, the resistor limits the ac gain of the feedback ammeter.",
+    "This will connect the ammeter to pin 1 and the voltage source to pins 2 and 3."
+  ]
+}

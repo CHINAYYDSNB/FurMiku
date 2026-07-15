@@ -1,0 +1,11 @@
+{
+  "word": "autosave",
+  "phonetic": "ˈɔːtəʊseɪv",
+  "phoneticUs": "ˈɔːtoʊseɪv",
+  "meaning": "v.[计]自动保存",
+  "examples": [
+    "This item prevents AutoSave on that document.",
+    "Autosave lists after every Autosave interval passes.",
+    "But, at least Anki has a very functional autosave feature."
+  ]
+}

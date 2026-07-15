@@ -1,0 +1,11 @@
+{
+  "word": "asymptotical",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "adj.[数]渐近线的,渐近的",
+  "examples": [
+    "The stability of the closed-loop system's and its asymptotical convergence of tracking errors can be guaranteed.",
+    "The problem of asymptotical stabilization for a class of uncertain systems with sector nonlinear input is discussed.",
+    "Then we derive the asymptotical distribution of the extended moment estimator and prove its asymptotically normality."
+  ]
+}

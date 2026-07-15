@@ -1,0 +1,11 @@
+{
+  "word": "bipartite",
+  "phonetic": "baɪˈpɑːtaɪt",
+  "phoneticUs": "baɪˈpɑːrtaɪt",
+  "meaning": "adj.双向的",
+  "examples": [
+    "This graph is NOT bipartite, since there are many triangles in it.",
+    "Bipartite Graph is important data structure for data base system etc.",
+    "A complete bipartite graph is a simple bipartite graph with bipartition."
+  ]
+}

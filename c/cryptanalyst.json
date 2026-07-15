@@ -1,0 +1,11 @@
+{
+  "word": "cryptanalyst",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "n.密码破译者 密码专家",
+  "examples": [
+    "This leaves the cryptanalyst with a file that contains only the two original files XORed against each other.",
+    "In these attacks, if the cryptanalyst knows the file type, then he can use knowledge of header formats to guess at the key stream used to encode the file.",
+    "If a cryptanalyst thinks that a user has used the same key to encrypt two different files, he can XOR the two files together and cancel out the output from the PRNG."
+  ]
+}

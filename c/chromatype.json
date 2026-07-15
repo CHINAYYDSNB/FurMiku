@@ -1,0 +1,9 @@
+{
+  "word": "chromatype",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "n.铬盐像片,彩色像片",
+  "examples": [
+    "Bytes per pixel, size of the frame, and pitch (or stride) are calculated internally according to the ChromaType value."
+  ]
+}

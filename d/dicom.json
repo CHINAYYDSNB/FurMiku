@@ -1,0 +1,11 @@
+{
+  "word": "dicom",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Digital Imaging and Communications in Medicine,医学中的数字图象和通信",
+  "examples": [
+    "Figure 4 shows the relationship between the DICOM objects.",
+    "But PACS is that based on file system and the DICOM images are stored in file form.",
+    "DICOM is the first widely accepted standard about digital imaging and communications in medicine."
+  ]
+}

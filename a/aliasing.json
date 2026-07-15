@@ -1,0 +1,13 @@
+{
+  "word": "aliasing",
+  "phonetic": "ˈeɪlɪəsɪŋ",
+  "phoneticUs": "ˈeliəsɪŋ; ˈeljəsɪŋ",
+  "meaning": "图形的锯齿边缘或数字发声因取样比过低所产生的变形失真。",
+  "examples": [
+    "Anti-aliasing: Smoothen and fix straight lines.",
+    "Anti-aliasing and hinting for improved output quality.",
+    "Before proceeding, take a quick look at where you can find IP aliasing.",
+    "No more guessing if 4X anti-aliasing or bloom lighting will degrade your experience.",
+    "It will feature the company's FSA (full-scene anti-aliasing) technology, which enhances the curves of lines and reduces the \"stair-step\" effect in curves."
+  ]
+}

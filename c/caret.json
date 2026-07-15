@@ -1,0 +1,11 @@
+{
+  "word": "caret",
+  "phonetic": "ˈkærət",
+  "phoneticUs": "ˈkærət",
+  "meaning": "n.脱字符号(^ 文章中插字使用)n.^符号",
+  "examples": [
+    "The caret matches the beginning of the string.",
+    "Creates a new shape for the system caret and gets ownership of the caret.",
+    "Caret: Proofreaders' insertion mark, indicating where the omission occurred and the insertion required."
+  ]
+}

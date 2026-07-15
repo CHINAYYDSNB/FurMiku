@@ -1,0 +1,11 @@
+{
+  "word": "dasd",
+  "phonetic": "ˈdəzd",
+  "phoneticUs": "ˈdəzd",
+  "meaning": "direct access storage device or devices,直接访问存储设备",
+  "examples": [
+    "We distributed the DASD for the user mail boxes over these mount points.",
+    "This saves you from using up a real device and on DASD tracking and management.",
+    "DASD is cheap, and the time on the wire might be only a small part of the total time in the process."
+  ]
+}

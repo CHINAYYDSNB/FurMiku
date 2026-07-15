@@ -1,0 +1,13 @@
+{
+  "word": "ascii",
+  "phonetic": "ˈæski",
+  "phoneticUs": "ˈæski",
+  "meaning": "American Standard Code for Information Interchange,美国信息互换标准代码",
+  "examples": [
+    "Files can be exported in ASCII or PCX formats.",
+    "ASCII streams, for ASCII character data.",
+    "The configuration files are readable ASCII text.",
+    "The problem is that URLs are created in ASCII code bits of 1s and 0s.",
+    "He says there is an uppermost value of six valid ASCII permutations for the most complicated letter, fewer for the others."
+  ]
+}

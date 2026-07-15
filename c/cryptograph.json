@@ -1,0 +1,11 @@
+{
+  "word": "cryptograph",
+  "phonetic": "ˈkrɪptəʊˌɡræf",
+  "phoneticUs": "ˈkrɪptoʊˌɡræf; ˈkrɪptəˌgræf",
+  "meaning": "n.密文,密码",
+  "examples": [
+    "The Server access DBMS on behalf of Application and sends back the results in cryptograph.",
+    "Modern cryptograph can be divided into symmetrical key system and dissymmetrical key system.",
+    "This approach provides a set of inference rules for reduction and analysis of signature and cryptograph."
+  ]
+}

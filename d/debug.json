@@ -1,0 +1,13 @@
+{
+  "word": "debug",
+  "phonetic": "ˌdiːˈbʌɡ",
+  "phoneticUs": "ˌdiːˈbʌɡ",
+  "meaning": "vt.<俗>除错,改正有毛病部分,除去窃听器v.调试 [计]调试工具",
+  "examples": [
+    "The production lines ground to a halt for hours while technicians tried to debug software.",
+    "This will disconnect your debug session.",
+    "Debug your program.",
+    "Cell phone manufacturers don't always design phones that are easy to clean up and debug.",
+    "If you want to test your controllers directly in your programming environment, you can uncomment the debug."
+  ]
+}

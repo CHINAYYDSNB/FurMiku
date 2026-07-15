@@ -1,0 +1,11 @@
+{
+  "word": "collator",
+  "phonetic": "kɑːˈleɪtər; koʊˈleɪtər; ˈkɑːleɪtər; ˈkoʊleɪtər",
+  "phoneticUs": "kɑːˈleɪtər; koʊˈleɪtər; ˈkɑːleɪtər; ˈkoʊleɪtər",
+  "meaning": "n.校对机",
+  "examples": [
+    "And at the end, a Czech collator is used.",
+    "The first custom collator is one to sort Spanish words.",
+    "The code in Listing 4 shows how you can sort an array of Czech words differently based on the locale used for the collator."
+  ]
+}

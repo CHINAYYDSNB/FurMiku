@@ -1,0 +1,13 @@
+{
+  "word": "availability",
+  "phonetic": "əˌveɪləˈbɪləti",
+  "phoneticUs": "əˌveɪləˈbɪləti",
+  "meaning": "n.可用性,有效性,实用性",
+  "examples": [
+    "All the holidays on offer are subject to availability.",
+    "One area of contention is the availability of nursery care.",
+    "The second is the availability of sufficient time and space.",
+    "One drawback is that most car share services have very little availability at airports.",
+    "There have been two approaches: Riak and Cassandra stress availability, while HBase has stressed consistency."
+  ]
+}

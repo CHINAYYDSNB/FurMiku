@@ -1,0 +1,11 @@
+{
+  "word": "bintree",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "n.[计] 二叉查找树",
+  "examples": [
+    "By organizing data block partition, two layer nested bintree were built.",
+    "When accessed to the whole raster data, the records remain in the stack are the re- quired bintree encoding results.",
+    "The results of experiments show that the bintree based on SLM can make contribution to speech pauses' prediction effectively."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "word": "codepage",
+  "phonetic": "kəʊdˈpeɪdʒ",
+  "phoneticUs": "",
+  "meaning": "n.[计]代码页",
+  "examples": [
+    "Have the client application and the database use the same codepage.",
+    "This local codepage would typically be one of the EBCDIC codepages.",
+    "You can use another codepage, but you have to transform the input read."
+  ]
+}

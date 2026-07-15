@@ -1,0 +1,11 @@
+{
+  "word": "decompressor",
+  "phonetic": "ˌdiːkəmˈpresə(r)",
+  "phoneticUs": "ˌdiːkəmˈpresər",
+  "meaning": "n.减压装置",
+  "examples": [
+    "Creates a new input stream with a default decompressor and buffer size.",
+    "Creates a new input stream with the specified decompressor and buffer size.",
+    "Creates a new input stream with the specified decompressor and a default buffer size."
+  ]
+}

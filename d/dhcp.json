@@ -1,0 +1,13 @@
+{
+  "word": "dhcp",
+  "phonetic": "ˈdiː ˈetʃ ˈsiː ˈpiː",
+  "phoneticUs": "diː; ˌeɪtʃ; siː; ˈpiː",
+  "meaning": "Dynamic Host Configuration Protocol,动态主机配置协议",
+  "examples": [
+    "Install the DHCP server package.",
+    "Be sure the network has a DHCP server on it.",
+    "In this article, only DHCP service is covered.",
+    "The TiVo had no problem connecting to our network via DHCP and was downloading guide data in no time.",
+    "My current company, Nominum, built upon its heritage in high performance DNS and DHCP servers with new analytics technologies that monitor DNS use."
+  ]
+}

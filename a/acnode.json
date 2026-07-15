@@ -1,0 +1,9 @@
+{
+  "word": "acnode",
+  "phonetic": "ˈæknəʊd",
+  "phoneticUs": "ˈæknoʊd",
+  "meaning": "n.[数]孤点",
+  "examples": [
+    "The algorithm includes two major phases: 1)removing white noise and acnode noise by threshold segmentation and grayscale neighborhood property respectively;"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "word": "decidable",
+  "phonetic": "dɪˈsaɪdəb(ə)l",
+  "phoneticUs": "dɪˈsaɪdəbəl",
+  "meaning": "adj.可决定的",
+  "examples": [
+    "You can validate absolutely any string that conforms to any decidable set of rules.",
+    "The restricted set of terms, becomes decidable , and moreover can be implemented very efficiently.",
+    "Reasoners for OWL DL, while dealing with a decidable sublanguage, will be subject to higher worst-case complexity."
+  ]
+}

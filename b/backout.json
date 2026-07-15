@@ -1,0 +1,11 @@
+{
+  "word": "backout",
+  "phonetic": "ˈbækaʊt",
+  "phoneticUs": "ˈbækaʊt",
+  "meaning": "n.拆除",
+  "examples": [
+    "The application could even use a defined backout queue for this.",
+    "Set the backout threshold on the MQREQUESTQ to 1 (see Figure 13).",
+    "That's a great backout plan-much easier than restoring from a backup."
+  ]
+}

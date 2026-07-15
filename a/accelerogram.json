@@ -1,0 +1,11 @@
+{
+  "word": "accelerogram",
+  "phonetic": "ækˈselərəɡræm",
+  "phoneticUs": "ækˈselərəɡræm",
+  "meaning": "n.(显示地震中颤动加速度的)加速度图",
+  "examples": [
+    "The calculation of these velocity and displacement curves from the accelerogram is not a trivial matter.",
+    "The method is applicable for instrument response correction processing of accelerogram recorded by digital accelerograph of China strong motion network.",
+    "A typical filtered accelerogram and its double integrated displacements are given as an example and a comparison with the unfiltered accelerogram and its respective displacements is also made."
+  ]
+}

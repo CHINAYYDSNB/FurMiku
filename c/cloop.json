@@ -1,0 +1,10 @@
+{
+  "word": "cloop",
+  "phonetic": "kluːp",
+  "phoneticUs": "",
+  "meaning": "n.砰声vi.发砰声",
+  "examples": [
+    "Many CDs use a compressed filesystem image that often comes with the cloop compressed loopback driver.",
+    "Many LiveCDs use a compressed filesystem image that often comes with the cloop compressed loopback driver to effectively double the storage capacity."
+  ]
+}

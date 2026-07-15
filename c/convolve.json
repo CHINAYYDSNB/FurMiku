@@ -1,0 +1,11 @@
+{
+  "word": "convolve",
+  "phonetic": "kənˈvɒlv",
+  "phoneticUs": "kənˈvɑːlv",
+  "meaning": "v.卷,盘旋,缠绕",
+  "examples": [
+    "First, gradient image is constructed by using direction templates convolve with image.",
+    "Two-value iris template will be achieved by compare every point of convolve image with zero.",
+    "We then convolve x_image with the weight tensor, add the bias, apply the ReLU function, and finally max pool."
+  ]
+}

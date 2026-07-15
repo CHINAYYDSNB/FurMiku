@@ -1,0 +1,12 @@
+{
+  "word": "dcom",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Distributed Component Object Model,分布式组件对象模型",
+  "examples": [
+    "On the Document Manager server, DCOM launches a new dllhost.exe process.",
+    "DCOM and CORBA are both reasonable protocols for server-to-server communications.",
+    "Contrast this with the CORBA and DCOM protocols, which are binary, not self-describing, and tough to trace.",
+    "According to the ETF Finder at ETF Channel, DCOM makes up 1.38% of the KBW High Dividend Yield Financial Portfolio ETF ( AMEX: KBWD )which is trading lower by about 0.4% on the day Friday."
+  ]
+}

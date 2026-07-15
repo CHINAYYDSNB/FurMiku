@@ -1,0 +1,11 @@
+{
+  "word": "autoexec",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "n.自动执行批处理文件",
+  "examples": [
+    "When you create a Macro and name it AutoExec, it's the very first thing that will run (even before the form you have set as your main form).",
+    "SYS and AUTOEXEC. BAT files for running the device communication software, and how to solve some problems while using CD ROM retriveal systems (for HITACHI drives).",
+    "This trick might help: Compare the commands in the floppy's config.sys and autoexec.bat files."
+  ]
+}

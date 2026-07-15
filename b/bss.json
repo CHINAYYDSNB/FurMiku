@@ -1,0 +1,13 @@
+{
+  "word": "bss",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "British Standard Specification (s) 英国标准(技术)规格",
+  "examples": [
+    "Objects in the BSS section have only a name and a size, and no value.",
+    "Finally, we get to the lowest segments of memory: BSS, data, and program text.",
+    "Variables declared in the BSS section don't actually take space, unlike in the data segment.",
+    "She spent the entire time in the dark between floors that had collapsed, according to the BSS report.",
+    "State-run news agency Bangladesh Sangbad Sangstha (BSS) reported Reshma told her rescuers that she survived on dry food and water that was tossed into the rubble in the first days after the collapse."
+  ]
+}

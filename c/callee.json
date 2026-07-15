@@ -1,0 +1,11 @@
+{
+  "word": "callee",
+  "phonetic": "kɔːˈliː",
+  "phoneticUs": "kɔːlˈiː",
+  "meaning": "n.被召者",
+  "examples": [
+    "The caller and callee must agree on the size of the buffer.",
+    "The callee is the method owner that receives a message from the method caller.",
+    "The callee must take the necessary precautions to ensure that the buffer is not overrun."
+  ]
+}

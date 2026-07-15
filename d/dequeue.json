@@ -1,0 +1,11 @@
+{
+  "word": "dequeue",
+  "phonetic": "diːˈkjuː",
+  "phoneticUs": "dɪkˈjuː",
+  "meaning": "v.出列",
+  "examples": [
+    "Select Dequeue and then click Get message.",
+    "Process must first dequeue a message to obtain the credit.",
+    "A pipe is composed of a queue and two file descriptors-one to enqueue data and the other to dequeue data."
+  ]
+}

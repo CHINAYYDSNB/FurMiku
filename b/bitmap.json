@@ -1,0 +1,12 @@
+{
+  "word": "bitmap",
+  "phonetic": "ˈbɪtmæp",
+  "phoneticUs": "ˈbɪtmæp",
+  "meaning": "n.[计]位图",
+  "examples": [
+    "You can also export images as bitmap files.",
+    "The two types of images are: bitmap and vector.",
+    "In this case, all of the bitmap is stored in one large block.",
+    "Vector-based graphics based on mathematical lines and points rather than pre-created bitmap graphics, making it quicker to zoom in and out of an area."
+  ]
+}

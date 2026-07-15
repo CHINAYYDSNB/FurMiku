@@ -1,0 +1,11 @@
+{
+  "word": "automorphism",
+  "phonetic": "ˌɔːtəʊˈmɔːfɪzəm",
+  "phoneticUs": "ˌɔːtəˈmɔːrfɪzəm",
+  "meaning": "n.自守,自同构",
+  "examples": [
+    "An automorphism of a map is an isomorphism from the map to itself.",
+    "We can distinguish nonlinear automorphism of polynomials algebra by using the test polynomials.",
+    "It is proved that a simple graph G is automorphism line graph if and only if the graph G is 2-regular graph."
+  ]
+}

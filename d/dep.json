@@ -1,0 +1,13 @@
+{
+  "word": "dep",
+  "phonetic": "dep",
+  "phoneticUs": "dep",
+  "meaning": "Department of Employment and Productivity (英国)就业和生产率部",
+  "examples": [
+    "Make dep need not be run at any stage.",
+    "On Ubuntu and Debian, simply type sudo apt-get build-dep gimp.",
+    "For Network Dep. server name, enter your cell name plus your node name plus your server name.",
+    "That missing safeguard matters: All Apple products use Data Execution Prevention, or DEP, a feature that prevents malicious code from running its own commands.",
+    "Since 2008, the iPhone has employed DEP to make sure that no new commands can be injected into applications in the guise of data."
+  ]
+}

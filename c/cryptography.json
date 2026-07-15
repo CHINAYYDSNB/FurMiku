@@ -1,0 +1,13 @@
+{
+  "word": "cryptography",
+  "phonetic": "krɪpˈtɒɡrəfi",
+  "phoneticUs": "krɪpˈtɑːɡrəfi",
+  "meaning": "n.密码使用法,密码系统 密码术",
+  "examples": [
+    "The number that you choose to rotate your letters by is what we call in cryptography, a key.",
+    "There's cryptography going on.",
+    "Finally, there was the issue of cryptography.",
+    "There is still some way to go before any of this work actually threatens cryptography.",
+    "We also refer many technical questions on cryptography and bitcoin mining to contributing developers."
+  ]
+}

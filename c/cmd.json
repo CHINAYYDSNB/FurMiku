@@ -1,0 +1,13 @@
+{
+  "word": "cmd",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Charge Modulated Device,电荷调制器件",
+  "examples": [
+    "Usrlogn1.cmd is called by usrlogon.cmd.",
+    "Press Ctrl/Cmd + N to create a new document.",
+    "Select settings.php, then press Cmd + I.",
+    "Hitting Cmd-Z with this method helps someone to make a decision about whether the edit they just made is what they wanted.",
+    "Needless to say, I lost the argument about the default behavior (what got assigned to Cmd-Z for out of the box installation) with the introduction of History feature."
+  ]
+}

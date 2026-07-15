@@ -1,0 +1,10 @@
+{
+  "word": "cryptoanalysis",
+  "phonetic": "ˌkrɪptəʊəˈnælɪsɪs",
+  "phoneticUs": "",
+  "meaning": "n.(=cryptanalysis)密码分析学",
+  "examples": [
+    "In order to achieve perfect forward and perfect backward secrecy, and to counteract cryptoanalysis, the group session keys should be rekeyed.",
+    "This can happen to messages being transmitted in the clear, transmitted encrypted but stored in the clear, or decryption of messages due to stolen key or cryptoanalysis."
+  ]
+}

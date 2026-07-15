@@ -1,0 +1,13 @@
+{
+  "word": "certifier",
+  "phonetic": "ˈsɜːtɪfaɪə(r)",
+  "phoneticUs": "ˈsɜːrtəˌfaɪər",
+  "meaning": "n.证明者",
+  "examples": [
+    "This RA can register users and manage certificate requests without having direct access to the certifier ID and password.",
+    "By default, the certifier and policy selected during setup are used for all operations.",
+    "Unfortunately, to create a certificate someone (or something) needs to touch the ca and to act as a certifier.",
+    "The number of medical-home practices is growing, according to the nonprofit National Committee for Quality Assurance, the biggest certifier of medical homes.",
+    "Donald Palmieri, a gem certifier and market analyst (and source of the pricing data used in the chart), is skeptical of the idea, and not only because he was himself burned in the 1981 diamond crash."
+  ]
+}

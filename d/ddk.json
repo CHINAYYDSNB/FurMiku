@@ -1,0 +1,12 @@
+{
+  "word": "ddk",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Device Drivers Kit,设备驱动程序开发包",
+  "examples": [
+    "Inbred strain of mice DDK shows a unique property of reproduction (DDK syndrome).",
+    "WDM for example procedures, based on the DDK. This example is the enumeration system interface.",
+    "A few VOID functions can fail by raising an exception, but the DDK documents that behavior very clearly.",
+    "The new extensions are being delivered to all PowerVR Series5XT licensees as part of the standard PowerVR graphics DDK (device driver development kit)."
+  ]
+}

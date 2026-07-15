@@ -1,0 +1,11 @@
+{
+  "word": "autosuggest",
+  "phonetic": "ˌɔːtəʊsəˈdʒest",
+  "phoneticUs": "",
+  "meaning": "vt.通过自我暗示产生(或去掉、支配)",
+  "examples": [
+    "In this article you will develop an autosuggest-form field.",
+    "Let's take a look at each of these steps in creating an Ajax-based autosuggest field.",
+    "Next, add the find_unscheduled_activities method to return the autosuggest results from the database."
+  ]
+}

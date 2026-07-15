@@ -1,0 +1,13 @@
+{
+  "word": "applet",
+  "phonetic": "ˈæplət",
+  "phoneticUs": "ˈæplət",
+  "meaning": "Java的程序",
+  "examples": [
+    "Creating an applet-based player.",
+    "Access the response from the applet.",
+    "This is pretty standard applet-embed code.",
+    "Make a simple java applet that has at least some interaction with listeners and not just buttons and such.",
+    "The pre-deployed applet gives customers the ability to securely connect their devices to HTC customer care representatives during active support calls."
+  ]
+}

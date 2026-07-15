@@ -1,0 +1,13 @@
+{
+  "word": "callback",
+  "phonetic": "ˈkɔːlbæk",
+  "phoneticUs": "ˈkɔːlbæk",
+  "meaning": "n.回收,回叫信号,复查",
+  "examples": [
+    "This is a callback example.",
+    "Listing 3. Callback Registration.",
+    "All you add is a callback function.",
+    "By using the excess capacity of foreign telecommunications firms, callback companies can offer overseas calls in Hong Kong.",
+    "The APIs can work in both directions, serving the content and triggering callback functions to report on user activity."
+  ]
+}

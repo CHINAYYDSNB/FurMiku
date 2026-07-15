@@ -1,0 +1,11 @@
+{
+  "word": "bindery",
+  "phonetic": "ˈbaɪndəri",
+  "phoneticUs": "ˈbaɪndəri",
+  "meaning": "n.装订所,装订厂",
+  "examples": [
+    "The bindery on server % 1 has been backed up.",
+    "Unable to backup bindery on server % 1. Out of temporary disk space.",
+    "No supervisor privileges for % 1. The bindery will not be backed up."
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "word": "deconvolve",
+  "phonetic": "ˌdiːkənˈvɒlv",
+  "phoneticUs": "",
+  "meaning": "vt.[计]去...卷积,展开...卷积",
+  "examples": [
+    "This paper demonstrates the application of AR spectral estimation to obtain the vertical transfer function of induction log, and to deconvolve the induction logging data with it for calibration."
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "word": "authenticator",
+  "phonetic": "ɔːθentɪˌkeɪtə",
+  "phoneticUs": "ɔːˈθentɪˌkeɪtər",
+  "meaning": "n.证明者,认证者",
+  "examples": [
+    "Configure the authenticator bean as shown in Listing 5.",
+    "An Authenticator class that actually verifies the given user against the database.",
+    "The Authenticator consults the user registry and makes authentication decisions.",
+    "Blizzard also disputes claims that the Authenticator is required to achieve a minimal level of ccount security.",
+    "Even though the company frequently receives complaints about accounts being hacked, it simply tells the customer to attach an authenticator to their account."
+  ]
+}

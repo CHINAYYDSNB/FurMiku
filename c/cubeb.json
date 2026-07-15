@@ -1,0 +1,11 @@
+{
+  "word": "cubeb",
+  "phonetic": "ˈkjuːbeb",
+  "phoneticUs": "",
+  "meaning": "n.[植] 荜澄茄,<美>含有荜澄茄粉的药用香烟(用于治疗粘膜炎)",
+  "examples": [
+    "AIM: To study antiasthmatic effect of citral from aqueous extract of fruit of cubeb litsea tree and its mechanism.",
+    "In another example, if [CubeB]. [Time] has instead the members 2007 and 2008_1, then the virtual cube in the previous example has the members 2007, 2008, 2008_1 and 2009.",
+    "A query against 2007 returns data from its parent cube [CubeB], and a query against the merged member 2008 returns the results from both [CubeA] and [CubeB] according to the merge operator."
+  ]
+}

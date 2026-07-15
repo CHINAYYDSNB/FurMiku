@@ -1,0 +1,12 @@
+{
+  "word": "connectionless",
+  "phonetic": "kəˈnekʃnləs",
+  "phoneticUs": "kəˈnekʃnləs",
+  "meaning": "无连接",
+  "examples": [
+    "First, it is connectionless.",
+    "UDP is a connectionless protocol and, as such, it can be easily spoofed.",
+    "UDP packet or user datagram: UDP is an unreliable, connectionless protocol.",
+    "The Internet, by contrast, is a connectionless network designed for routing packets of data."
+  ]
+}

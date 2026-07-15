@@ -1,0 +1,13 @@
+{
+  "word": "acid",
+  "phonetic": "ˈæsɪd",
+  "phoneticUs": "ˈæsɪd",
+  "meaning": "n.酸,<俚>迷幻药;adj.酸的,讽刺的,刻薄的;\"atomicity,consistency,isolation,and durability\" 原子性,一致性,不相关性和持久性",
+  "examples": [
+    "Rye is tolerant of poor, acid soils.",
+    "Acid corrodes metal.",
+    "Carbolic acid is usually used for cleaning.",
+    "Storing large quantities of electricity has long been the domain of 150-year-old lead-acid chemistry.",
+    "The ACID properties (atomicity, consistency, isolation, durability) have been drilled into our heads."
+  ]
+}

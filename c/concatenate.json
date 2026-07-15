@@ -1,0 +1,11 @@
+{
+  "word": "concatenate",
+  "phonetic": "kɒnˈkætɪˌneɪt",
+  "phoneticUs": "kənˈkæt(ə)nˌeɪt",
+  "meaning": "v.连接",
+  "examples": [
+    "Concatenate strings instead of formatting them.",
+    "To concatenate multiple String literals, use the + operator.",
+    "Often, you need to concatenate a variable between two strings."
+  ]
+}

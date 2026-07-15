@@ -1,0 +1,11 @@
+{
+  "word": "adjoint",
+  "phonetic": "ˈædˌdʒɔɪnt",
+  "phoneticUs": "əˈdʒɔɪnt",
+  "meaning": "n.[数]伴随矩阵",
+  "examples": [
+    "We will have to compute something called the adjoint matrix.",
+    "The time to integrate adjoint equations can be shortened.",
+    "Perturbation calculation in reactor physics requires the neutron adjoint eigenvalue equation."
+  ]
+}

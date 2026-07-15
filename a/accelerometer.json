@@ -1,0 +1,13 @@
+{
+  "word": "accelerometer",
+  "phonetic": "əkˌseləˈrɒmɪtə(r)",
+  "phoneticUs": "əkˌseləˈrɑːmɪtər",
+  "meaning": "n.加速计",
+  "examples": [
+    "Games: Accelerometer API, Mouse Lock API.",
+    "It used the phone's accelerometer to sense a fall.",
+    "You control pitch and roll with the accelerometer.",
+    "Keyglove is an Arduino and AVR-powered device that also incorporates an accelerometer to control mouse movements.",
+    "Startup Fitbit makes a thumb-size, accelerometer- equipped device that tracks users' steps, sleep and calories burned."
+  ]
+}

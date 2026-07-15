@@ -1,0 +1,11 @@
+{
+  "word": "crosshatch",
+  "phonetic": "ˈkrɒsˌhætʃ",
+  "phoneticUs": "ˈkrɔːsˌhætʃ",
+  "meaning": "vt.以交叉线作出阴影,画出交叉阴影线",
+  "examples": [
+    "Dark denim with a clean finish and subtle crosshatch texture.",
+    "The easiest way to check alignment is to display a white-on-black crosshatch pattern and inspect the individual bright lines.",
+    "The CrossHatch shader is a good example of how a surface shader can be used to pipe information from other nodes, including other material nodes, to a surface via its Shading Group."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "word": "atapi",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "AT Attachment Packet Interface,AT附件包接口",
+  "examples": [
+    "Most of the hardware aspects: ATAPI interface currently supports a handful of SCSI interface.",
+    "Note 1: if the system does not fully support the ATAPI CD-ROM specifications, you will encounter failure when trying to access the devices.",
+    "The ATAPI specification defines a command called IDLE IMMEDIATE that idles the HDD and retracts the disk heads to prevent them from hitting the platters."
+  ]
+}

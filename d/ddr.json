@@ -1,0 +1,13 @@
+{
+  "word": "ddr",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Double Data Rate 是目前SDRAM的更新产品",
+  "examples": [
+    "Networks of 1GB ethernet and DDR IB connect these nodes.",
+    "“After all,” says one of my hosts, “this is a DDR environment.”",
+    "All test results were obtained using a 1.4ghz Athlon system with 256mb of DDR RAM, running RedHat Linux 7.2.",
+    "All the while, DDR has gained steam as a less expensive alternative to RDRAM.",
+    "The current toggle DDR 1.0 specification applies a DDR interface to conventional single data rate (SDR) NAND architecture."
+  ]
+}

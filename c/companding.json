@@ -1,0 +1,11 @@
+{
+  "word": "companding",
+  "phonetic": "kəmˈpændɪŋ",
+  "phoneticUs": "kəmˈpændɪŋ",
+  "meaning": "[电子]压缩扩展",
+  "examples": [
+    "Linear mapping (no companding).",
+    "In this paper, a new adaptive delta modulation (ADM) method, hybrid companding delta modulation with algorithm (AHDM), is proposed for speech coding.",
+    "This paper provides a new method to regulate the step length of FWCM by nonlinear companding in time domain, so that the error distribution can be controlled in circuit simulation."
+  ]
+}

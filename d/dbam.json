@@ -1,0 +1,9 @@
+{
+  "word": "dbam",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "n.[计] 数据库存取方法",
+  "examples": [
+    "In this paper we propose a new discrete bidirectional associative memory (DBAM) which is derived from our previous continuous linear bidirectional associative memory (LBAM)."
+  ]
+}

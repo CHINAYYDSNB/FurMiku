@@ -1,0 +1,11 @@
+{
+  "word": "aeroacoustics",
+  "phonetic": "ˌeərəʊəˈkuːstɪks",
+  "phoneticUs": "",
+  "meaning": "[复]n.[用作单]空气声学(研究声音在空气中的传播及其对环境的影响)",
+  "examples": [
+    "Finally the feasibility of spectral element methods for Computational Aeroacoustics is verified.",
+    "Overlap grid is selected for helping calculate aeroacoustics following and apply symmetrical boundary condition.",
+    "A computational aeroacoustics approach is applied to studying sound propagation in subsonic and supersonic nozzle."
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "word": "amperage",
+  "phonetic": "ˈæmpərɪdʒ",
+  "phoneticUs": "ˈæmpərɪdʒ",
+  "meaning": "n.安培数",
+  "examples": [
+    "Calculates by any two of wattage, voltage, amperage.",
+    "A voltammeter is a device for measuring voltage or amperage.",
+    "A good battery can accept and hold a charge, and deliver its rated amperage on demand.",
+    "For this reason battery performance is usually measured in watts (a unit of energy calculated by multiplying voltage x amperage) per liter or watts per kilogram."
+  ]
+}

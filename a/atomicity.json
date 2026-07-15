@@ -1,0 +1,12 @@
+{
+  "word": "atomicity",
+  "phonetic": "ˌætəˈmɪsəti",
+  "phoneticUs": "ˌætəˈmɪsəti",
+  "meaning": "n.原子数",
+  "examples": [
+    "Atomicity enables the two operations—the subtraction from the savings account and the addition to the checking account—to be treated as a single transaction.",
+    "A log operation might not participate in atomicity at all.",
+    "Separating the data and indexes raised issues of consistency and atomicity.",
+    "The ACID properties (atomicity, consistency, isolation, durability) have been drilled into our heads."
+  ]
+}

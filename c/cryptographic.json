@@ -1,0 +1,13 @@
+{
+  "word": "cryptographic",
+  "phonetic": "ˌkrɪptəˈɡræfɪk",
+  "phoneticUs": "ˌkrɪptəˈɡræfɪk",
+  "meaning": "adj.关于暗号的,用密码写的",
+  "examples": [
+    "One of the museum exhibits is this underground magnet antenna from the Bita cryptographic hardware.",
+    "I first discovered the Napoleonic cryptographic battle a few years ago when I was reading Sir Charles Oman's epic History of the Peninsular War.",
+    "We need to implement cryptographic functionality as well.",
+    "By then Windows 2000, which embeds most major cryptographic algorithms and protocols, may hit critical mass.",
+    "The encryption keys do not pass through the central servers and all cryptographic operations are performed on the client side."
+  ]
+}

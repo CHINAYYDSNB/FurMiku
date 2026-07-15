@@ -1,0 +1,13 @@
+{
+  "word": "buffer",
+  "phonetic": "ˈbʌfə(r)",
+  "phoneticUs": "ˈbʌfər",
+  "meaning": "n.缓冲,缓冲器",
+  "examples": [
+    "For each line in the line buffer for a CU, we need to check for the low address match to find the first line number.",
+    "Many of the crashes resulting from fuzz testing are direct results of memory allocation mistakes and buffer overflows.",
+    "She often had to act as a buffer between father and son.",
+    "\"We think that could provide quite a buffer for the hormone replacement franchise, \" Goldstein says.",
+    "Everyone agrees on the destination: lots more pure equity, the highest-quality buffer against losses."
+  ]
+}

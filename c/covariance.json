@@ -1,0 +1,11 @@
+{
+  "word": "covariance",
+  "phonetic": "kəʊˈveərɪəns",
+  "phoneticUs": "koʊˈveriəns",
+  "meaning": "n.[统]协方差",
+  "examples": [
+    "The distinction between covariance and contravariance is important for computations with tensors, which often have mixed variance.",
+    "Another concept that's very basic here is covariance.",
+    "Covariance is a measure of how much two variables move together."
+  ]
+}

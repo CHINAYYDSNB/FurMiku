@@ -1,0 +1,11 @@
+{
+  "word": "astatically",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "adv.不稳定地,不安定地",
+  "examples": [
+    "As we described in the previous section, astatically typed language binds the type to a variable for the lifetime of that variable.",
+    "In the case of astatically loaded module, the list was constructed at compile-time, and so no special run-time directives are necessary.",
+    "Under working loads, the distribution of moments in astatically indeterminate structure is based on elastic theory and the whole structure remains in the elastic range."
+  ]
+}

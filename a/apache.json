@@ -1,0 +1,13 @@
+{
+  "word": "apache",
+  "phonetic": "əˈpætʃi",
+  "phoneticUs": "əˈpætʃi",
+  "meaning": "n.美洲印第安人的一种族",
+  "examples": [
+    "Mongrel, our Web server, does not serve static data particularly well, so we use Apache to serve image content.",
+    "Add Apache configuration information.",
+    "Apache (Recommended).",
+    "Spencer based Asterisk on Apache , the freebie software that powers many a Web server.",
+    "Steven Farris is hoping to replicate the success Apache has already had in the basin."
+  ]
+}

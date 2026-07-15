@@ -1,0 +1,11 @@
+{
+  "word": "acyclic",
+  "phonetic": "ˌeɪˈsaɪklɪk",
+  "phoneticUs": "ˌeɪˈsaɪklɪk",
+  "meaning": "adj.非循环的,[化]无环的,脂肪族的",
+  "examples": [
+    "The graph must be acyclic to avoid program scheduling deadlocks.",
+    "Algorithm to find a hierarchy tree in a directed acyclic graph?",
+    "Is it practical to store unique paths through a directed acyclic graph?"
+  ]
+}

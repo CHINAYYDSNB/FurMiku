@@ -1,0 +1,11 @@
+{
+  "word": "cifs",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Common Internet File System,通用Internet文件系统",
+  "examples": [
+    "CIFS - Common Internet File System.",
+    "Typically, PC clients must define drive mappings to use the CIFS exported file shares.",
+    "The first filesystem backend I'm targeting is an extremely unusual one: it's a CIFS backend."
+  ]
+}

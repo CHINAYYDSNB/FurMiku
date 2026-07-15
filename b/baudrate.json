@@ -1,0 +1,10 @@
+{
+  "word": "baudrate",
+  "phonetic": "ˈbɔːdreɪt",
+  "phoneticUs": "ˈbɔːdreɪt",
+  "meaning": "波特率",
+  "examples": [
+    "The problem with your UART baudrate may be clock related.",
+    "Depending on the oscillator frequency of the target system and the baudrate which should be used, it might be necessary to change the reload value of a baudrate timer."
+  ]
+}

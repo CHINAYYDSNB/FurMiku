@@ -1,0 +1,10 @@
+{
+  "word": "autorotate",
+  "phonetic": "ˌɔːtəʊˈrəʊteɪt",
+  "phoneticUs": "ˌɔːtoʊroʊˈteɪt",
+  "meaning": "vi.[空]自转(旋翼机式或直升机的旋翼不借机动力自转)",
+  "examples": [
+    "If they lose power while flying, they can autorotate down and land without sustaining any damage due to their flexible structure that deflects upon impact.",
+    "Now, iOS containers (such as UINavigationController) do not consult their children to determine whether they should autorotate."
+  ]
+}

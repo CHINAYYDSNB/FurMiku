@@ -1,0 +1,11 @@
+{
+  "word": "deconvolution",
+  "phonetic": "ˌdiːkɒnvəˈluːʃ(ə)n",
+  "phoneticUs": "",
+  "meaning": "n.[计]去卷积,反褶积",
+  "examples": [
+    "A seismic blind deconvolution method based on negative entropy was discussed.",
+    "The APEX method is an FFT-based direct blind deconvolution technique that can recover complex texture imagery quickly.",
+    "They can handle the white noise deconvolution fused filtering, smoothing and prediction problems in a unified framework."
+  ]
+}

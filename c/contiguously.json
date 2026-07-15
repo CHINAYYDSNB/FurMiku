@@ -1,0 +1,12 @@
+{
+  "word": "contiguously",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "adv.接触地,连续地",
+  "examples": [
+    "All the raw data in a section must be loaded contiguously.",
+    "Most string representations store all their characters contiguously in memory.",
+    "The blade shape was measured using non contiguously method of laser projection.",
+    "And since columns are stored contiguously, and tend to have similar data, compression can be very efficient, and searches along a column are likewise efficient."
+  ]
+}

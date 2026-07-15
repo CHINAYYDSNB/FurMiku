@@ -1,0 +1,11 @@
+{
+  "word": "chrominance",
+  "phonetic": "ˈkrəʊmɪnəns",
+  "phoneticUs": "ˈkroʊmɪnəns",
+  "meaning": "n.[物]色度(任意一种颜色与亮度相同的一个指定的参考色之间的差异,如彩色电视采用白色为参考色)",
+  "examples": [
+    "After being treated, the wastewater looks transparent. Both BOD and COD values are lowered for 60%. The suspension removed rate to 91%, and chrominance for 77%.",
+    "This paper presents a \"waveform display method\" for checking the colour TV Chrominance Delay Line in the factory, and introduces a simple, practical and self-made test-signal generator.",
+    "Applying the theory of multi dimensional digital signal processing, this paper analyses the 2-dimensional interleaving structure of luminance and chrominance spectrum for the PAL signal."
+  ]
+}

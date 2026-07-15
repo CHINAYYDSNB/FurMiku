@@ -1,0 +1,11 @@
+{
+  "word": "dde",
+  "phonetic": "ˌdiː diː ˈiː",
+  "phoneticUs": "ˌdiː diː ˈiː",
+  "meaning": "Dynamic Data Exchange 动态数据交换",
+  "examples": [
+    "Each units are connected by DDE protocol.",
+    "The DDE agreement is applied to exchange data and communicate.",
+    "There is no second outgoing call on same channel in DDE conversation."
+  ]
+}

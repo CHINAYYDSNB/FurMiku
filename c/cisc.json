@@ -1,0 +1,12 @@
+{
+  "word": "cisc",
+  "phonetic": "sɪsk",
+  "phoneticUs": "",
+  "meaning": "complex instruction set computing,复杂指令集计算",
+  "examples": [
+    "Intel's 80x86 family is the quintessential example of CISC.",
+    "In fact, most modern CISC processors actually translate their instructions to an internalized RISC format for efficiency.",
+    "With the practical situation of ironstone resource utilization in CISC, linear programming is adopted for the optimization model.",
+    "Joel Birnbaum was the head of HP Labs at the time and he knew that RISC (Reduced Instruction Set Computing)architecture was the future and not CISC (Complex Instruction Set Computing)."
+  ]
+}

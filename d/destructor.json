@@ -1,0 +1,12 @@
+{
+  "word": "destructor",
+  "phonetic": "dɪsˈtrʌktə(r)",
+  "phoneticUs": "dɪˈstrʌktər",
+  "meaning": "n.破坏者,垃圾焚毁炉,爆炸装置",
+  "examples": [
+    "Modeling constructor, destructor, and copy constructor.",
+    "In Listing 24, the constructor of F is called before F2; likewise for the destructor.",
+    "The constructor and destructor methods of this object do the necessary setup and cleanup.",
+    "The main suspects for causing bee deaths are viruses and other pests acting in tandem, especially the aptly named Varroa destructor mite."
+  ]
+}

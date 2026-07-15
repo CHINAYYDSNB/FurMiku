@@ -1,0 +1,11 @@
+{
+  "word": "covariant",
+  "phonetic": "kəʊˈveəriənt",
+  "phoneticUs": "koʊˈveriənt；koʊˈværiənt",
+  "meaning": "adj.[物]协变式的,[数]协变的",
+  "examples": [
+    "And while IList isn't covariant, a read-only list interface would be.",
+    "By using this method, we can realize the phase-covariant quantum cloning by four steps.",
+    "This decomposition may give another definition of high order tensor's covariant derivative."
+  ]
+}

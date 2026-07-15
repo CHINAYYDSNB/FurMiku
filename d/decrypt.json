@@ -1,0 +1,13 @@
+{
+  "word": "decrypt",
+  "phonetic": "diːˈkrɪpt",
+  "phoneticUs": "diːˈkrɪpt",
+  "meaning": "v.译(电文),解释明白",
+  "examples": [
+    "Decrypt the incoming SOAP message.",
+    "The server is now able to decrypt the conversation key.",
+    "Decrypt the request if the security policies dictate it.",
+    "Doe on February 24th, 2012 overturned a contempt of court ruling for refusing to decrypt.",
+    "Colossus was built during World War II to decrypt the high-level messages sent between Hitler and his generals."
+  ]
+}
