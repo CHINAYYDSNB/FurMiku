@@ -1,0 +1,11 @@
+{
+  "word": "regressor",
+  "phonetic": "rɪˈɡresə",
+  "phoneticUs": "",
+  "meaning": "n.[统]回归量",
+  "examples": [
+    "R2 generally increases when a regressor is added to a regression.",
+    "The condition, which they imposed on the distribution of the regressor variable X in their construction of the estimators, is very restrictive.",
+    "For increasing the speed of convergence of the signed regressor constant modulus algorithm (SRCMA), a fast SRCMA algorithm suitable for real BPSK signals is presented."
+  ]
+}

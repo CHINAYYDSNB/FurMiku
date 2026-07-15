@@ -1,0 +1,9 @@
+{
+  "word": "farmost",
+  "phonetic": "ˈfɑːˌməʊst",
+  "phoneticUs": "fɑːrˈmoʊst",
+  "meaning": "adj.最远的",
+  "examples": [
+    "In practice, if the current string is shorter than the previous one or if the matching length is longer than the farmost index distance or if it's the best matching, searching operation is ended."
+  ]
+}

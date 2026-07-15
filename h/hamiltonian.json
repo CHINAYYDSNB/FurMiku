@@ -1,0 +1,11 @@
+{
+  "word": "hamiltonian",
+  "phonetic": "ˌhæməlˈtəʊnɪən",
+  "phoneticUs": "ˌhæməlˈtoʊniən",
+  "meaning": "n.[物]哈密尔敦函数",
+  "examples": [
+    "The stability of Hamiltonian systems with time delay was investigated.",
+    "For a system, Hamiltonian is invariant under any translation of spatial coordinates.",
+    "The phenomenon of measure synchronization is an important property in coupled Hamiltonian systems."
+  ]
+}

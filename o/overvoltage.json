@@ -1,0 +1,11 @@
+{
+  "word": "overvoltage",
+  "phonetic": "ˌəʊvəˈvəʊltɪdʒ",
+  "phoneticUs": "ˌoʊvərˈvoʊltɪdʒ",
+  "meaning": "n.[电][化]过电压,[电子]超电压,过电压",
+  "examples": [
+    "For clarity, the figure omits overvoltage diodes and protection circuits.",
+    "Components used to reduce the Overvoltage Category shall comply with the requirements of IEC 61643-series.",
+    "Series HSD35 has complete electrical protection from overvoltage, reverse voltage, and output short circuits."
+  ]
+}

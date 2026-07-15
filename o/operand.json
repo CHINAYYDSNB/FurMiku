@@ -1,0 +1,11 @@
+{
+  "word": "operand",
+  "phonetic": "ˈɒpərænd",
+  "phoneticUs": "ˈɑːpərænd",
+  "meaning": "[计] 操作数",
+  "examples": [
+    "Click the operand?",
+    "Fetches the required operands from the operand stack.",
+    "If the character is an operand, push it onto the stack."
+  ]
+}

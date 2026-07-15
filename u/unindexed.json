@@ -1,0 +1,10 @@
+{
+  "word": "unindexed",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "adj.没有索引的,未编入索引的",
+  "examples": [
+    "In some cases, joining on unindexed columns can result in a slow query.",
+    "I also unindexed the user's picture URL, a new feature that lets me create a nicer report on the UI."
+  ]
+}

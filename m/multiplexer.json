@@ -1,0 +1,13 @@
+{
+  "word": "multiplexer",
+  "phonetic": "ˈmʌltəpleksə(r)",
+  "phoneticUs": "ˈmʌltɪˌpleksər",
+  "meaning": "n.多路(复用)器",
+  "examples": [
+    "Each multiplexer instance is deployed as a separate process.",
+    "This layer acts as the data multiplexer for all other layers.",
+    "Drag onto the page to add a 8 - channel multiplexer or demultiplexer.",
+    "In order to utilize the total number of available sensors, the board uses an analog multiplexer.",
+    "The traffic was combined by the IAD, and fed down the DSL line to a Choice One DSL multiplexer in the local Bell Atlantic switching office."
+  ]
+}

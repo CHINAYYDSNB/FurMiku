@@ -1,0 +1,10 @@
+{
+  "word": "netfs",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "National Educational Television Film Service 全国教育电视片服务部",
+  "examples": [
+    "It means that once the network service has started, we can then start the NTPD, netfs, and autofs services in parallel.",
+    "With the traditional service startup method, starting the network, NTPD, netfs, and autofs services would take 40 seconds."
+  ]
+}

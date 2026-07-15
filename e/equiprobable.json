@@ -1,0 +1,10 @@
+{
+  "word": "equiprobable",
+  "phonetic": "ˌiːkwɪˈprɒbəbəl",
+  "phoneticUs": "ˌiːkwəˈprɑːbəbəl; ˌekwəˈprɑːbəbəl",
+  "meaning": "adj.等概率的",
+  "examples": [
+    "At any given time, it is not true that all the Numbers are equiprobable.",
+    "If rand is a linear congruential RNG, number sequences show a pattern which means that at any given time it is not true that all the Numbers are equiprobable."
+  ]
+}

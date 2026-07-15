@@ -1,0 +1,11 @@
+{
+  "word": "dynode",
+  "phonetic": "ˈdaɪnəʊd",
+  "phoneticUs": "ˈdaɪˌnoʊd",
+  "meaning": "n.[电子]打拿极,倍增器电极",
+  "examples": [
+    "A circuit for taking out timing signal from one dynode of photomultiplier is described.",
+    "The dynode signal generation principle is analyzed and its timing characteristic studied.",
+    "Electrons are accelerated by making the voltage of each successive dynode of the tube more positive than the previous one."
+  ]
+}

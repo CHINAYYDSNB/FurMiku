@@ -1,0 +1,11 @@
+{
+  "word": "tabid",
+  "phonetic": "ˈtæbɪd",
+  "phoneticUs": "ˈtæbɪd",
+  "meaning": "adj.衰弱的,憔瘦的",
+  "examples": [
+    "Note the use of TABLEID attribute instead of TABID when multiple table references occur.",
+    "Fragmented statistics of a column is uniquely identified by the combination of tabid, fragid, and colno.",
+    "The TABLE or TABID attribute and the FIRST attribute have the same meaning as for the XISCAN guideline discussed previously."
+  ]
+}

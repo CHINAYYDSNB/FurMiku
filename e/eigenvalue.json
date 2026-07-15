@@ -1,0 +1,11 @@
+{
+  "word": "eigenvalue",
+  "phonetic": "ˈaɪɡənˌvæljuː",
+  "phoneticUs": "ˈaɪɡənˌvæljuː",
+  "meaning": "n.[数.物]特征值",
+  "examples": [
+    "Including the calculation of matrix eigenvalue problem, error and so on.",
+    "The eigenvalue of covariance matrix can be used to separate signal from noise.",
+    "In this paper, two kinds of structure inverse eigenvalue problems are discussed."
+  ]
+}

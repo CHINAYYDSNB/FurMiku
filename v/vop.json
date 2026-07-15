@@ -1,0 +1,11 @@
+{
+  "word": "vop",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "v.o.p. valued as in original policy (保险业用语)估价如原保险单所载",
+  "examples": [
+    "The new shading workflow will be presented based around the Surface Model VOP.",
+    "Arbitrary shape VOP coding using subband DCT with a new region partitioning method is proposed.",
+    "It decomposes sequences into video object planes (VOPs) so that each VOP represents one moving object."
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "word": "singleton",
+  "phonetic": "ˈsɪŋɡltən",
+  "phoneticUs": "ˈsɪŋɡltən",
+  "meaning": "n.一个,独身,单独",
+  "examples": [
+    "We could either implement each state as a Singleton, or create a factory of states which creates and manages the states.",
+    "Bank is a 38-year-old singleton who grew up in Philadelphia.",
+    "Product inference engine, singleton fuzzifier and center average defuzzifier were used to calculate outputs.",
+    "At the same time, Singleton is looking to integrate the Internet into his grand scheme.",
+    "Actually, the 48-year-old Singleton hasn't slowed a bit, despite the onset of multiple sclerosis."
+  ]
+}

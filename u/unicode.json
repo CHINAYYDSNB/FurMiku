@@ -1,0 +1,12 @@
+{
+  "word": "unicode",
+  "phonetic": "ˈjuːnɪˌkəʊd",
+  "phoneticUs": "ˈjuːnɪˌkoʊd",
+  "meaning": "n.统一的字符编码标准,采用双字节对字符进行编码",
+  "examples": [
+    "A group called the Unicode Consortium works on choosing emojis.",
+    "The message contains Unicode characters and has been sent as a binary attachment.",
+    "Use Unicode character properties",
+    "Dimitri said that he used the so-called Unicode bug to get access to Microsoft's systems."
+  ]
+}

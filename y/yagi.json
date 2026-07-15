@@ -1,0 +1,11 @@
+{
+  "word": "yagi",
+  "phonetic": "ˈjɑːɡɪ",
+  "phoneticUs": "ˈjæɡi",
+  "meaning": "[无]n.八木天线,引向反射天线",
+  "examples": [
+    "The frequency response and radiation characteristics of a microstrip Yagi Array antenna were studied.",
+    "The Finite Difference Time Domain(FDTD) method was used to calculate the Voltage Standing Wave Ratio(VSWR) of a quasi-Yagi antenna.",
+    "A microstrip Yagi antenna that employs a 2-d EBG (Electromagnetic Band-gap) ground plane as the reflector is presented in this paper."
+  ]
+}

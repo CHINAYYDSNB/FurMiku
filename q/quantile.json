@@ -1,0 +1,11 @@
+{
+  "word": "quantile",
+  "phonetic": "ˈkwɒntaɪl",
+  "phoneticUs": "ˈkwɑːntaɪl",
+  "meaning": "n.[统]分位数",
+  "examples": [
+    "RUNSTATS with frequency and quantile statistics.",
+    "The table shows the quantile statistics for the column \"STATE.\"",
+    "If you set this parameter to zero or \"1\", no quantile statistics are collected."
+  ]
+}

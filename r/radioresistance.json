@@ -1,0 +1,11 @@
+{
+  "word": "radioresistance",
+  "phonetic": "ˈreɪdɪəʊrɪˈzɪstəns",
+  "phoneticUs": "ˌreɪdɪoʊrɪˈzɪstəns",
+  "meaning": "n.[生化]辐射抵抗",
+  "examples": [
+    "Glioma is the most common neoplasm in brain, which is commonly considered as the tumor tissues with high radioresistance.",
+    "Comparatively, as IRM-2 mice are of radioresistance, the role of DNA damage caused by radiation and damage repair can be observed directly invivo.",
+    "This paper presents a hardware structure-independent weight-based fault injection model for accurate emulation of the radioresistance in the SRAM-based FPGA."
+  ]
+}

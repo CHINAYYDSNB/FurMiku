@@ -1,0 +1,11 @@
+{
+  "word": "uddi",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "\"Universal,Description,Discovery and Integration\",通用描述、发现和集成服务",
+  "examples": [
+    "Service discovery support (UDDI).",
+    "UDDI data is published to and stored in a UDDI registry.",
+    "All compliant implementations of UDDI support the UDDI specification."
+  ]
+}

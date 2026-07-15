@@ -1,0 +1,9 @@
+{
+  "word": "lemmatize",
+  "phonetic": "ˈlemətaɪz",
+  "phoneticUs": "",
+  "meaning": "vt.把(文中的词)按屈折变化形式 (或异体形式) 进行归类",
+  "examples": [
+    "I didn't know how to handle those problems until I found the NLTK(nature language tools kit). I used the NLTK to lemmatize those words to a normal form."
+  ]
+}

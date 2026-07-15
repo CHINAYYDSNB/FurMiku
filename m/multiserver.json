@@ -1,0 +1,11 @@
+{
+  "word": "multiserver",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "n.多服务器",
+  "examples": [
+    "Cannot add a multiserver job to a local job category.",
+    "Cannot add a local job to a multiserver job category.",
+    "It USES online dual backup or multiserver redundance plan in all nodes, which meets realtime demand and process protected by hardware switching."
+  ]
+}

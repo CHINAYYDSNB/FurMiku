@@ -1,0 +1,11 @@
+{
+  "word": "minification",
+  "phonetic": "ˌmɪnɪfɪˈkeɪʃən",
+  "phoneticUs": "mɪnɪfɪˈkeɪʃn",
+  "meaning": "n.缩小倍数,缩率",
+  "examples": [
+    "Can closure compiler use chaining as a minification technique?",
+    "You can use minification for both external and internal style sheets.",
+    "This is where minification is important because gzip alone may not be sufficient."
+  ]
+}

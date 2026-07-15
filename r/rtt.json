@@ -1,0 +1,13 @@
+{
+  "word": "rtt",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "radioteletype",
+  "examples": [
+    "The measured RTT is used to compute the new retransmission timeout value.",
+    "As its name suggests, RTT is most useful when data is required in real-time.",
+    "Since no real time RTT calculation is needed, this method has wide applications.",
+    "Patients not seen within 18 weeks from referral-to-treatment (RTT) incur a financial penalty for the JPUH under the NHS Standard Contract.",
+    "The hospital has also been warned by health watchdog Monitor it must meet RTT waiting time targets by January 2013 or face action."
+  ]
+}

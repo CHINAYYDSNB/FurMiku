@@ -1,0 +1,11 @@
+{
+  "word": "transconductance",
+  "phonetic": "trænskənˈdʌktəns",
+  "phoneticUs": "ˌtrænskənˈdʌktəns",
+  "meaning": "n.[无]跨导",
+  "examples": [
+    "A high-voltage transconductance amplifier.",
+    "To calculate gain and transconductance, refer to the SENSE pin on fixed voltage parts.",
+    "A low voltage fully differential gain-boosted CMOS operational transconductance amplifier is designed."
+  ]
+}

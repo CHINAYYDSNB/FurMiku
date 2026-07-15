@@ -1,0 +1,13 @@
+{
+  "word": "integer",
+  "phonetic": "ˈɪntɪdʒə(r)",
+  "phoneticUs": "ˈɪntɪdʒər",
+  "meaning": "n.整数",
+  "examples": [
+    "The parseInt function parses a string and returns an integer.",
+    "It accepts an integer to factor.",
+    "It's doing integer division.",
+    "We're faster on integer than they are, they're faster on floating point than we are.",
+    "These negotiations will determine the rate of integer-value decay and will revalue numbers accordingly."
+  ]
+}

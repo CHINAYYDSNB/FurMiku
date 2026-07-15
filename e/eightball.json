@@ -1,0 +1,11 @@
+{
+  "word": "eightball",
+  "phonetic": "ˈeɪtbɔːl",
+  "phoneticUs": "ˈeɪtbɔːl",
+  "meaning": "n.撞球中有8记号之黑球",
+  "examples": [
+    "Listing 13 shows a simple WSIL file that references the EightBall service.",
+    "In this case, you are defining the interface to the EightBall service as a standard.",
+    "When you define your implementation of the EightBall service, you will reference the TModel to indicate that your service supports that standard."
+  ]
+}

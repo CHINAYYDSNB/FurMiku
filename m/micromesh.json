@@ -1,0 +1,11 @@
+{
+  "word": "micromesh",
+  "phonetic": "ˈmaɪkrəʊˌmeʃ",
+  "phoneticUs": "ˈmaɪkroʊmeʃ",
+  "meaning": "adj.微型小网眼料子,微型小网眼尼龙",
+  "examples": [
+    "We should pay more attention to the micromesh studying about the original works of the sutra.",
+    "However, design of cryptographic protocols is a very micromesh job, because any tiny mistake may damage security of the protocol.",
+    "We'll start out by talking about the basics of MicroMesh and how it can replace individual polygons with another polygon mesh at render time."
+  ]
+}

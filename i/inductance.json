@@ -1,0 +1,12 @@
+{
+  "word": "inductance",
+  "phonetic": "ɪnˈdʌktəns",
+  "phoneticUs": "ɪnˈdʌktəns",
+  "meaning": "n.感应系数,自感应",
+  "examples": [
+    "An electrical device that introduces inductance into a circuit.",
+    "Electronic ballast is recommended to substitute the inductance ballast.",
+    "This causes a dramatic increase in resistance and a decrease in inductance.",
+    "Even with distributed elements of what appears t be a miniature LOG PERIODIC antenna will have some difficulties with proper impedance matching, ohmic losses and inductance issues to say the least."
+  ]
+}

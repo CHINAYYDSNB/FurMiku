@@ -1,0 +1,13 @@
+{
+  "word": "ini",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "n.[计] 初始化设置文件的后缀名",
+  "examples": [
+    "What should you know about the INI files?",
+    "There are two INI sections: [main] and [users].",
+    "OmegaT +.ini - configuration file for launcher.",
+    "The malware is known by a number of names and is contained in the setup.exe and autorun.ini files.",
+    "It is spread when the infected USB device is inserted into a Microsoft Windows workstation or server whereby the setup.exe and autorun.ini files run automatically."
+  ]
+}

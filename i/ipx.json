@@ -1,0 +1,11 @@
+{
+  "word": "ipx",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Internetwork Packet Exchange,网间网分组交换",
+  "examples": [
+    "Cannot use the IPX net number assigned by the remote server.",
+    "The IPX protocol cannot dial-out on the port because the computer is an IPX router.",
+    "The IPX protocol cannot dial-in on the port because the IPX router is not installed."
+  ]
+}

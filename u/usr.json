@@ -1,0 +1,12 @@
+{
+  "word": "usr",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "U.S.Robotic 公司,著名的调制解调器制造商",
+  "examples": [
+    "visudo is placed in /usr/local/sbin.",
+    "The Gearman daemon is commonly installed in /usr/sbin.",
+    "The corresponding linker name would be /usr/lib/libhello.so.",
+    "\"You come in early, you may stub your toe, make mistakes, \" David La Prade, head of USR Drilling Services, told CNN at a recent oil and gas conference in Yangon."
+  ]
+}

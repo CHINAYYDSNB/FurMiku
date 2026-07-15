@@ -1,0 +1,11 @@
+{
+  "word": "nonpositive",
+  "phonetic": "ˈnɒnˈpɒzətɪv",
+  "phoneticUs": "",
+  "meaning": "adj.[数]非正的,(整数)负的,(函数)负值的",
+  "examples": [
+    "The principal square root function is defined using the nonpositive real axis as a branch cut.",
+    "But the range of exponential values is still not clear although it seems that all exponents are nonpositive real Numbers.",
+    "We concluded that the covariance matrix is nonpositive definite, there is either arbitrage opportunity or efficient subset."
+  ]
+}

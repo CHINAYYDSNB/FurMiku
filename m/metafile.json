@@ -1,0 +1,11 @@
+{
+  "word": "metafile",
+  "phonetic": "ˈmetəfaɪl",
+  "phoneticUs": "ˈmetəfaɪl",
+  "meaning": "n.[计]元文件,(Metafile)图元文件",
+  "examples": [
+    "Why does my metafile \"lose\" a bitmap?",
+    "Cannot update project from project metafile.",
+    "Now, we must reflect every thing we draw in the metafile."
+  ]
+}

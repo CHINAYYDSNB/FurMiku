@@ -1,0 +1,11 @@
+{
+  "word": "subsequence",
+  "phonetic": "ˈsʌbsɪkwəns",
+  "phoneticUs": "ˈsʌbsɪkwəns; ˈsʌbsɪˌkwens",
+  "meaning": "n.后继,随后",
+  "examples": [
+    "Returns the subsequence of the previous match.",
+    "To do that, use the index-of and subsequence functions.",
+    "I use subsequence to retrieve the current word from the sorted sequence."
+  ]
+}

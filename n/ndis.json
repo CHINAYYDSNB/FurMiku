@@ -1,0 +1,11 @@
+{
+  "word": "ndis",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Network Driver Interface Standard,网络驱动器接口标准;Network Driver Interface Specification,网络驱动程序接口规范",
+  "examples": [
+    "Virtual Wi-Fi maps the logical adapters to NDIS ports.",
+    "Simultaneously, we prove this protocol by formalized method and implement this protocol using NDIS Intermediate Drivers.",
+    "This is a debugger to drive the development of a debugger, Compiling and Debugging can be based on the NDIS driver development mechanism."
+  ]
+}

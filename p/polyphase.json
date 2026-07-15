@@ -1,0 +1,11 @@
+{
+  "word": "polyphase",
+  "phonetic": "ˈpɒlɪfeɪz",
+  "phoneticUs": "ˈpɑːliˌfeɪz",
+  "meaning": "adj.多相的",
+  "examples": [
+    "The paper analyses the commutation processes in polyphase brushless DC generators.",
+    "The synchronous hysteresis motor consists of a polyphase-wound stator and a magnetically hard rotor .",
+    "If you remove the polyphase option, you will increase or decrease the pitch of the output sample, depending on the output rate selected."
+  ]
+}

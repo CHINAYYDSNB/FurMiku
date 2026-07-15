@@ -1,0 +1,11 @@
+{
+  "word": "subschema",
+  "phonetic": "ˈsʌbˌskiːmə",
+  "phoneticUs": "",
+  "meaning": "n.子模式",
+  "examples": [
+    "A data schema, especially a data subschema in a relational data system.",
+    "A subschema is a description of only that portion of the database pertinent to a particular user's needs.",
+    "Digraph will be constructed by using the dependence of the left of subset's FD. Some nodes will help to decompose a subschema of BCNF. The key of the subschema is the left or left's equivalence."
+  ]
+}

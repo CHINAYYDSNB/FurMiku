@@ -1,0 +1,11 @@
+{
+  "word": "hotbox",
+  "phonetic": "ˈhɒtbɒks",
+  "phoneticUs": "ˈhɑːtˌbɑːks",
+  "meaning": "n.过热的轴承箱",
+  "examples": [
+    "The infrared hotbox detection system that has being used in the railway transportation field in China has the problem of low reliability.",
+    "The main topic of this paper is the design of algorithm and software on the information processing of the Infrared Hotbox Detection System III (abbreviation as HBDS-III).",
+    "The information processing of HBDS-III includes four main modules: Counting of Axles and Cars, Temperature Computation, Rolling and Sliding Bearing Distinguishment, Hotbox Forecast."
+  ]
+}

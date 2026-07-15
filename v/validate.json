@@ -1,0 +1,13 @@
+{
+  "word": "validate",
+  "phonetic": "ˈvælɪdeɪt",
+  "phoneticUs": "ˈvælɪdeɪt",
+  "meaning": "vt.[律]使有效,使生效,确认,证实,验证",
+  "examples": [
+    "The Academy Awards appear to validate his career.",
+    "This discovery seems to validate the claims of popular astrology.",
+    "If I want to validate this code in a white box manner, I have to separate UI-specific code from business code, which requires some refactoring.",
+    "We naturally look for the self in others, and seek relationships that will validate our selves.",
+    "The challenge is to actually validate that your guess about the pain is real."
+  ]
+}

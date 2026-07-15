@@ -1,0 +1,11 @@
+{
+  "word": "sunos",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Sun公司出品的操作系统",
+  "examples": [
+    "SunOS version 1.0 was first introduced in 1983, along with support for Sun-1 and Sun-2 systems.",
+    "This was a requirement with older versions of UNIX (particularly SunOS) because of the way in which VM was used.",
+    "The slab allocator used in Linux is based on an algorithm first introduced by Jeff Bonwick for the SunOS operating system."
+  ]
+}

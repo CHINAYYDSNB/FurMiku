@@ -1,0 +1,13 @@
+{
+  "word": "fibonacci",
+  "phonetic": "ˌfɪbəˈnɑːtʃi",
+  "phoneticUs": "ˌfɪbəˈnɑːtʃi",
+  "meaning": "numbers[复][数]斐波纳契数列(一种整数数列,其中每数等于前面两数之和)",
+  "examples": [
+    "Listing 7. A Fibonacci sequence in fib.hs.",
+    "Each column corresponds to a Fibonacci number.",
+    "Here the Fibonacci Outgrowth is represented.",
+    "Forbes contributing writer Tom Aspray discussed the use of Fibonacci retracement levels a few days ago.",
+    "Yes, the same Fibonacci numbers that provide the basis for Elliott Wave technical analysis."
+  ]
+}

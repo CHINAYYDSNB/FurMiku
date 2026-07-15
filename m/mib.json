@@ -1,0 +1,13 @@
+{
+  "word": "mib",
+  "phonetic": "mɪb",
+  "phoneticUs": "",
+  "meaning": "Management Information Base,管理信息库",
+  "examples": [
+    "Include the following line: mibs + GPFS-MIB.",
+    "It is the status MIB that we are interested in.",
+    "There are also MIB objects that return tabular data.",
+    "Italy's FTSE MIB index declined 0.6% after its November industrial output fell more than expected.",
+    "Italy's FTSE MIB index slid 0.7%, and the country's government bond prices fell, pushing yields higher."
+  ]
+}

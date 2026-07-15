@@ -1,0 +1,12 @@
+{
+  "word": "incompatibly",
+  "phonetic": "ˌɪnkəmˈpætəbli",
+  "phoneticUs": "ˌɪnkəmˈpætəbli",
+  "meaning": "adv.不相容地,矛盾地",
+  "examples": [
+    "Improper system operating temperatures and chemical incompatibly can cause a variety of functional and structural failures.",
+    "Normally, this error is caught by the compiler; this error can only occur at run time if the definition of a class has incompatibly changed.",
+    "Now, a read transaction can access the currently committed and consistent image of rows that are incompatibly locked by write transactions without being blocked.",
+    "That is further incompatibly assumed with sustained minimal inflation (2.2% in 2016), leaving real interest rates woefully negative at -1%."
+  ]
+}

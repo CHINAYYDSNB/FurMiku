@@ -1,0 +1,11 @@
+{
+  "word": "intertype",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "n.[印]国际牌行式排字机(商标名)",
+  "examples": [
+    "Intertype declarations (and other aspect features) are certainly testable.",
+    "The new types of nodes are aspects, pointcuts, advice, intertype declarations, and declare statements, as shown below.",
+    "AspectJ intertype declarations are used to automatically generate ID and version fields, and getters and setters for persistence fields in domain classes."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "word": "functor",
+  "phonetic": "ˈfʌŋktə(r)",
+  "phoneticUs": "ˈfʌŋktər",
+  "meaning": "n.起作用的东西,算符",
+  "examples": [
+    "Do the functor laws prove complete preservation of structure?",
+    "This type of object is known as a functor or function object.",
+    "When you are designing a functor, it is important to understand the lifetime of these functors."
+  ]
+}

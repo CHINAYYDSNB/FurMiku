@@ -1,0 +1,13 @@
+{
+  "word": "tint",
+  "phonetic": "tɪnt",
+  "phoneticUs": "tɪnt",
+  "meaning": "n.色彩",
+  "examples": [
+    "Its large leaves often show a delicate purple tint.",
+    "We rose-tint our memories and put ourselves into self-affirming situations.",
+    "You'll need the dark tint in the south.",
+    "But it is close to impossible to identify these advisers in advance, according to Mr. Tint.",
+    "To set the status bar tint, add the UIStatusBarTintParameters key to your Info.plist file."
+  ]
+}

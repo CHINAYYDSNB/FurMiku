@@ -1,0 +1,13 @@
+{
+  "word": "mutability",
+  "phonetic": "ˌmjuːtəˈbɪləti",
+  "phoneticUs": "ˌmjuːtəˈbɪləti",
+  "meaning": "n.易变性,性情不定",
+  "examples": [
+    "Hbase is built on top of Hadoop and is designed for low-latency and data mutability.",
+    "Python also has a concept of mutability and immutability: a tuple, for example, is an immutable list.",
+    "This outward mutability indicated, and did not more than fairly express, the various properties of her inner life.",
+    "\"The mutability of the city and its constantly changing landscape, \" Ms. Gibson said.",
+    "After years of goading, a new generation of corporate managers has accepted design, just as it has accepted the constant mutability of the Internet."
+  ]
+}

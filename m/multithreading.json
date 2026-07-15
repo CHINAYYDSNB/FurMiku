@@ -1,0 +1,11 @@
+{
+  "word": "multithreading",
+  "phonetic": "ˌmʌltiˈθredɪŋ",
+  "phoneticUs": "",
+  "meaning": "n.多线索,多线程",
+  "examples": [
+    "Multithreading bundles for steps in this recipe.",
+    "Asynchronous messaging, two-way messaging and multithreading.",
+    "For example, the events loop, multithreading, GUI design, etc."
+  ]
+}

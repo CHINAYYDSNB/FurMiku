@@ -1,0 +1,11 @@
+{
+  "word": "httpd",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "全球网服务器软件",
+  "examples": [
+    "You should see the default HTTPD welcome message: It works!",
+    "Open it with the following command: $ vi /etc/httpd/conf/httpd.conf.",
+    "Next, the process list is queried for the number of HTTPD processes within it."
+  ]
+}

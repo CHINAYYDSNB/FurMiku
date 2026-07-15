@@ -1,0 +1,12 @@
+{
+  "word": "traversable",
+  "phonetic": "ˈtrævəsəbl",
+  "phoneticUs": "ˈtrævərsəbl",
+  "meaning": "adj.可以横过的,可以穿过的,可否定的",
+  "examples": [
+    "In other words, any instance of this class won't be focus traversable.",
+    "Scala: Why does zipped method succeed with tuples of List and not Traversable?",
+    "It's flat and almost entirely traversable if you use the dedicated bike paths that run along the beach.",
+    "In order to deploy effective discovery software, there needs to be a large enough traversable content model to create a satisfying experience."
+  ]
+}

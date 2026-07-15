@@ -1,0 +1,10 @@
+{
+  "word": "transliterator",
+  "phonetic": "trænzˈlɪtəreɪtə",
+  "phoneticUs": "trænsˈlɪtəretər",
+  "meaning": "n.(按另一语言或字母体系进行移译的)直译者,音译者",
+  "examples": [
+    "The main classes that support transliteration capabilities are Transliterator and Normalizer.",
+    "Transliterator: This class provides a transliterate function that can convert the string of characters from one language script to another."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "word": "gpib",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "n.通用接口总线",
+  "examples": [
+    "The following illustration shows a typical GPIB system (see Figure 2.4).",
+    "You can have many instruments and computers connected to the same GPIB bus.",
+    "The GPIB has one Controller, usually your computer, that controls the bus management functions."
+  ]
+}

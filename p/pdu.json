@@ -1,0 +1,11 @@
+{
+  "word": "pdu",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "n.协议数据单元",
+  "examples": [
+    "When the PDU is complete, we send it.",
+    "A power distribution unit (PDU) is nothing more than a glorified power strip.",
+    "There are some helper methods to simplify SNMP variable binding and a method to acquire a new PDU."
+  ]
+}

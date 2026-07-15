@@ -1,0 +1,11 @@
+{
+  "word": "xms",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "extended memory specification,扩展内存规范",
+  "examples": [
+    "The following code sample shows a C++ program written using the XMS API.",
+    "XMS offers a choice of synchronous and asynchronous styles for receiving messages.",
+    "The minimum and maximum heap sizes can be modified by specifying -Xms and -Xmx respectively."
+  ]
+}

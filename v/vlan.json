@@ -1,0 +1,12 @@
+{
+  "word": "vlan",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Virtual Lan,虚拟局域网",
+  "examples": [
+    "This number is called a VLAN tag.",
+    "The technology exploited is VLAN tagging.",
+    "Create a VLAN for each management network.",
+    "Brocade is building technology in VCS that allows a virtual machine to not only be migrated from host to host within the same VLAN but to stretch that across geographically distant hosts as well."
+  ]
+}

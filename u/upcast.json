@@ -1,0 +1,11 @@
+{
+  "word": "upcast",
+  "phonetic": "ˈʌpˌkɑːst",
+  "phoneticUs": "ˈʌpkæst",
+  "meaning": "n.上抛,向上投掷之物,排气竖坑adj.向上抛的,向上的",
+  "examples": [
+    "Once an object has been upcast to an interface type, only the members specified in the interface can be used.",
+    "The idea of inheriting from a base class without being able to downcast to it or upcast to the base just seemed silly.",
+    "When you use the upcast operator, the compiler attempts to infer the type you are converting to from the context."
+  ]
+}

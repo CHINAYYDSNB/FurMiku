@@ -1,0 +1,9 @@
+{
+  "word": "evictor",
+  "phonetic": "ɪˈvɪktə(r)",
+  "phoneticUs": "ɪˈvɪktər",
+  "meaning": "n.逐出者",
+  "examples": [
+    "An evictor removes entries older than 30 minutes to prevent staleness and limiting the size of the cache."
+  ]
+}

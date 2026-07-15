@@ -1,0 +1,11 @@
+{
+  "word": "tomogram",
+  "phonetic": "ˈtɒməˌɡræm",
+  "phoneticUs": "ˈtoʊməˌɡræm",
+  "meaning": "n.[医]X线断层照片",
+  "examples": [
+    "The ultrasonic tomogram of the tumor can be enhanced when a suitable color coded curve selected.",
+    "To reconstruct the 3-dimensioanal image of heart and the region of myocardial ischemia from 2-dimensioanal tomogram of electron beam CT (EBCT).",
+    "How to extract clear and intact fringes from all kinds of noises, especially strongly inhomogeneous background illumination, is the key problem in preprocessing of thermal flow field tomogram."
+  ]
+}

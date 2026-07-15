@@ -1,0 +1,11 @@
+{
+  "word": "pinouts",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "n.[电]插脚引线",
+  "examples": [
+    "It provides a quick reference to standard Ethernet wiring pinouts.",
+    "This section illustrates the Fast Ethernet 100base-tx (RJ-45) connector and lists its pinouts and signal descriptions.",
+    "All byte wide memories have standard SRAM pinouts. they operate like SRAMs and provide nonvolatile storage with no requirement for battery backup."
+  ]
+}

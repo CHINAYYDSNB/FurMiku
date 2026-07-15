@@ -1,0 +1,13 @@
+{
+  "word": "kilobytes",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "n.千字节",
+  "examples": [
+    "Specify the page size in kilobytes.",
+    "Kbps: Reports back the amount of data transferred in kilobytes.",
+    "Note that the size is displayed in 512 byte blocks, not kilobytes.",
+    "Computer storage has traditionally been measured in kilobytes, then megabytes, and now usually gigabytes.",
+    "Sure, he could get 650 kilobytes a second or more from a cable connection."
+  ]
+}

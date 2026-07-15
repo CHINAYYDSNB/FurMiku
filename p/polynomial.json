@@ -1,0 +1,11 @@
+{
+  "word": "polynomial",
+  "phonetic": "ˌpɒliˈnəʊmiəl",
+  "phoneticUs": "ˌpɑːliˈnoʊmiəl",
+  "meaning": "adj.[数]多项式的,[生]多词学名(指由两个以上的词构成的学名)n.多项式,由 2 字以上组成的学名",
+  "examples": [
+    "The equivalence of the two statements can be proven through the use of successive polynomial division.",
+    "Based on the relationship between the group delay function and the cepstral coefficients, the denominator polynomial coefficients can be determined.",
+    "Shor's algorithm, for example, is able to find the period of a function of N bits in polynomial time."
+  ]
+}

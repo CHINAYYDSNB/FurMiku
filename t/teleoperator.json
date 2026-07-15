@@ -1,0 +1,11 @@
+{
+  "word": "teleoperator",
+  "phonetic": "ˌtelɪˈɒpəreɪtə(r)",
+  "phoneticUs": "ˌteləˈɑːpəreɪtər",
+  "meaning": "n.远距离操纵器,遥控操纵装置 遥控机器人",
+  "examples": [
+    "The natural language interface system for controlling space teleoperator in natural language is described.",
+    "A teleoperator is a kind of robot which be widely used in space exploration, ocean exploration, working in dangerous environments and so on.",
+    "It collects the control signals of the teleoperator in a new way. Because these signals are all digital, it makes the collection more credible and safe."
+  ]
+}

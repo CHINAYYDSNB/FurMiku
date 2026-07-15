@@ -1,0 +1,9 @@
+{
+  "word": "rowlock",
+  "phonetic": "ˈrɒlək; ˈrəʊlɒk",
+  "phoneticUs": "ˈrɑːləkˌˈroʊlɑːk",
+  "meaning": "n.桨架",
+  "examples": [
+    "Using a lock hint such as ROWLOCK only alters the initial lock plan. Lock hints do not prevent lock escalation."
+  ]
+}

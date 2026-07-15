@@ -1,0 +1,10 @@
+{
+  "word": "fileopen",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "n.[计] 对话框样本应用程序",
+  "examples": [
+    "If the button is activated, then set the file location using the Workplace Viewer fileOpen function.",
+    "The other notable change is how we execute the work, the \"fileOpen\" identifier does not open the file immediately, it is a workflow, that is an action waiting to happen."
+  ]
+}

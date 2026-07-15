@@ -1,0 +1,11 @@
+{
+  "word": "hypergeometric",
+  "phonetic": "ˈhaɪpəˌdʒɪəʊˈmetrɪk",
+  "phoneticUs": "",
+  "meaning": "distribution [统]超几何分布",
+  "examples": [
+    "In part II, we consider the recurrence formula of double hypergeometric terms.",
+    "In this paper, the inclination functions are expressed as the hypergeometric functions.",
+    "The zeroth order approximation of the solution can be expressed in terms of confluent hypergeometric functions."
+  ]
+}

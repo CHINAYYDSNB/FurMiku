@@ -1,0 +1,13 @@
+{
+  "word": "flyweight",
+  "phonetic": "ˈflaɪweɪt",
+  "phoneticUs": "ˈflaɪweɪt",
+  "meaning": "n.次最轻量级的拳击选手",
+  "examples": [
+    "Figure 14: Object model prior to Flyweight pattern.",
+    "Figure 15: Object model after applying the Flyweight pattern.",
+    "But... applying the Flyweight [GoF] pattern raises a new challenge for our designer.",
+    "On the undercard, Colombian Cesar Canchila outpointed Giovanni Segura to claim the WBA interim light-flyweight championship.",
+    "In the flyweight final, Ren will face Britain's Nicola Adams, who defeated five-time world champion M."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "word": "vliw",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "very long instruction word,超长指令字",
+  "examples": [
+    "VLIW is the latest way to simplify processors.",
+    "Then a VLIW optimizing compiler adopting two-level software pipelining is described.",
+    "The debate between the merits of superscalar and VLIW is not only restricted to the GPP universe."
+  ]
+}

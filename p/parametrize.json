@@ -1,0 +1,11 @@
+{
+  "word": "parametrize",
+  "phonetic": "pəˈræmətraɪz",
+  "phoneticUs": "",
+  "meaning": "vt.确定...的参数 ,用参数表示",
+  "examples": [
+    "Yes? How do you parametrize an ellipse in space?",
+    "This paper proposes a piecewise geometric approach to parametrize a kind of quartic implicit algebraic surface.",
+    "We will add input parameters to the stored procedure that can later be set in the Cognos Report and will parametrize the created mining model."
+  ]
+}

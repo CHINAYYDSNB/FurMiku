@@ -1,0 +1,11 @@
+{
+  "word": "jdbc",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Java Database Connecivity,Java 数据库连接",
+  "examples": [
+    "JDBC connection chart view.",
+    "Next there are six JDBC identifiers.",
+    "JDBC datasource Can be configured to use any JDBC driver."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "word": "potentiostat",
+  "phonetic": "pəˈtenʃiəstæt",
+  "phoneticUs": "",
+  "meaning": "n.[电]恒电势器,稳压器",
+  "examples": [
+    "The basic structure and working principle of potentiostat are introduced.",
+    "The potentiostat prototype is developed based on a single-chip microcontroller (SCM).",
+    "A bias-voltage between two electrodes is supplied by a potentiostat in the experiment."
+  ]
+}

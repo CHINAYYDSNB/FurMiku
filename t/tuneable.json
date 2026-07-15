@@ -1,0 +1,13 @@
+{
+  "word": "tuneable",
+  "phonetic": "ˈtjuːnəbəl",
+  "phoneticUs": "ˈtjʊnəbl",
+  "meaning": "adj.可协调的,能调出和声的,谱好曲的",
+  "examples": [
+    "A tuneable antenna is an antenna that can change resonance frequencies for effective reception of a wide range frequency bands.",
+    "For tuneable loops the inductance can be so high as to limit the useful frequency range and here mobius winding techniques can help out.",
+    "Your eyes are lode-stars and your tongue's sweet air More tuneable than lark to shepherd's ear, When wheat is green, when hawthorn buds appear.",
+    "To replicate this gradual force, Prof Newman and her colleague James Waldie designed a form-fitting suit, incorporating fibres that have a \"tuneable\" elasticity.",
+    "E. you read a simple input csv, split it into training and test set, run a simple algorithm with readily-tuneable or explorable hyperparameters, and a simple output of relevant statistics."
+  ]
+}

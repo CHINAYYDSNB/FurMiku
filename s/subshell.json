@@ -1,0 +1,11 @@
+{
+  "word": "subshell",
+  "phonetic": "ˈsʌbˌʃel",
+  "phoneticUs": "ˈsʌbˌʃel",
+  "meaning": "n.[核]支壳层",
+  "examples": [
+    "Run a list of commands in a subshell.",
+    "The pipe (|) pipes all output of the subshell to SSH.",
+    "The parenthesized series of commands is called a subshell."
+  ]
+}

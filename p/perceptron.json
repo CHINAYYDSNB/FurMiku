@@ -1,0 +1,11 @@
+{
+  "word": "perceptron",
+  "phonetic": "pəˈseptrɒn",
+  "phoneticUs": "pərˈseptrɑːn",
+  "meaning": "n.[计]感知器(模拟人类视神经控制系统的图形识别机)",
+  "examples": [
+    "The perceptron can only solve linearly separable problems.",
+    "There are important differences from the perceptron algorithm.",
+    "A perceptron utilizes weights in a different and perhaps more intuitive way."
+  ]
+}

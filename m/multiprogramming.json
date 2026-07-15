@@ -1,0 +1,11 @@
+{
+  "word": "multiprogramming",
+  "phonetic": "ˌmʌltɪˈprəʊɡræmɪŋ",
+  "phoneticUs": "ˌmʌltiˈproʊˌɡræmɪŋ",
+  "meaning": "n.[计]多道程序设计",
+  "examples": [
+    "In some multiprogramming systems, a value used to define or limit the access rights of programs.",
+    "Assuming the operating system allows multiprogramming, multiple clients are serviced concurrently.",
+    "To reject new jobs in a multiprogramming system, while at the same time continuing to process jobs already entered."
+  ]
+}

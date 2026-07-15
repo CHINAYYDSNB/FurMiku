@@ -1,0 +1,13 @@
+{
+  "word": "ipc",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "interprocess communication,进程间通信",
+  "examples": [
+    "Shared memory and event caching for ipc.",
+    "Listing 3 shows how the server side of the IPC works.",
+    "The IPC plays an important role in improving farmers' livelihoods.",
+    "Yet the IPC may not last long enough for any of this to matter.",
+    "It is unlikely the IPC will start to consider its recommendations until February next year."
+  ]
+}

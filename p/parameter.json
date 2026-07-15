@@ -1,0 +1,13 @@
+{
+  "word": "parameter",
+  "phonetic": "pəˈræmɪtə(r)",
+  "phoneticUs": "pəˈræmɪtər",
+  "meaning": "n.参数,参量,<口>起限定作用的因素",
+  "examples": [
+    "If you have enough RAM, set the value of this parameter as large as possible to decrease the indexing time dramatically.",
+    "If this were more than a demo, some other logic would choose the parameter, perhaps prompting the user to supply the information.",
+    "There are striking differences in life span between different species, but within one species the parameter is relatively constant.",
+    "If that parameter isn't identical in both files, try changing one to match the other.",
+    "In the options parameter of this new method, pass nil to access Twitter and Weibo accounts."
+  ]
+}

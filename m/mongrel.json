@@ -1,0 +1,13 @@
+{
+  "word": "mongrel",
+  "phonetic": "ˈmʌŋɡrəl",
+  "phoneticUs": "ˈmʌŋɡrəl",
+  "meaning": "n.<贬>杂种(指人),杂种狗,混血儿adj.杂种的,混血儿的",
+  "examples": [
+    "Mongrel, our Web server, does not serve static data particularly well, so we use Apache to serve image content.",
+    "Fear not, you'll still have access to the raw mongrel request if you want to do fancy stuff like streaming or deferred rendering outside the mutex.",
+    "\"Lightweight\" Web servers like lighttpd, litespeed, and mongrel can offer dramatic benefits for your projects.",
+    "As Benny Avni paused at this bench, the mongrel dog also paused, ten metres away.",
+    "This mongrel mix between the classical gold standard and a fiat paper regime was at root unstable and unsustainable."
+  ]
+}

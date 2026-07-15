@@ -1,0 +1,13 @@
+{
+  "word": "sigint",
+  "phonetic": "ˈsɪɡɪnt",
+  "phoneticUs": "ˈsɪɡɪnt",
+  "meaning": "n.信号情报,通信情报(指对无线电信号监听、 截获和破译获得的情报)",
+  "examples": [
+    "Listing 1 shows how to ignore a SIGINT.",
+    "This sends the SIGINT to the process to kill it.",
+    "Lets now look at a bare bones script that catches SIGINT and SIGQUIT.",
+    "There are certainly folks who have studied the history of intelligence, and SIGINT in particular.",
+    "It is equipped with a new SIGINT mission system developed by Cassidian, providing standoff capability to detect electronic and communications emitters."
+  ]
+}

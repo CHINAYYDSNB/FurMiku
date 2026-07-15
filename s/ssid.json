@@ -1,0 +1,13 @@
+{
+  "word": "ssid",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Radio Service Set ID,无线服务集标识",
+  "examples": [
+    "Wireless networks to provide software modifications SSID, channel and password functions.",
+    "Access points periodically broadcast a Service Set Identifier (SSID) that identifies one WLAN network from another.",
+    "Note that for some of these feeds, you need the spreadsheet id (ssid) or worksheet id (wsid) to formulate the feed URL.",
+    "Also, there's no way to access a wireless network with a hidden SSID, although WPA is supported.",
+    "Using the wireless network manager utility on your device, search for \"Push2TV\" wireless network name (SSID) and connect."
+  ]
+}

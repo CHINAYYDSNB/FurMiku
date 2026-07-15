@@ -1,0 +1,11 @@
+{
+  "word": "pseudorandom",
+  "phonetic": "ˌsjuːdəʊˈrændəm",
+  "phoneticUs": "ˌsuːdoʊˈrændəm",
+  "meaning": "adj.[计]伪随机的",
+  "examples": [
+    "Computers usually only generate pseudorandom Numbers.",
+    "Sufficient bit security is necessary for pseudorandom binary sequences drived by chaotic maps.",
+    "I did this by using a software linear feedback shift register to generate pseudorandom values; see Resources."
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "word": "powerpc",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "IBM和Apple公司联合生产的个人台式机",
+  "examples": [
+    "All are based on a Linux system running on a PowerPC processor.",
+    "First, that Mac OS X 10.6 would drop support for PowerPC-based Macs.",
+    "You've now downloaded and started your first PowerPC program inside an FPGA.",
+    "Jobs, of course, would lead Apple through a switch, publicly announced in 2005, from PowerPC processors to Intel chips.",
+    "If you can, grab a build that is already compiled (we use build 0.38-3 for PowerPC on Mac OS X.4.2)."
+  ]
+}

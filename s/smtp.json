@@ -1,0 +1,13 @@
+{
+  "word": "smtp",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Simple Message Transfer Protocol,简单邮件传输协议",
+  "examples": [
+    "Gets the configuration section containing the SMTP client email Settings for the local computer.",
+    "This system uses an agent mail which gets through SMTP and POP3 protocol to achieve the email system.",
+    "Two one-way messages can be used to establish request/response communications. To send a SOAP message with SMTP, you will need to perform the following steps",
+    "The service now goes beyond integration with Gmail and into a custom SMTP server.",
+    "Other options include your SMTP server (the outgoing mail server) which you know about if you need it."
+  ]
+}

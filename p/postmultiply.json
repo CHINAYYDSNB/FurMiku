@@ -1,0 +1,9 @@
+{
+  "word": "postmultiply",
+  "phonetic": "ˌpəʊstˈmʌltɪplaɪ",
+  "phoneticUs": "",
+  "meaning": "vt.[数]自右乘,用后因子乘",
+  "examples": [
+    "Most of the methods for manipulating this transformation, e. g. Translate, Rotate, and Concatenate, can operate in either PreMultiply (the default) or PostMultiply mode."
+  ]
+}

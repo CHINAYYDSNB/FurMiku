@@ -1,0 +1,10 @@
+{
+  "word": "inertially",
+  "phonetic": "ɪˈnɜːʃjəlɪ",
+  "phoneticUs": "",
+  "meaning": "adv.借助(或由于)惯性(力)地",
+  "examples": [
+    "A sign pattern S is minimally inertially arbitrary if it is inertially arbitrary but is not inertially arbitrary if any nonzero entry(or entries)of S is replaced by zero.",
+    "To ensure the weapon hits the target, the system can be guided by GPS, inertially, or by laser designation."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "word": "gpf",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "General Protection Fault,一般保护错",
+  "examples": [
+    "My name is Kings Bruce of GPF Ltd.",
+    "A new Gaussian particle filter (GPF) is discussed to solve estimation problems in nonlinear non-Gaussian systems.",
+    "When TVAR model signal and reflection coefficients were extended to state vector, Gaussian Particle Filter (GPF) was applied to estimate parameters of TVAR model."
+  ]
+}

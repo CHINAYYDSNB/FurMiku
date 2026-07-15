@@ -1,0 +1,11 @@
+{
+  "word": "pixmap",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "n.[计] 象素映射",
+  "examples": [
+    "Next, we check if cache already contains the necessary pixmap.",
+    "The pixmap representation of the animated objects is transmitted and displayed on the receiver side.",
+    "To show a rotating object, we can scan-convert into the pixmap successive views from slightly different locations, one after another."
+  ]
+}

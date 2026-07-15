@@ -1,0 +1,11 @@
+{
+  "word": "viewdata",
+  "phonetic": "ˈvjuːdeɪtə; ˈvjuːdɑːtə",
+  "phoneticUs": "ˈvjuːdeɪtəˌˈvjuːdætə",
+  "meaning": "[计]可视数据",
+  "examples": [
+    "At present, MPEG2 has become the most prevalent coding technique, which is mainly used for the transmission of speech data and viewdata.",
+    "The friendly postman will be a thing of the past as the postal service and letters disappear with the electronic mail received via viewdata screens.",
+    "Dynamic View and ViewModel Properties - Views have a new dynamic View property offering simple access to the ViewData object. An example would look like this."
+  ]
+}

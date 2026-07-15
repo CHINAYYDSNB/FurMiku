@@ -1,0 +1,12 @@
+{
+  "word": "mgcp",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Media Gateway Control Protocol,介质网关控制协议",
+  "examples": [
+    "Media Gateway Control protocol (MGCP) is a important protocol in NGN network.",
+    "MGCP is an important protocol used to control media gateway in next generation network developed by IETF.",
+    "Finally in this paper we detailedly depict the realization of the call control model based on the MGCP protocol.",
+    "\"Using this weakness in MGCP, you can do anything like reroute or tear down connections, \" He said."
+  ]
+}

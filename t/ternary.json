@@ -1,0 +1,11 @@
+{
+  "word": "ternary",
+  "phonetic": "ˈtɜːnəri",
+  "phoneticUs": "ˈtɜːrnəri",
+  "meaning": "adj.三重的",
+  "examples": [
+    "This new operator is, in fact, a shortcut notation for the ternary operator.",
+    "For Java developers, this is exactly the way the ternary operator — the? : expression — works.",
+    "Note that the key-mapping in the previous example USES an expression containing a C-like \"ternary expression\"."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "word": "shm",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "simple harmonic motion",
+  "examples": [
+    "The memory file storage is /dev/shm/devmem",
+    "Now that our directory is ready, we can mount /dev/shm/tmp, and only /dev/shm/tmp to /tmp.",
+    "Each program creates its own file; in my examples, I use the file name devmem located at /dev/shm/devmem."
+  ]
+}

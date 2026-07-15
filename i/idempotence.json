@@ -1,0 +1,10 @@
+{
+  "word": "idempotence",
+  "phonetic": "ˈaɪdəmpəʊtəns",
+  "phoneticUs": "ˈaɪdəmpoʊtəns",
+  "meaning": "n.[数]幂等性",
+  "examples": [
+    "It turns out the design of lispy.py fails the idempotence goal.",
+    "GET is an operation that should be free of side effects, a property also known as idempotence."
+  ]
+}

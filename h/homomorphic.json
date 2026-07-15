@@ -1,0 +1,13 @@
+{
+  "word": "homomorphic",
+  "phonetic": "ˌhəʊməʊˈmɔːfɪk",
+  "phoneticUs": "ˌhoʊməˈmɔːrfɪk; ˌhɑːməˈmɔːrfɪk",
+  "meaning": "adj.同形的,同型性的(指器官或有机体)的",
+  "examples": [
+    "\"Homomorphic encryption gives you a way out of the dilemma,\" Gentry says.",
+    "“Homomorphic encryption gives you a way out of the dilemma,” Gentry says.",
+    "The homomorphic nature of the XGrind compressed format grants XGrind many interesting features",
+    "Things like measuring and reducing attack surface, self-defending data, damage-potential effort ratios, fully homomorphic encryption, and end-to-end message confidentiality.",
+    "CryptDB works by turning data into \"homomorphic\" information: strings of numbers, which you can then calculate against one another to get the answers you require."
+  ]
+}

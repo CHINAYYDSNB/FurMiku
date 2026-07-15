@@ -1,0 +1,13 @@
+{
+  "word": "opengl",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "开放式三维图形库",
+  "examples": [
+    "OpenGL (through the use of the glitz backend).",
+    "Make sure that Trackball Rotation is active in your camera Advanced OpenGL menu.",
+    "Of course, you can use OpenGL or D3D for 2D games, but it's usually not worth it.",
+    "Graphic installation of OpenGL 1.2 or Glide will differ, depending on what card you have.",
+    "Chief among his concerns is lack of OpenGL access despite the hardware supporting it."
+  ]
+}

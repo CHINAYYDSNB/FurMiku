@@ -1,0 +1,11 @@
+{
+  "word": "scalogram",
+  "phonetic": "ˈskæləˌɡræm",
+  "phoneticUs": "ˈskeɪləˌɡræm",
+  "meaning": "n.[心](心理测验)量图",
+  "examples": [
+    "The detection is based on the detection of the peaks of scalogram.",
+    "Based on the principle of modulus maximum, a new approach using scalogram of wavelet transform for transient signal, under noise free condition or noise condition separately, is described.",
+    "Result Wavelet scalogram of blood flow ultrasonic signal had a higher distinguishability than STFT spectrogram in the low frequency portion, but had poorer decussation terms than spectrogram."
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "word": "mudflap",
+  "phonetic": "ˈmʌdflæp",
+  "phoneticUs": "ˈmʌdflæp",
+  "meaning": "n.挡泥垂布",
+  "examples": [
+    "An alternative is to use the MUDFLAP option that the GCC provides.",
+    "Because the compiler had access to the full program source code, the MUDFLAP diagnostics are very valuable."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "word": "interpolatory",
+  "phonetic": "ɪnˈtɜːpəʊlətərɪ",
+  "phoneticUs": "",
+  "meaning": "adj.撺改的,插入的",
+  "examples": [
+    "The lifting construction exploits predictor and update operator design which is based on the interpolatory discrete splines in a spatial domain.",
+    "The approximation of differentiable functions by a kind of interpolatory rational functions is discussed, and the corresponding order of approximation is obtained.",
+    "M-band interpolatory wavelet packets is a sequence space spanned by dilation translates of a iterate function sequence obtained by a cardinal interpolation function."
+  ]
+}

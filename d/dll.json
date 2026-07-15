@@ -1,0 +1,11 @@
+{
+  "word": "dll",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "n.Dynamic Link Library,动态链接库",
+  "examples": [
+    "Compiling the DLL as position-independent code.",
+    "Put the bridge DLL in an arbitrary place on the client machine.",
+    "Put the bridge DLL(s) into an arbitrary place on the client machine."
+  ]
+}

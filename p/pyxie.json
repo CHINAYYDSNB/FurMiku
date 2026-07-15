@@ -1,0 +1,11 @@
+{
+  "word": "pyxie",
+  "phonetic": "ˈpɪksɪ",
+  "phoneticUs": "",
+  "meaning": "n.[植]沙盖花(亦作pyxie moss)",
+  "examples": [
+    "The line-oriented PYX format used by pyxie is language-independent, and tools are available for several languages.",
+    "The pyxie module is built on top of Python's standard XML support and provides additional high-level interfaces to an XML document.",
+    "The [pyxie] module is built on top of the PyXML distribution from the XML-SIG, and provides additional high-level interfaces to an XML document."
+  ]
+}

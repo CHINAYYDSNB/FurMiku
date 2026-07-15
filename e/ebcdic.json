@@ -1,0 +1,11 @@
+{
+  "word": "ebcdic",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "[计]扩充的二进制编码的十进制交换码",
+  "examples": [
+    "Character conversion key concepts — The EBCDIC encoding scheme.",
+    "This local codepage would typically be one of the EBCDIC codepages.",
+    "This value means that the data retrieved will be converted to EBCDIC format."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "word": "multiprocessing",
+  "phonetic": "ˌmʌltiˈprəʊsesɪŋ",
+  "phoneticUs": "ˌmʌltiˈprɑːsesɪŋ",
+  "meaning": "n.[计]多重处理n.[计] 多处理(技术)",
+  "examples": [
+    "SMP, or symmetric multiprocessing.",
+    "This is one way to use PHP to advantage on a multiprocessing host.",
+    "Apache 2.0 introduced the concept of multiprocessing modules, or MPMs."
+  ]
+}

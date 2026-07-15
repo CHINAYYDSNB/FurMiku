@@ -1,0 +1,11 @@
+{
+  "word": "rebind",
+  "phonetic": "riːˈbaɪnd",
+  "phoneticUs": "ˈribaɪnd",
+  "meaning": "vt.重捆,重新装订",
+  "examples": [
+    "The db2rbind command can be used to rebind all packages in the database.",
+    "Consider rebinding applications (using the rebind PACKAGE command) after changing this parameter.",
+    "Then we analyzed the access plan and decided to do runstats and rebind the database during a long-running test."
+  ]
+}

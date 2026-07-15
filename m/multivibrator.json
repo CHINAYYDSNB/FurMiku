@@ -1,0 +1,11 @@
+{
+  "word": "multivibrator",
+  "phonetic": "ˌmʌltɪvaɪˈbreɪtə(r)",
+  "phoneticUs": "ˌmʌltɪˈvaɪbreɪtər",
+  "meaning": "[电] 多频振荡器",
+  "examples": [
+    "The simplest interface uses a retriggerable monoflop multivibrator.",
+    "This paper brings forward a method of threshold processing PWM signals duty cycle by employing monostable multivibrator.",
+    "The sensor has differential symmetric structure with single nanocrystalline core and double coils excited by multivibrator bridge."
+  ]
+}

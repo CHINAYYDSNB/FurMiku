@@ -1,0 +1,11 @@
+{
+  "word": "timeslice",
+  "phonetic": "taɪmslaɪs",
+  "phoneticUs": "ˈtaɪmslaɪs",
+  "meaning": "时间片",
+  "examples": [
+    "In practice, a program may not get its entire timeslice.",
+    "How can I get the value of process's timeslice in user mode?",
+    "The timeslice, in effect, gives each runnable process a slice of the processor's time."
+  ]
+}

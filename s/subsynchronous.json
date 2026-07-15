@@ -1,0 +1,11 @@
+{
+  "word": "subsynchronous",
+  "phonetic": "ˌsʌbˈsɪŋkrənəs",
+  "phoneticUs": "ˈsʌbˈsɪŋkrənəs",
+  "meaning": "adj.[电]次同步的,亚同步的",
+  "examples": [
+    "The HVDC transmission system may lead to subsynchronous oscillation under certain circumstances.",
+    "Using the test signal method, a detailed analysis of subsynchronous oscillation for a HVDC system is performed.",
+    "Through studying, the mechanism of the subsynchronous torsion oscillation caused by the controller of HVDC system has been understood."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "word": "rdo",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Remote Data Objects,远程数据对象",
+  "examples": [
+    "These classes do not include all of RDO or ADO, but rather represent internal objects declared in the type library.",
+    "ADO mostly includes RDO-style functionality to interact with OLE DB data sources, plus remoting and DHTML technology.",
+    "While ADO encapsulates the functionality of DAO and RDO, you must convert many of the language elements over to ADO syntax."
+  ]
+}

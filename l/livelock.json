@@ -1,0 +1,11 @@
+{
+  "word": "livelock",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "活锁",
+  "examples": [
+    "Proof of deadlock freedom and livelock freedom is presented.",
+    "Both partially adaptive NPN and deterministic IDO are minimal, deadlock and livelock free.",
+    "This paper analyses the receiving livelock problem faced by router at high packets arriving rate and its existing solutions."
+  ]
+}

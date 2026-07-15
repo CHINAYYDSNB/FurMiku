@@ -1,0 +1,11 @@
+{
+  "word": "imperceptivity",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "n.无感觉,无知觉能力",
+  "examples": [
+    "To those algorithms for information hiding, imperceptivity and amount of hidden information are the most important and robustness is less.",
+    "To satisfy the balance between the robustness and the imperceptivity, the HVS model is used to adaptively adjust the watermark embedding strength.",
+    "To make the compromise between the robustness and the imperceptivity, a new 3-d HVS model is reconstructed and used to adjust the embedding strength."
+  ]
+}

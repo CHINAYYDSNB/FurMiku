@@ -1,0 +1,11 @@
+{
+  "word": "jcl",
+  "phonetic": "ˌdʒeɪ siː ˈel",
+  "phoneticUs": "ˌdʒeɪ siː ˈel",
+  "meaning": "job control language,作业控制语言",
+  "examples": [
+    "You must then regenerate the JCL.",
+    "See Listing 9 for example JCL to include these two files.",
+    "This JCL will invoke the proc ITSOCB, which is also generated."
+  ]
+}

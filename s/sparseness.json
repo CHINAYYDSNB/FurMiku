@@ -1,0 +1,12 @@
+{
+  "word": "sparseness",
+  "phonetic": "ˈspɑːsnəs",
+  "phoneticUs": "ˈspɑːrsnəs",
+  "meaning": "n.稀疏,稀少",
+  "examples": [
+    "The data sets have features such as high-dimensional, sparseness and binary value in many clustering applications.",
+    "The hierarchical clustering method is applied to deal with the problem that the solution of MLS-SVM is lack of sparseness.",
+    "Using pseudowords we can overcome data sparseness problem in supervised WSD and fully verify the experimental effect of word sense classifier.",
+    "What was great in the quarter century after 1982 was the sparseness of the recessions."
+  ]
+}

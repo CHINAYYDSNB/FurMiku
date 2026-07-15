@@ -1,0 +1,9 @@
+{
+  "word": "retransform",
+  "phonetic": "ˌriːtrænsˈfɔːm",
+  "phoneticUs": "",
+  "meaning": "v.使再变形,使变回原形",
+  "examples": [
+    "In Listing 3, I've specified that the Premain-Class com.geekcap.openapm.jvm.agent.Agent will be granted permission to redefine and retransform classes."
+  ]
+}

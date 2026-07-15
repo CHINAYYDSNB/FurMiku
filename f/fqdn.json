@@ -1,0 +1,11 @@
+{
+  "word": "fqdn",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Fully Qualified Domain Name,正式域名",
+  "examples": [
+    "You may have to supply the FQDN (fully qualified domain name).",
+    "However, the IP address as well as FQDN can be used in both the cases.",
+    "Make sure that the AIX client is configured with a FQDN (fully qualified domain name)."
+  ]
+}

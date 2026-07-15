@@ -1,0 +1,13 @@
+{
+  "word": "gnu",
+  "phonetic": "nuː; njuː",
+  "phoneticUs": "nuː; njuː",
+  "meaning": "n.角马(南非产的象牛的大羚羊);GNU,一种类似于UNIX的操作系统",
+  "examples": [
+    "GDB is the GNU debugger.",
+    "By 1991, GNU was complete except for the kernel.",
+    "Without GNU, we'd be missing a lot of wonderful software.",
+    "In addition, Sun will release the source code under the GNU General Public License (GPL).",
+    "The GNU GPL undertakes to make sure that every user of the software has these four freedoms."
+  ]
+}

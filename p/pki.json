@@ -1,0 +1,13 @@
+{
+  "word": "pki",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Public Key Infrastructure,公用密钥体系结构",
+  "examples": [
+    "Keys are a critical element of PKI.",
+    "How is the asymmetric algorithm type used in PKI?",
+    "This is a basis for PKI-based digital signatures.",
+    "Encourage and develop better authentication systems, including PKI (public key infrastructure) and CA (certificate authority) schemes.",
+    "Enterprises must prepare for PKI soon to forestall a proliferation of inconsistent suppliers, naming conventions and policies."
+  ]
+}

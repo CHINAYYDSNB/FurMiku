@@ -1,0 +1,11 @@
+{
+  "word": "keyset",
+  "phonetic": "ˈkiːset",
+  "phoneticUs": "ˈkiːset",
+  "meaning": "n.(打字机等的)键盘",
+  "examples": [
+    "Allows you to augment the callers keyset with your own.",
+    "However, a Level 1 driver can support dynasets if it supports extended fetch and keyset-driven cursors.",
+    "A kernel keyset is a representation of a collection of kernel keys and the desired read or write access to them."
+  ]
+}

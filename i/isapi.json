@@ -1,0 +1,11 @@
+{
+  "word": "isapi",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Internet Server Application Program Interface,Internet服务器应用程序接口",
+  "examples": [
+    "HTTP 500 when accessing the portal using isapi.",
+    "They fall into two categories: ISAPI filters and external devices.",
+    "The ISAPI-dll Module mapping should already exist but is disabled by default."
+  ]
+}

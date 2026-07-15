@@ -1,0 +1,11 @@
+{
+  "word": "idempotency",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "n.[数]幂等,等幂n.[数]幂等性",
+  "examples": [
+    "The idea behind idempotency is merely that the change involved should not be a direct effect of the GET request itself.",
+    "All you lose in flushing the cache is a little server load and some bandwidth; it does not violate underlying idempotency.",
+    "Idempotency is the central idea in REST: the same request - perhaps encoding client information - should return the same data whenever it is made."
+  ]
+}

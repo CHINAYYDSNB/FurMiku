@@ -1,0 +1,11 @@
+{
+  "word": "qea",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Qantas Empire Airways (澳大利亚)康达斯帝国航空公司",
+  "examples": [
+    "Quantum Inspired Evolutionary Algorithm (QEA) is a type of evolutionary algorithm based on principles of Quantum Computing (QC).",
+    "QEA is more suitable for parallel structure than the conventional evolutionary algorithms because of rapid convergence and good global search capability.",
+    "For avoiding the disadvantage, that QEA has a little stronger randomicity, we imported an optimizing operator which make the QEA better adapt to solving MSA problem."
+  ]
+}

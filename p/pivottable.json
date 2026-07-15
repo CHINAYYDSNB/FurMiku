@@ -1,0 +1,11 @@
+{
+  "word": "pivottable",
+  "phonetic": "ˈpɪvətəbl",
+  "phoneticUs": "ˈpɪvətəbl",
+  "meaning": "n.数据透视表",
+  "examples": [
+    "Replace crosstab table with PivotTable report ignoring criteria range.",
+    "For more complex data layouts, you can use the PivotTable system.",
+    "To start with, imagine you were building the following PivotTable."
+  ]
+}

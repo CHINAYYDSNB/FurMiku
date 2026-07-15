@@ -1,0 +1,13 @@
+{
+  "word": "freebsd",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "一种可免费使用的UNIX操作系统",
+  "examples": [
+    "Congratulations on installing FreeBSD!",
+    "This is the default boot manager used with FreeBSD.",
+    "Two shells come installed with FreeBSD: csh and sh.",
+    "Here we are going to set up the DNS and HTTP settings on a FreeBSD machine.",
+    "Honestly, if you are already running FreeBSD you shouldn't even have to read this part."
+  ]
+}

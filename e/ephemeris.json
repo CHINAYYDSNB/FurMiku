@@ -1,0 +1,11 @@
+{
+  "word": "ephemeris",
+  "phonetic": "ɪˈfemərɪs",
+  "phoneticUs": "ɪˈfemərɪs",
+  "meaning": "n.[天]星历表,历书,短命的东西",
+  "examples": [
+    "The scheme can anticipate user's location by using ephemeris message.",
+    "Based on satellite ephemeris and time data of the satellite coordinates of the celestial coordinate system.",
+    "The GPS ephemeris and GLONASS ephemeris adapt to some kind of the satellite orbits while they have some shortcoming."
+  ]
+}

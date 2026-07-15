@@ -1,0 +1,11 @@
+{
+  "word": "microprogrammed",
+  "phonetic": "ˌmaɪkrəʊˈprəʊɡræmd",
+  "phoneticUs": "",
+  "meaning": "adj.[计]微程序控制的",
+  "examples": [
+    "Microprogrammed control can simplify the design of control unit over hardwired control.",
+    "In a microcomputer with a microprogrammed instruction set, it contains an additional control-memory unit.",
+    "A microprogrammed machine, a microprocessor or a microcomputer used in a control operation, that is, to direct or make changes in a process or operation."
+  ]
+}

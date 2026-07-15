@@ -1,0 +1,11 @@
+{
+  "word": "indention",
+  "phonetic": "ɪnˈdenʃən",
+  "phoneticUs": "ɪnˈdenʃən",
+  "meaning": "n.缩排,锯齿状,定货,凹痕",
+  "examples": [
+    "Note that the indention shown in Listing 7 is there only for readability and is not required.",
+    "StyleCop, on the other hand, is mostly about hotly debated issues like how many Spaces to use for indention.",
+    "Class and method bodies are not enclosed in delimiters but are instead indicated by indention of their bodies."
+  ]
+}

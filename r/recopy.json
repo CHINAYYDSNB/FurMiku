@@ -1,0 +1,11 @@
+{
+  "word": "recopy",
+  "phonetic": "riːˈkɒpɪ",
+  "phoneticUs": "ˌriːˈkɑːpi",
+  "meaning": "v.再抄写 再复制",
+  "examples": [
+    "Take the overall plan and recopy it with the same items as before, but don’t move the numbers over.",
+    "Take the overall plan and recopy it with the same items as before, but don't move the Numbers over.",
+    "If you changed one file of about 10mb in size using cp or tar, you would have to recopy the whole 100gb of files all over again."
+  ]
+}

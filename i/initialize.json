@@ -1,0 +1,12 @@
+{
+  "word": "initialize",
+  "phonetic": "ɪˈnɪʃəlaɪz",
+  "phoneticUs": "ɪˈnɪʃəlaɪz",
+  "meaning": "vt.初始化",
+  "examples": [
+    "When you have attributes in a class, you need to be able to initialize these attributes with some initial values.",
+    "You can actually initialize multiple things at once by separating them with a comma, and this is sometimes helpful.",
+    "Initialize the target object.",
+    "The navigation system seemed to take forever to initialize when I started the vehicle."
+  ]
+}

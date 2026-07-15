@@ -1,0 +1,9 @@
+{
+  "word": "jrmp",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Java Remote Message Protocol,Java远程消息协议",
+  "examples": [
+    "Both JRMP and IIOP are used to send message invocation information or return values over the wire."
+  ]
+}

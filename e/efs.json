@@ -1,0 +1,11 @@
+{
+  "word": "efs",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Encrypted File System,加密文件系统",
+  "examples": [
+    "Verify the authentication and EFS login.",
+    "Creating EFS directories and setting properties.",
+    "Enable the system to use the EFS file system."
+  ]
+}

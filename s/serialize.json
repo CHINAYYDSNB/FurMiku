@@ -1,0 +1,11 @@
+{
+  "word": "serialize",
+  "phonetic": "ˈsɪəriəlaɪz",
+  "phoneticUs": "ˈsɪriəlaɪz",
+  "meaning": "vt.连载,使连续",
+  "examples": [
+    "Serialize the return values.",
+    "Serialize the request parameters.",
+    "Serialize the data to XML."
+  ]
+}

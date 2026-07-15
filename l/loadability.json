@@ -1,0 +1,11 @@
+{
+  "word": "loadability",
+  "phonetic": "ˌləʊdəˈbɪlɪti",
+  "phoneticUs": "ˌloʊdəˈbɪləti",
+  "meaning": "n.载荷能力,载荷率",
+  "examples": [
+    "In case of low voltage and heavy load, the relay loadability may replace the thermal loadability, leading to undesirable relay operation and cascading events.",
+    "Of course, there is still many problems needed to be solved, but it is believed that the online transmission line loadability estimation will face a good prospect.",
+    "This paper demonstrates the use of line stability index termed as fast voltage stability index (FVSI) in order to determine the bus maximum loadability in a power system."
+  ]
+}

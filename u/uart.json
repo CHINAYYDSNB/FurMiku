@@ -1,0 +1,11 @@
+{
+  "word": "uart",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Universal Asynchronous Receiver Transmitter,通用异步收发器",
+  "examples": [
+    "Packet indicator (for UART interfaces) of 2.",
+    "Packet indicator (for UART interfaces) of 3.",
+    "Packet indicator (for UART interfaces) of 4."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "word": "eprom",
+  "phonetic": "ˈiːprɒm",
+  "phoneticUs": "",
+  "meaning": "n.可擦可编程只读存储器,电可编程只读存储器",
+  "examples": [
+    "Once erased, an EPROM can be reprogrammed with the help of a device programmer.",
+    "This text introduces a method about designing an automatic pad-printing machine based on EPROM.",
+    "A circuit for writing EPROM and an all software cassette tape recording scheme are also introduced."
+  ]
+}

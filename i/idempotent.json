@@ -1,0 +1,11 @@
+{
+  "word": "idempotent",
+  "phonetic": "ˈaɪdəmˌpəʊtənt",
+  "phoneticUs": "aɪˈdempətənt",
+  "meaning": "n.[数]幂等,等幂adj.[数]幂等的",
+  "examples": [
+    "Calls to adapt should be idempotent.",
+    "From a design standpoint this means that message processing has to be idempotent.",
+    "Write operations are idempotent and commutative, based on the time they enter the system."
+  ]
+}

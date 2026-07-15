@@ -1,0 +1,10 @@
+{
+  "word": "metaprogram",
+  "phonetic": "ˌmetəˈprəʊɡræm",
+  "phoneticUs": "",
+  "meaning": "n.元程序",
+  "examples": [
+    "The metaprogram is no longer of any use because the change must be made at a lower level.",
+    "This method instructs Grails to metaprogram the validation methods onto the specified domain class as it would normally during run time."
+  ]
+}

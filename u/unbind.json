@@ -1,0 +1,13 @@
+{
+  "word": "unbind",
+  "phonetic": "ʌnˈbaɪnd",
+  "phoneticUs": "ʌnˈbaɪnd",
+  "meaning": "vt.解开,解放",
+  "examples": [
+    "The first concept was the use of the bind()/unbind() methods.",
+    "It will then commit the transaction, unbind the persistence context, and close it.",
+    "You can remove certain events using unbind (' eventname ') or all events with unbind .",
+    "That redefinition is exactly what Microsoft needs to unbind from its brand heritage.",
+    "In the same Q Who? episode, Picard demonstrates his ability to unbind and strip off the constraints of his ego."
+  ]
+}

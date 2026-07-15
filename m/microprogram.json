@@ -1,0 +1,11 @@
+{
+  "word": "microprogram",
+  "phonetic": "ˈmaɪkrə(ʊ)ˌprəʊgræm",
+  "phoneticUs": "ˌmaɪkroʊˈproʊˌgræm",
+  "meaning": "n.微程序",
+  "examples": [
+    "There are two kinds of mode, increment and decision, used for microprogram sequential control.",
+    "Another name for the microinstructions that make up a microprogram either in source language or in object-code form.",
+    "A hybrid computer level whose instructions are interpreted by both the operating system and directly by the microprogram."
+  ]
+}

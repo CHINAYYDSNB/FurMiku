@@ -1,0 +1,13 @@
+{
+  "word": "qbe",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "query by example,实例查询",
+  "examples": [
+    "Last month, I talked about querying db4o using both native and QBE-style queries.",
+    "I demonstrated data retrieval using db4o's QBE engine last time, but I'll quickly recap here.",
+    "This also points out a limitation of the QBE approach -- zero cannot effectively be used as a value to search on.",
+    "\"QBE denies that its practices were illegal, \" said Andrew Sandler, attorney for the Sydney, Australia-based company.",
+    "In 2011, QBE acquired the force-placed insurance business of Balboa Insurance Co."
+  ]
+}

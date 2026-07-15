@@ -1,0 +1,11 @@
+{
+  "word": "homography",
+  "phonetic": "hɒˈmɒɡrəfɪ",
+  "phoneticUs": "hoʊˈmɑːɡrəfi",
+  "meaning": "n.[数]单应性",
+  "examples": [
+    "The homography takes an important part in plane measuring.",
+    "In this paper, the homography matrix algorithms are studied thoroughly.",
+    "Characteristic homography matrix and consistency constraints in close range are employed in this calibration."
+  ]
+}

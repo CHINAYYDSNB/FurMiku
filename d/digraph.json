@@ -1,0 +1,11 @@
+{
+  "word": "digraph",
+  "phonetic": "ˈdaɪɡrɑːf",
+  "phoneticUs": "ˈdaɪɡræf",
+  "meaning": "n.两字母发一音,连字",
+  "examples": [
+    "We shall abbreviate the \"directed graph\" to digraph.",
+    "We shall abbreviate \"directed graph\" to digraph.",
+    "Line 1 declares your graph, called g, and its type (a digraph)."
+  ]
+}

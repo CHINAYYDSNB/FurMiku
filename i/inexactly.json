@@ -1,0 +1,9 @@
+{
+  "word": "inexactly",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "adv.不正确地,不精密地",
+  "examples": [
+    "The outer iteration of this method is the classical Newton method, and the inner iteration is using GMRES to solve Jacobi equations inexactly."
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "word": "nonterminating",
+  "phonetic": "nɒnˈtɜːmɪˌneɪtɪŋ",
+  "phoneticUs": "",
+  "meaning": "adj.[数]无尽的",
+  "examples": [
+    "A nonterminating input can be further constructed as a counterexample.",
+    "Under his termination-deciding method, a nonterminating input can be further constructed as an counterexample for the given nonterminating loop, which makes the result more complete."
+  ]
+}

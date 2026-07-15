@@ -1,0 +1,12 @@
+{
+  "word": "photomultiplier",
+  "phonetic": "ˌfəʊtəʊˈmʌltɪˌplaɪə(r)",
+  "phoneticUs": "ˌfoʊtoʊˈmʌltɪˌplaɪər",
+  "meaning": "n.[电子]光电倍增器,光电倍增管(亦作photomultiplier tube)",
+  "examples": [
+    "A circuit for taking out timing signal from one dynode of photomultiplier is described.",
+    "A high voltage gating switch of variable delay for photomultiplier tube has been fabricated.",
+    "A new cylindrical light guide coupling the photomultiplier to a thin scintillator is described.",
+    "The heavy water is held in an acrylic sphere, and is surrounded by a network of nearly 10, 000 photomultiplier tubes."
+  ]
+}

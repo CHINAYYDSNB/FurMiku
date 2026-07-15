@@ -1,0 +1,13 @@
+{
+  "word": "wep",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Wired Equivalent Privacy,有线对等加密",
+  "examples": [
+    "What WEP key?",
+    "o Wi-Fi 802.11b/g/n with WPA, WPA2, WEP, 802.1X authentication(1)",
+    "It is intended to configure WEP keys according to the networks found.",
+    "For security, Airport Extreme employs 128-bit WEP encryption and comes with its own firewall.",
+    "Only use WEP if you desperately need the Internet and have no other option."
+  ]
+}

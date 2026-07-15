@@ -1,0 +1,12 @@
+{
+  "word": "icmp",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Internet Control Messages Protocol,网间控制报文协议",
+  "examples": [
+    "Next I'll show you two ICMP attacks.",
+    "ICMP USES the basic support of IP as if it were a higher level protocol.",
+    "ICMP message: ICMP is a protocol designed to report and diagnose network problems.",
+    "\"ICMP's involvement in Katrina victim identification efforts will be limited to the profiling of bone samples for DNA, \" the commission said in a statement posted on its Web site."
+  ]
+}

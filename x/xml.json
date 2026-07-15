@@ -1,0 +1,13 @@
+{
+  "word": "xml",
+  "phonetic": "ˌeks em ˈel",
+  "phoneticUs": "ˌeks em ˈel",
+  "meaning": "extensible Markup Language,解释扩展标记语言",
+  "examples": [
+    "The XML document is checked against a very restrictive schema.",
+    "Although internally the XML is stored in a hierarchical format, logically in the database table it appears to be stored in a CLOB or BLOB.",
+    "Listing 2 shows a sample XML document, bib.xml, which represents a bibliography of books.",
+    "Complicated configurations files gave way to standardized XML, which then was replaced by point-and-click configuration.",
+    "SGML, like XML, is a metalanguage -- a language used for defining other languages."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "word": "interpolate",
+  "phonetic": "ɪnˈtɜːpəleɪt",
+  "phoneticUs": "ɪnˈtɜːrpəleɪt",
+  "meaning": "v.窜改,添写进去,插入新语句",
+  "examples": [
+    "If it is permissible to interpolate a personal humble opinion, I may say that...",
+    "Texture. FTLinear Sample the four nearest pixels, and linearly interpolate them.",
+    "It is an essential tool and purpose in surface modeling to interpolate the given curves."
+  ]
+}

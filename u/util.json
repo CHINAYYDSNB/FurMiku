@@ -1,0 +1,11 @@
+{
+  "word": "util",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "n.跑龙套",
+  "examples": [
+    "You create the util package, along with classes in it.",
+    "You will see a script named BaseCase and a folder named util.",
+    "The util-linux-ng package includes Linux fdisk, sfdisk, and cfdisk."
+  ]
+}

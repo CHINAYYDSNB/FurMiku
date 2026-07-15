@@ -1,0 +1,9 @@
+{
+  "word": "retranslate",
+  "phonetic": "ˌriːtrænsˈleɪt; -trɑːns-; -nz-",
+  "phoneticUs": "ˌritrænzˈlet",
+  "meaning": "vt.重译,再译,(把...)译回原文",
+  "examples": [
+    "The L10N team uses the translation database to translate new strings and retranslate changed strings."
+  ]
+}

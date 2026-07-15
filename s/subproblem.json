@@ -1,0 +1,11 @@
+{
+  "word": "subproblem",
+  "phonetic": "ˈsʌbprɒbləm",
+  "phoneticUs": "ˈsʌbprɑːbləm",
+  "meaning": "n.子问题,次要问题",
+  "examples": [
+    "The subproblem is solved by simulated annealing algorithm.",
+    "Then with the analysis on the combination of each subproblem, a logic process for solving them is presented.",
+    "I had to define the task closure, determine appropriate task granularity, split the subproblem, combine the results, and so on."
+  ]
+}

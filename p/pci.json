@@ -1,0 +1,13 @@
+{
+  "word": "pci",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "周边元件扩展接口;Peripheral Component Interconnect,外围设备组件互连",
+  "examples": [
+    "Change PCI device booting order in the server BIOS.",
+    "These events include PCI I/O adapter slot changes.",
+    "This is available for hot-pluggable PCI slots only.",
+    "The PCI indicates that second quarter GDP will grow 1.8% on an annualized basis.",
+    "James McCabe and colleagues analyzed data from 411 STEMI activations at two primary PCI centers."
+  ]
+}

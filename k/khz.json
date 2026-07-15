@@ -1,0 +1,13 @@
+{
+  "word": "khz",
+  "phonetic": " ˈkeɪˈeɪtʃˈziː",
+  "phoneticUs": " ˈkeɪˈeɪtʃˈziː",
+  "meaning": "kilohertz 千赫兹,千次每秒",
+  "examples": [
+    "The encoder is set to the AMR_NB, which is an audio format, sampling at 8 KHz.",
+    "The filters are both continuously adjustable , with a range from 20 Hz to 20 kHz in two bands.",
+    "Anything above 20 kHz is inaudible to a human, with dogs able to detect sounds pitched up to 23 kHz.",
+    "As a small example, most consumer headphones offer a frequency response somewhere in the region of 60 - 20, 000 kHz.",
+    "The earSmart eS515 Smart Sound Processor features the world's first two-microphone 48 KHz noise suppression implementation for the recording of clean, HD audio."
+  ]
+}

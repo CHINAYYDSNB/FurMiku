@@ -1,0 +1,11 @@
+{
+  "word": "subgraph",
+  "phonetic": "ˈsʌbɡrɑːf",
+  "phoneticUs": "ˈsʌbɡræf",
+  "meaning": "n.[数]子图",
+  "examples": [
+    "Line 1 of Listing 4 defines a subgraph called cluster_jhuapl.edu.",
+    "A graph G is supereulerian if G has a spanning eulerian subgraph.",
+    "Usually this occurs because a subgraph concerns a related set of functionality."
+  ]
+}

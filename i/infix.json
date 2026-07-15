@@ -1,0 +1,11 @@
+{
+  "word": "infix",
+  "phonetic": "ˈɪnfɪks",
+  "phoneticUs": "ˈɪnfɪks",
+  "meaning": "vt.使...钻进,让...插进n.插入词,中缀",
+  "examples": [
+    "Expressions use the same infix operators.",
+    "Converting infix notation to postfix notation.",
+    "Converting infix expression to a postfix expression."
+  ]
+}

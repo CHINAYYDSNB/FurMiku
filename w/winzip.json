@@ -1,0 +1,11 @@
+{
+  "word": "winzip",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Windows下的数据压缩工具,支持很多种压缩格式,且支持长文件名",
+  "examples": [
+    "You need WinZip or another similar archive utility.",
+    "WinZip is a popular utility for working with archive files.",
+    "Use a program like Winzip to unzip the contents to a directory."
+  ]
+}

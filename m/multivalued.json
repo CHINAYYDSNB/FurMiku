@@ -1,0 +1,11 @@
+{
+  "word": "multivalued",
+  "phonetic": "ˌmʌltɪˈvæljuːd",
+  "phoneticUs": "ˈmʌltɪˈvæljud",
+  "meaning": "adj.多值的",
+  "examples": [
+    "The field cat is multiValued.",
+    "Note that the category property in \"rose\" is multivalued.",
+    "LDAP allows multivalued attributes to hold multiple values."
+  ]
+}

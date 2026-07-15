@@ -1,0 +1,9 @@
+{
+  "word": "lookit",
+  "phonetic": "ˈlʊkɪt",
+  "phoneticUs": "",
+  "meaning": "int.听着!vt.看",
+  "examples": [
+    "Which shows that the string lookit, which was passed to the invoke call in wsadmin, was received and used by the SnoopMBean code that implements the snoopy operation."
+  ]
+}

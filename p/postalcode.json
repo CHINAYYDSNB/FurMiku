@@ -1,0 +1,9 @@
+{
+  "word": "postalcode",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "n.邮政编码",
+  "examples": [
+    "If both address fields have a common AddressType the expression for //element(*, tns:AddressType)/postalCode would return the post code for both addresses."
+  ]
+}

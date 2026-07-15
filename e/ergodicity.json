@@ -1,0 +1,11 @@
+{
+  "word": "ergodicity",
+  "phonetic": "ˌɜːɡəˈdɪsəti",
+  "phoneticUs": "",
+  "meaning": "n.[数][统]各态历经",
+  "examples": [
+    "Due to chaotic ergodicity, TSP can always achieve optimal path.",
+    "Secondly, we give an ergodicity algorithm to unknown environment as tree structure.",
+    "Firstly, review a lot of relevant papers and conclude recent ergodicity algorithm and algorithm of detecting moving objects."
+  ]
+}

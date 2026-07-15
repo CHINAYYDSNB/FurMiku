@@ -1,0 +1,11 @@
+{
+  "word": "normalizer",
+  "phonetic": "ˈnɔːməlaɪzə(r)",
+  "phoneticUs": "ˈnɔːrməˌlaɪzər",
+  "meaning": "n.标准化者,正规化者",
+  "examples": [
+    "To solve this, the intl library provides the Normalizer class.",
+    "The main classes that support transliteration capabilities are Transliterator and Normalizer.",
+    "Burnside asserts, if any sylow p-subgroup P of a finite G lies in the center of its normalizer, then G isp-nilpotent."
+  ]
+}

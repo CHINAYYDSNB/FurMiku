@@ -1,0 +1,11 @@
+{
+  "word": "nonrecoverable",
+  "phonetic": "ˌnɒnrɪˈkʌvərəbl",
+  "phoneticUs": "ˌnɑːnrɪˈkʌv(ə)rəbl",
+  "meaning": "无法收回[收复]的",
+  "examples": [
+    "NONRECOVERABLE This option allows the user to override the default behavior of the load to be done with COPY-NO.",
+    "When specifying this NONRECOVERABLE keyword, the user is not forced to take backups of the tablespaces immediately.",
+    "As the material is deformed beyond the strain that elastic deformation persists, the stress is no longer proportional to strain, and permanent, nonrecoverable, or plastic deformation occurs."
+  ]
+}

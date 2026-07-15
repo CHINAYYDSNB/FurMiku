@@ -1,0 +1,11 @@
+{
+  "word": "metaclass",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "n.[计] 元类",
+  "examples": [
+    "One or more entries for each metaclass extension of each stereotype.",
+    "Just select multiple items of the same metaclass, such as several attributes.",
+    "From comments to packages, including classes themselves, every concept in UML has a metaclass."
+  ]
+}

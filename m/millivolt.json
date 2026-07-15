@@ -1,0 +1,11 @@
+{
+  "word": "millivolt",
+  "phonetic": "ˈmɪlivəʊlt",
+  "phoneticUs": "ˈmɪlivoʊlt",
+  "meaning": "n.[电]毫伏(特)(=1[1000伏(特),略作mV或mv)",
+  "examples": [
+    "A millivolt is one-thousandth of a volt.",
+    "Where the volt is too large a unit, we use the millivolt or microvolt.",
+    "In the present design, step inputs are restricted to a few tenths of millivolt."
+  ]
+}

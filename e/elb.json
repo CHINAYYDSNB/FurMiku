@@ -1,0 +1,11 @@
+{
+  "word": "elb",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Bachelor of English Literature英国文学学士",
+  "examples": [
+    "Listing 7 shows two commands. The first command, elb-create-lb, creates the load balancer.",
+    "Run the elb-describe-instance-health command to see the status of each server in the pool.",
+    "As we already knew, Amazon Web Services was to blame for the issue -- the company issued an apology earlier today -- with the Elastic Load Balancer (ELB) service causing the outage."
+  ]
+}

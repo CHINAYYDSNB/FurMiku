@@ -1,0 +1,13 @@
+{
+  "word": "encrypt",
+  "phonetic": "ɪnˈkrɪpt",
+  "phoneticUs": "ɪnˈkrɪpt",
+  "meaning": "v.[计] 加密,将...译成密码",
+  "examples": [
+    "The system lets you encrypt or scramble the data that's sent between machines.",
+    "We'll now use that key to encrypt data.",
+    "One option is to not encrypt the key.",
+    "So Appsense has written an application called Data Locker which lets firms encrypt information in Dropbox.",
+    "\"So most people encrypt using external devices like VPNs or tools like 'stunnel, '\" Goldsmith says."
+  ]
+}

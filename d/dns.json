@@ -1,0 +1,13 @@
+{
+  "word": "dns",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Domain Name Server,域名服务器",
+  "examples": [
+    "You may need to clear your DNS cache.",
+    "DNS refers to the Domain Name System, which is a directory that connects names to numerical Internet addresses.",
+    "All servers for DNS, directory services, databases, applications, and cloud computing should be on non-Windows platforms.",
+    "The attack works by pinging, or making an enquiry, to a DNS, or name server.",
+    "Go through steps 1.0-1.4 again but this time edit the proxy settings (Leave DNS Automatic)."
+  ]
+}

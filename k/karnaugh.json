@@ -1,0 +1,11 @@
+{
+  "word": "karnaugh",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "n.[数]卡诺图(一种简化开关函数的方格图)",
+  "examples": [
+    "This paper presents a new method of asynchronous design is illustrated by the symbolic Karnaugh map.",
+    "Besides, the Karnaugh map method and algebra method are presented for designing component level circuits.",
+    "This paper discusses the foundation and the application of reduced-dimension Karnaugh map in numeral logical circuit design."
+  ]
+}

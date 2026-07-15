@@ -1,0 +1,11 @@
+{
+  "word": "modulo",
+  "phonetic": "ˈmɒdjʊləʊ",
+  "phoneticUs": "ˈmɑːdjəˌloʊ",
+  "meaning": "prep.[数]以...为模",
+  "examples": [
+    "The Checksum Word contains the twos complement of the modulo 256 sum of the.",
+    "This technique requires a variable modulo counter, another counter for the selection, and logic for state control.",
+    "Use modulo to simulate rolling the wheel: $result1 = $wheel1[rand(count($wheel1), 10*count($wheel1)) % count($wheel1)];."
+  ]
+}

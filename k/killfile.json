@@ -1,0 +1,9 @@
+{
+  "word": "killfile",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "可以过滤(或阻止)UseNet消息的文件",
+  "examples": [
+    "You can use RedditKillfile, a Greasemonkey script, to create a \"killfile\" of Reddit users whose comments you always want hidden from your browser view."
+  ]
+}

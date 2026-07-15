@@ -1,0 +1,10 @@
+{
+  "word": "unijunction",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "n.[电子]单结",
+  "examples": [
+    "Describes a new design of pulse frequency dividers in which timers NE556 and sequence control unijunction transistors are used.",
+    "It is usually implemented with a resistor or current source, a capacitor, and a \"threshold\" device such as a neon lamp, diac unijunction transistor, or Gunn diode."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "word": "serialise",
+  "phonetic": "ˈsɪəriəlaɪz",
+  "phoneticUs": "",
+  "meaning": "v.连载",
+  "examples": [
+    "How can I serialise a recursive function?",
+    "Pressing the load or save buttons will direct the form editor to serialise the form as appropriate.",
+    "One solution is to use Model.write() to serialise the model to the filesystem, and Model.read() to deserialise it on startup."
+  ]
+}

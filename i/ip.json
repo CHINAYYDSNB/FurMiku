@@ -1,0 +1,13 @@
+{
+  "word": "ip",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Internet Protocol,网际协议",
+  "examples": [
+    "Every connection that you make to the network is stamped with your IP address.",
+    "You can create an access list of IP addresses that tells the router which computers on the network require NAT.",
+    "As you can see, the NAT router stores the IP address and port number of each computer in the address translation table.",
+    "\"We are seeing an amazing move of video to IP (internet) networks, \" he said.",
+    "He says they wanted to be in social games for both original and derivative IP."
+  ]
+}

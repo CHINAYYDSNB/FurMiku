@@ -1,0 +1,13 @@
+{
+  "word": "wideband",
+  "phonetic": "ˈwaɪdbænd",
+  "phoneticUs": "ˈwaɪdbænd",
+  "meaning": "adj.包括多种频率的,可用多种频率播放的",
+  "examples": [
+    "The robots use laser range finders and ultra-wideband radio to determine distance to obstacles.",
+    "Each MUOS satellite features two payloads — a wideband code division multiple access (WCDMA) payload and a legacy UHF payload.",
+    "Wideband Code Division Multiple Access, or W-CDMA, is a cellular network supporting a wide range of voice, video and data services.",
+    "With ultra-wideband and 802.11n, people will shunt high-definition images amid other data around their households wirelessly.",
+    "CowView uses a type of RFID (radio frequency identification) called UWB (ultra-wideband) technology."
+  ]
+}

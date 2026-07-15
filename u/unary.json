@@ -1,0 +1,11 @@
+{
+  "word": "unary",
+  "phonetic": "ˈjuːnəri",
+  "phoneticUs": "ˈjuːnəri",
+  "meaning": "adj.[数]一元的",
+  "examples": [
+    "7 sin sends the unary message sin to the target object 7.",
+    "For example, the unary increment operator is named as operator + +.",
+    "Defining this unary \"operator\" in Scala is slightly tricky, but it's purely a syntactic nit."
+  ]
+}

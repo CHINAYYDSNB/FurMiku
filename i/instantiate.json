@@ -1,0 +1,11 @@
+{
+  "word": "instantiate",
+  "phonetic": "ɪnˈstænʃɪeɪt",
+  "phoneticUs": "ɪnsˈtænʃɪeɪt",
+  "meaning": "vt.例示",
+  "examples": [
+    "Instantiate an object of that class.",
+    "Instantiate a callback handler instance.",
+    "Step 3: Instantiate the parameters object."
+  ]
+}

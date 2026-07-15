@@ -1,0 +1,13 @@
+{
+  "word": "tunable",
+  "phonetic": "ˈtjuːnəb(ə)l",
+  "phoneticUs": "ˈtjʊnəbl",
+  "meaning": "adj.可调的",
+  "examples": [
+    "Change in tunable tcphasize.",
+    "VMM tunable information (vmo -l).",
+    "IDS is a complex and tunable product.",
+    "With Cassandra and Riak, the tradeoff between consistency and availability is tunable.",
+    "Normally you'd tune these things within whatever game you're playing, but quite often games will be missing some tunable parameter that you crave."
+  ]
+}

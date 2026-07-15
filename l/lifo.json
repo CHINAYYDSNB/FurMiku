@@ -1,0 +1,13 @@
+{
+  "word": "lifo",
+  "phonetic": "ˈlaɪfəʊ",
+  "phoneticUs": "",
+  "meaning": "last in,first out",
+  "examples": [
+    "It removes the last element in the List, last-in first-out (LIFO) style.",
+    "Stacks are used for storing data accessed in Last in, First Out (LIFO) order.",
+    "The instructions PUSH and QUEUE correspond to LIFO and FIFO operations on the stack.",
+    "My biggest concern is the proposal to eliminate the LIFO method for inventory accounting.",
+    "Mr. Van Hollen also draws a bead on the last-in, first-out accounting method known as Lifo."
+  ]
+}

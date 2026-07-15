@@ -1,0 +1,11 @@
+{
+  "word": "interclass",
+  "phonetic": "ˌɪntəˈklɑːs",
+  "phoneticUs": "ˌɪntərˈklæs",
+  "meaning": "adj.班级之间的,阶级之间的",
+  "examples": [
+    "The interclass correlation coefficient (ICC) was used to determine the reliability.",
+    "The inter-observer and intra-observer agreement of CCT measurement by OCT were analyzed by interclass correlation coefficient (ICC).",
+    "The method of minimum interclass variance needs to compute conic statistic in segmenting image, which costs a large computation but has less efficiency."
+  ]
+}

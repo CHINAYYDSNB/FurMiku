@@ -1,0 +1,11 @@
+{
+  "word": "referent",
+  "phonetic": "ˈrefərənt",
+  "phoneticUs": "ˈrefərənt",
+  "meaning": "n.指示物",
+  "examples": [
+    "The get method returns the reference to the referent object.",
+    "A weak reference is a holder for a reference to an object, called the referent.",
+    "The SoftReference object's referent field is set to null, thereby making it not refer to the heap object any longer."
+  ]
+}

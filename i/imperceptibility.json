@@ -1,0 +1,11 @@
+{
+  "word": "imperceptibility",
+  "phonetic": "ɪmpəˌseptəˈbɪləti",
+  "phoneticUs": "ɪmpərseptəˈbɪləti",
+  "meaning": "n.没法感知,看不见,细微",
+  "examples": [
+    "This paper proposes a new image watermarking scheme in order to solve the contradiction between imperceptibility and robustness.",
+    "The experiments show that the algorithm has great function to improve the imperceptibility and robustness of the concealed information.",
+    "The experimental results show that the algorithm is realized easily and visually effective with satisfying imperceptibility and robustness."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "word": "passband",
+  "phonetic": "ˈpɑːsˌbænd",
+  "phoneticUs": "ˈpæsˌbænd",
+  "meaning": "n.[电子]通频带,传输频带",
+  "examples": [
+    "Orthonormal expansions at baseband and passband.",
+    "This reduces gain but widens the amplifier's passband.",
+    "Improve of stopband attenuation and passband fluctuation."
+  ]
+}

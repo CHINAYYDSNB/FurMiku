@@ -1,0 +1,13 @@
+{
+  "word": "tessellation",
+  "phonetic": "ˌtesɪˈleɪʃən",
+  "phoneticUs": "ˌtesɪˈleɪʃn",
+  "meaning": "n.镶嵌成小方格,棋盘形布置,镶嵌式铺装",
+  "examples": [
+    "Each cell in a Voronoi tessellation is a convex polyhedron.",
+    "Reduced terrain mesh popping from over-aggressive tessellation.",
+    "We can also change tessellation level based on distance from the camera.",
+    "Escher and his use of tessellation which uses a two-dimensional plane with a repeating geometric shape with no overlaps and no gaps.",
+    "The 3DMark DirectX 11 tech demo brings this scene to life with intelligent tessellation and advanced volumetric lighting using real-time light scattering."
+  ]
+}

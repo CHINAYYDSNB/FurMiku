@@ -1,0 +1,11 @@
+{
+  "word": "manostat",
+  "phonetic": "ˈmænəʊstæt",
+  "phoneticUs": "ˈmænəˌstæt",
+  "meaning": "n.[物]稳压器",
+  "examples": [
+    "This manostat can serve as a TTL circuit or MCU circuitry of power sources.",
+    "A manostat output voltage and maximum output current depends on the selected three end stabilizer.",
+    "Discusses the DC manostat used in the DC system at Yimin Power Plant in terms of safety and reliability."
+  ]
+}

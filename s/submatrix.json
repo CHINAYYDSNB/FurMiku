@@ -1,0 +1,11 @@
+{
+  "word": "submatrix",
+  "phonetic": "ˈsʌbˌmeɪtrɪks",
+  "phoneticUs": "sʌbˈmeɪtrɪks",
+  "meaning": "n.[数]子(矩)阵",
+  "examples": [
+    "The matrix extension problem is, under some constrained conditions, constructing a matrix A with a given matrix A_0 as its submatrix.",
+    "This paper considers the problem of constructing a special kind of matrices from defective eigenpairs and the leading principal submatrix.",
+    "The generalized inverse of partitioned matrices and the expression of generalized inverse using maximal nonsingular submatrix are discussed."
+  ]
+}

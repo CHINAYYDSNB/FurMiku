@@ -1,0 +1,12 @@
+{
+  "word": "ntfs",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "New Technology File System,新技术文件系统",
+  "examples": [
+    "Note: This will only work with NTFS formatted drives.",
+    "This tab exists only for files stored on NTFS volumes.",
+    "Recover Deleted Files on an NTFS Hard Drive from a Ubuntu Live CD",
+    "This new setup program immediately saw that I had an empty and idle 240GB drive (already formatted as NTFS using Windows 7's stock disc management utility) and allowed me to install Windows 8 there."
+  ]
+}

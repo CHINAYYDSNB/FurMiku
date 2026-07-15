@@ -1,0 +1,9 @@
+{
+  "word": "mipmap",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "MIP映射",
+  "examples": [
+    "We can filter textures by using the minification, magnification, and mipmap filter sampler states."
+  ]
+}

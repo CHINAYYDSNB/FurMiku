@@ -1,0 +1,10 @@
+{
+  "word": "msie",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Master of Science in Industrial Engineering 工业工程学硕士",
+  "examples": [
+    "The new regular expression in the second line matches any string that contains MSIE or starts with Lynx.",
+    "The second line, the first rewrite condition, indicates that following rules only apply when the user-agent string in the HTTP request header contains the substring MSIE."
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "word": "imap",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Internet Message Access Protocol,Internet消息访问协议",
+  "examples": [
+    "IMAP not for the weak (servers).",
+    "Check your filters and disable imap.",
+    "Messages in IMAP mailboxes have unique Numbers.",
+    "With the launch of CardDAV, it's now possible to build a seamless sync experience using open protocols (IMAP, CalDAV and CardDAV) for Gmail, Google Calendar and Contacts."
+  ]
+}

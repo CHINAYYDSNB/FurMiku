@@ -1,0 +1,11 @@
+{
+  "word": "vfat",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Virtual File Allocation Table,虚拟文件分配表",
+  "examples": [
+    "Vfat: Microsoft's Fat32 file system.",
+    "VFAT cannot continue loading.",
+    "Specify the type of partition: ext2, ext3, vfat, swap, or prep."
+  ]
+}

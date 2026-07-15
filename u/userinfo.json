@@ -1,0 +1,13 @@
+{
+  "word": "userinfo",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "n.用户信息",
+  "examples": [
+    "Listing 4 shows the request for the userinfo.",
+    "This notification does not contain a userInfo dictionary.",
+    "The UserInfo class controls and interacts with the user information database.",
+    "The contents of the userInfo dictionary for PKPassLibraryDidChangeNotification have changed in the case of removed passes.",
+    "Please consult the latest documentation for the new userInfo dictionary."
+  ]
+}

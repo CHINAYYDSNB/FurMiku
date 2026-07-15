@@ -1,0 +1,11 @@
+{
+  "word": "electrogram",
+  "phonetic": "ɪˈlektrəʊˌɡræm",
+  "phoneticUs": "ɪˈlektrəɡræm",
+  "meaning": "n.[医]电描记图",
+  "examples": [
+    "The electrogram data sensed at each of the plurality of locations in the heart is mapped to a corresponding element of the FEM.",
+    "The body surface sinus node electrogram (SNEb) was recorded in 116 young healthy students by using programme double time constant amplifier.",
+    "Thus, each of the elements of the FEM has associated electrogram data which was sensed at the location in the heart corresponding to that element."
+  ]
+}

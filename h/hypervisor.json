@@ -1,0 +1,13 @@
+{
+  "word": "hypervisor",
+  "phonetic": "ˈhaɪpəvaɪzə(r)",
+  "phoneticUs": "ˈhaɪpərvaɪzər",
+  "meaning": "n.(系统)管理程序",
+  "examples": [
+    "Adding the hypervisor to a cloud group.",
+    "Copying the VM template files to a target hypervisor.",
+    "The hypervisor is a platform-virtualization software.",
+    "How the various security vendors plan to address hypervisor access is still an open question.",
+    "To reach the hypervisor, he had to get past two chips called the Cell and the Cell Memory."
+  ]
+}

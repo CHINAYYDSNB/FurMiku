@@ -1,0 +1,13 @@
+{
+  "word": "timeout",
+  "phonetic": "ˈtaɪmaʊt",
+  "phoneticUs": "ˈtaɪmaʊt",
+  "meaning": "n.<主美>(球类比赛中的)暂时休息,(工作时的)工间休息",
+  "examples": [
+    "If it is waiting indefinitely, then it is set to the maximum timeout value at runtime.",
+    "What is a timeout?",
+    "Change the connection timeout to 4800.",
+    "Coming out of the timeout, the Buckeyes put together their best run of the game.",
+    "After a timeout, Bryant's 3-pointer drew the Lakers to 101-100 with 2 seconds left."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "word": "holddown",
+  "phonetic": "ˈhəʊldˌdaʊn",
+  "phoneticUs": "ˈhoʊldˌdaʊn",
+  "meaning": "n.垂下,阻止",
+  "examples": [
+    "It USES holddown timers to prevent routing loops - default is 180 seconds.",
+    "Suddenly, he stopped and holddown his arms. This happy young man didn't wear underlinen!",
+    "In Figure, the holddown timer is set to 180 seconds. Therefore, an update to a route that was down and is now up could stay in the holddown state until the full 180 seconds have passed."
+  ]
+}

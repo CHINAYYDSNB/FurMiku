@@ -1,0 +1,11 @@
+{
+  "word": "exfiltrate",
+  "phonetic": "ˈeksfɪltreɪt",
+  "phoneticUs": "eksˈfɪltreɪt",
+  "meaning": "溜出敌军阵地",
+  "examples": [
+    "Duqu uses mock .jpg files along with other dummy files, all encrypted, to exfiltrate data.",
+    "Aside from purposeful leaking by employees, that also allows computers hijacked by malware and drawn into botnets to exfiltrate data.",
+    "And in a large corporation or agency, plenty of the documents a leaker might want to exfiltrate are shared among a crowd of users, all of whom have authorized access."
+  ]
+}

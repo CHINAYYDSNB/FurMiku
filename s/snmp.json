@@ -1,0 +1,11 @@
+{
+  "word": "snmp",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Simple Network Management Protocol,简单网络管理协议",
+  "examples": [
+    "Pick a node to be the SNMP management node.",
+    "Some switches come with SNMP enabled by default.",
+    "This user will be configured with SNMP V3 credentials."
+  ]
+}

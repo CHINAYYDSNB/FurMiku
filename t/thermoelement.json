@@ -1,0 +1,10 @@
+{
+  "word": "thermoelement",
+  "phonetic": "ˌθɜːməʊˈelɪməntˈ",
+  "phoneticUs": "",
+  "meaning": "n.[物]热电偶,温差电偶 热电元件,温差电元件",
+  "examples": [
+    "A tripping device comprises a traction rod, a thermoelement, a bimetallic element, a magnetic system, a lock catch, and a jump pin.",
+    "NIST measures the AC-DC difference of customer's thermal voltage converters by comparing them with standards composed of a thermoelement in series with a multiplying resistor."
+  ]
+}

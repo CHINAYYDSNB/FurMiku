@@ -1,0 +1,10 @@
+{
+  "word": "semilog",
+  "phonetic": "ˈsemɪˌlɒɡ",
+  "phoneticUs": "ˈsemɪˌlɑːɡ",
+  "meaning": "adj.=semilogarithmic",
+  "examples": [
+    "There is a correlation between accumulated water production rate and accumulated oil production rate, which is a linear relation on semilog coordinate.",
+    "The cumulative plastic strain energy increases with the increase of the loading frequency and stress level, which is linear with fatigue life on semilog coordinate."
+  ]
+}

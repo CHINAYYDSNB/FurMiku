@@ -1,0 +1,11 @@
+{
+  "word": "restartable",
+  "phonetic": "riːˈstɑːtəbl",
+  "phoneticUs": "",
+  "meaning": "adj.可重新开始的,可重新起动的",
+  "examples": [
+    "One of CVM's design criteria is to be restartable even when you run it on an OS that is not process based.",
+    "In addition, GVPE is also easy to setup and configure as a restartable and permanent service, while still retaining security.",
+    "The research emphasis is restartable nitrous oxide monopropellant thruster suitable for keeping the position and phase of small satellite."
+  ]
+}

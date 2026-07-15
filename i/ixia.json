@@ -1,0 +1,10 @@
+{
+  "word": "ixia",
+  "phonetic": "ˈɪksiə",
+  "phoneticUs": "",
+  "meaning": "n.[植]鸢属科属植物",
+  "examples": [
+    "During the throughput testing, the 8500e interpreted a massive amount of data sent by the Ixia over six ports as a DoS attack, and immediately blocked all traffic.",
+    "The paper introduces main EPON technology, which includes ranging, ONU joining and upstream transmit alignment, etc. It also introduces EPON testing methodology and IXIA test solution."
+  ]
+}

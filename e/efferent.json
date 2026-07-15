@@ -1,0 +1,11 @@
+{
+  "word": "efferent",
+  "phonetic": "ˈefərənt",
+  "phoneticUs": "ˈefərənt",
+  "meaning": "adj.[医]传出的n.[医]输出管",
+  "examples": [
+    "Measure: Efferent coupling (fan-out per class).",
+    "Think of efferent coupling as the inverse of afferent coupling.",
+    "Efferent coupling measures the number of classes the current class references."
+  ]
+}

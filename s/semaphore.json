@@ -1,0 +1,11 @@
+{
+  "word": "semaphore",
+  "phonetic": "ˈseməfɔː(r)",
+  "phoneticUs": "ˈseməfɔːr",
+  "meaning": "n.旗语",
+  "examples": [
+    "A type of semaphore with just two states.",
+    "Then it atomically decreases the semaphore count.",
+    "If this is null, the semaphore cannot be inherited."
+  ]
+}

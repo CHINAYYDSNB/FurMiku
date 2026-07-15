@@ -1,0 +1,11 @@
+{
+  "word": "microvolt",
+  "phonetic": "ˈmaɪkrəʊˌvəʊlt",
+  "phoneticUs": "ˈmaɪkrəˌvoʊlt",
+  "meaning": "微伏(等于1伏特的百万分之一)",
+  "examples": [
+    "Where the volt is too large a unit, we use the millivolt or microvolt.",
+    "The clinical tests showed that the method is effective for microvolt T-wave alternans detection.",
+    "Spurious microvolt level signals are often present in low resistance circuits, most often as a result of thermoelectric effects."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "word": "metaphone",
+  "phonetic": "ˈmetəfəʊn",
+  "phoneticUs": "",
+  "meaning": "n.[语]变音位(指音位的自由变体)",
+  "examples": [
+    "Web server pages and metaphone codes.",
+    "Use the program buildMetaphones.pl in Listing 10 to create your own metaphone databases.",
+    "The Metaphone algorithm USES 16 consonant classes represented by the following characters."
+  ]
+}

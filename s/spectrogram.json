@@ -1,0 +1,11 @@
+{
+  "word": "spectrogram",
+  "phonetic": "ˈspektrəʊɡræm",
+  "phoneticUs": "ˈspektrəˌɡræm",
+  "meaning": "n.[物]光谱图,光谱照片,声谱图",
+  "examples": [
+    "A spectrogram based on PC is presented.",
+    "The term \"spectrogram\" is borrowed from optics .",
+    "Why reducing the window length, causes empty rows in spectrogram?"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "word": "interfile",
+  "phonetic": "ˌɪntəˈfaɪl",
+  "phoneticUs": "",
+  "meaning": "vt.把...合并为一宗档案,把...归入档案,使归入系列",
+  "examples": [
+    "The link step resolves interfile dependencies.",
+    "The link step resolves interfile dependencies, such as linking a function call in one file to a function definition contained in a second file."
+  ]
+}

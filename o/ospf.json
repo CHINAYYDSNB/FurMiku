@@ -1,0 +1,11 @@
+{
+  "word": "ospf",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Open Shortest Path First,开放最短路优先",
+  "examples": [
+    "OSPF was designed to support variable-length subnet masking (VLSM).",
+    "Then, we started the OSPF service",
+    "The port for OSPF configuration is 2604."
+  ]
+}

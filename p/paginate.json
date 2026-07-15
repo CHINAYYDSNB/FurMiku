@@ -1,0 +1,11 @@
+{
+  "word": "paginate",
+  "phonetic": "ˈpædʒɪneɪt",
+  "phoneticUs": "ˈpædʒɪneɪt",
+  "meaning": "vt.标页数",
+  "examples": [
+    "The page parameter allows you to paginate your results.",
+    "I need a relation because I want to paginate the results.",
+    "The paginate attribute determines whether or not pagination is required."
+  ]
+}

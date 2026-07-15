@@ -1,0 +1,13 @@
+{
+  "word": "gprs",
+  "phonetic": "ˌdʒiː piː ɑːr ˈes",
+  "phoneticUs": "ˌdʒiː piː ɑːr ˈes",
+  "meaning": "General Packet Radio Service,通用无线分组业务",
+  "examples": [
+    "The GPRS network connects to an external network (like the Internet) using a GGSN (Gateway GPRS Support Node).",
+    "Thus, if a signal was not as strong in a particular area, the phone would revert back to the slower GPRS and EDGE networks.",
+    "Quick Tip: Beware GPRS (mobile web) charges – probably best that you ring your network helpline and inquire about data charges.",
+    "But GPRS connections aren't much faster than what you might expect from a dialup mode.",
+    "\"GPRS is going to make this kind of thing more attractive to consumers, \" AOL's Bylin said."
+  ]
+}

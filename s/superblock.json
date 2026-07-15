@@ -1,0 +1,12 @@
+{
+  "word": "superblock",
+  "phonetic": "ˈsuːpəblɒk",
+  "phoneticUs": "ˈsuːpərˌblɑːk",
+  "meaning": "n.<美>车辆禁行区(指都市内禁止车辆通行的住宅或商业区)",
+  "examples": [
+    "These objects are the superblock, inode, dentry, and file.",
+    "The superblock is a structure that represents a file system.",
+    "The superblock is the container for high-level metadata about a file system.",
+    "Some are being restored and reconnected in the rebuilt, sterile superblock of the World Trade Center site."
+  ]
+}

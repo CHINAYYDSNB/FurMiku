@@ -1,0 +1,10 @@
+{
+  "word": "rowel",
+  "phonetic": "ˈraʊəl",
+  "phoneticUs": "ˈraʊəl",
+  "meaning": "n.小齿轮,排脓条vt.以齿轮刺马,将排脓条插入",
+  "examples": [
+    "The intelligent logic for answering the question becomes a matter of determining the proper word, which in the first case is Rowel and in the second is Estival.",
+    "The tests shown in Listing 8 verify that a word defined with synonyms returns them correctly, and also that one without any synonyms (Rowel) returns an empty List."
+  ]
+}

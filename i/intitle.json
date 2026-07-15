@@ -1,0 +1,11 @@
+{
+  "word": "intitle",
+  "phonetic": "ɪnˈtaɪtl",
+  "phoneticUs": "ɪnˈtaɪtl",
+  "meaning": "v.取名,给予称号",
+  "examples": [
+    "If you're looking for files rather than pages - give index of as the intitle: parameter.",
+    "The result of a Google Books API search for '+ intitle: PHP' shows two of 310 results filtered by title.",
+    "Google has some very powerful, hidden search parameters, too. For example \"intitle\" only searches page titles."
+  ]
+}

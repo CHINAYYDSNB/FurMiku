@@ -1,0 +1,13 @@
+{
+  "word": "echo",
+  "phonetic": "ˈekəʊ",
+  "phoneticUs": "ˈekoʊ",
+  "meaning": "n.回声,回音,回波vi.发回声,随声附和vt.摹仿,重复,反射 [计] 禁止(或允许)在屏幕上显示批处理命令行",
+  "examples": [
+    "The hills sent back a faint echo.",
+    "There was an echo on the line and I couldn't hear clearly.",
+    "His words were an echo of what she had heard many times before.",
+    "And the other thing is that I can't echo enough the importance of really good hygiene.",
+    "So, any errors in reception are simply retransmitted along with the slight echo caused by the booster itself."
+  ]
+}

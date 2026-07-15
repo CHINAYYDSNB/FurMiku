@@ -1,0 +1,12 @@
+{
+  "word": "multicast",
+  "phonetic": "ˈmʌltikɑːst",
+  "phoneticUs": "ˈmʌltikæst",
+  "meaning": "多点传送",
+  "examples": [
+    "Multicast of ports and flow ports.",
+    "GroupName: The multicast group number.",
+    "Note that some multicast addresses may be reserved.",
+    "Amimon continues to add new features and improvements over those currently found in WHDI, such as support for video rates up to 4Kx2K, multicast, advanced control links, and increased range."
+  ]
+}

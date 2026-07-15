@@ -1,0 +1,10 @@
+{
+  "word": "isobath",
+  "phonetic": "ˈaɪsəʊˌbæθ",
+  "phoneticUs": "aɪsoʊˌbæθ; aɪsəˌbæθ",
+  "meaning": "n.等深线",
+  "examples": [
+    "The project site is located at Shizimen in the northeast of Qushan Island, Daishan County. The isobath above 16m is about 600m away from the shore.",
+    "Water depth data (main parameters), which was matching to model's grid structure, was obtained by using the function of GIS digital elevation model (DEM) to linear-interpolate the isobath of chart."
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "word": "interpolation",
+  "phonetic": "ɪnˌtɜːpəˈleɪʃ(ə)n",
+  "phoneticUs": "ɪnˌtɜːrpəˈleɪʃ(ə)n",
+  "meaning": "n.篡改,添写,插补",
+  "examples": [
+    "The chroma interpolation along edges produces noticeable haloing artifacts.",
+    "And then an interpolation scheme.",
+    "You can choose a linear interpolation or quadratic, but you've got to choose it.",
+    "The RAW data format of the camera keep brightness and color data in a 1:1 ratio without relying on interpolation."
+  ]
+}

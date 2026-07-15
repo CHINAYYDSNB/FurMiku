@@ -1,0 +1,11 @@
+{
+  "word": "hmcs",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Her(或His)Majesty's Canadian Ship加拿大皇家海军舰艇",
+  "examples": [
+    "It would run every hour, to correspond with my one hour sample rate on the HMCs.",
+    "In Figure 2, there are two HMCs from which lpar2rrd is collecting utilization data.",
+    "The lpar2rrd user on hxnim1 was able to ssh directly to both of my HMCs without a password."
+  ]
+}

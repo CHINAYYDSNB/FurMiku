@@ -1,0 +1,11 @@
+{
+  "word": "iges",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "基本图形转换规范",
+  "examples": [
+    "Analyze IGES files and extract graphics data.",
+    "This paper presents the implementation of an IGES post-processor.",
+    "A new arithmetic of transforming IGES files to STL files is presented."
+  ]
+}

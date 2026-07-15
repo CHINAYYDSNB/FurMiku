@@ -1,0 +1,10 @@
+{
+  "word": "indeterministic",
+  "phonetic": "ˈɪndɪˌtɜːmɪˈnɪstɪk",
+  "phoneticUs": "",
+  "meaning": "adj.非命运论者的,非定命论者的",
+  "examples": [
+    "One is that the former is an essentially deterministic theory and the latter is essentially indeterministic.",
+    "2 threads, where 1 should initialize some data, which takes an indeterministic amount of time, and the other thread needs to wait for that."
+  ]
+}

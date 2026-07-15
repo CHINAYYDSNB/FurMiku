@@ -1,0 +1,12 @@
+{
+  "word": "firstname",
+  "phonetic": "ˌfɜːstˈneɪm",
+  "phoneticUs": "",
+  "meaning": "n.名",
+  "examples": [
+    "In Listing 4, firstname is a string that is specified at runtime.",
+    "Listing 2 shows the equivalent code that will be generated for the firstName field.",
+    "To see the list of contacts sorted by first name, click the Sort by Firstname button.",
+    "The default to display would be Firstname Familyname, but any others would count."
+  ]
+}

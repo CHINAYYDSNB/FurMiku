@@ -1,0 +1,11 @@
+{
+  "word": "emissive",
+  "phonetic": "ɪˈmɪsɪv",
+  "phoneticUs": "ɪˈmɪsɪv",
+  "meaning": "adj.发射的,放射性的",
+  "examples": [
+    "There are four colors: Ambient, Emissive, Diffuse, and Specular.",
+    "Emissive light: an object can send out light to imitate glowing objects.",
+    "This pass also adds any lightmaps, ambient and emissive lighting from the shader."
+  ]
+}

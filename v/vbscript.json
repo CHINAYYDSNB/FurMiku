@@ -1,0 +1,11 @@
+{
+  "word": "vbscript",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Visual Basic 描述语言",
+  "examples": [
+    "This isn't the first time Visual Basic was used as a templating language, VBScript was the default language for classic ASP.",
+    "When viewed in Microsoft Internet Explorer or another browser that supports VBScript, an alert box displaying \"hello\" appears upon loading the document.",
+    "In VBScript, you can concatenate the string '12' and the integer 3 to get the string '123', then treat that as the integer 123, all without any explicit conversion."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "word": "specifiable",
+  "phonetic": "ˈspesɪfaɪəbl",
+  "phoneticUs": "ˈspesɪfaɪəbl",
+  "meaning": "adj.可指明的,可列举的",
+  "examples": [
+    "The depth of information produced from a diagnostic trace is specifiable.",
+    "If your application runs beyond this specifiable hang threshold, a notification will be sent out about the potentially hung thread.",
+    "Determines validity by comparing a specific field in one control to a specific field in another control using a specifiable comparison operator."
+  ]
+}

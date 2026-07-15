@@ -1,0 +1,13 @@
+{
+  "word": "sql",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Structured Query Language,结构化查询语言",
+  "examples": [
+    "Execute the SQL statement.",
+    "Format SQL when code is generated or after SQL is modified.",
+    "Parameterized SQL is great if you absolutely must use ad hoc SQL.",
+    "Analyst 1.0 has some coding skills, and perhaps writes an SQL query here and there.",
+    "My research work there was commercialized in SQL Server 2008 and 2012, which was very exciting."
+  ]
+}

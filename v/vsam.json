@@ -1,0 +1,11 @@
+{
+  "word": "vsam",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Virtual Sequential Access Method,虚拟串行访问方法",
+  "examples": [
+    "A VSAM file that contains product details is available on MVS.",
+    "This includes creating the VSAM file that holds the product information.",
+    "Use the IDCAMS utility to create a VSAM KSDS cluster, data, and index datasets."
+  ]
+}

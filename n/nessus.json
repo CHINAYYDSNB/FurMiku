@@ -1,0 +1,12 @@
+{
+  "word": "nessus",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "n.[希神]内萨斯(半人半马怪物)",
+  "examples": [
+    "Listing 1: Nessus command-line mode.",
+    "Listing 2: Nessus command-line example.",
+    "Listing 3: Constructor for the Nessus class.",
+    "Spend some time exploring your network with Nessus, nmap2, and Firewalk, discovering its vulnerabilities as if you were an outsider peeking in."
+  ]
+}

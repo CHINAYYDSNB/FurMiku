@@ -1,0 +1,10 @@
+{
+  "word": "reusage",
+  "phonetic": "ˌriːˈjuːsɪdʒ",
+  "phoneticUs": "ziˈjʊsɪdʒ",
+  "meaning": "n.再使用 重复使用",
+  "examples": [
+    "Software component technology realizes the reusage by encapsulating certain functions, and is regard as a key factor to realize the software reusage.",
+    "To process chroma interpolation, a parallel structure with a realization of 2-level multiplications for each row reference data is put on, that makes the reusage of the mulplicator."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "word": "nonempty",
+  "phonetic": "nɒnˈempti",
+  "phoneticUs": "ˌnɑːnˈempti",
+  "meaning": "adj.[数]非空的",
+  "examples": [
+    "The boundary of a contains a nonempty open set.",
+    "If it is finite and nonempty, then it must contain at least one idempotent.",
+    "A thread is dispatched from the front of the nonempty run-queue with the highest priority."
+  ]
+}

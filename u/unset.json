@@ -1,0 +1,11 @@
+{
+  "word": "unset",
+  "phonetic": "ʌnˈset",
+  "phoneticUs": "ʌnˈset",
+  "meaning": "adj.未凝固的,未安装的v.弄乱",
+  "examples": [
+    "To unset a variable, use unset.",
+    "Substituting for null or unset variables.",
+    "Unset alter mode on the replicated tables."
+  ]
+}

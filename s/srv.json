@@ -1,0 +1,11 @@
+{
+  "word": "srv",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "space rescue vehicle 航天营救飞行器",
+  "examples": [
+    "then your system will support SRV records (RFC 2782).",
+    "Please could you add the following SRV record to the appropriate zone file.",
+    "The reason for this SRV record is to allow clients running the LSID protocol."
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "word": "syllabification",
+  "phonetic": "sɪˌlæbɪfɪˈkeɪʃn",
+  "phoneticUs": "sɪˌlæbɪfɪˈkeɪʃn",
+  "meaning": "n.[语]划分音节,按音节的发音",
+  "examples": [
+    "This paper proposes a syllabification algorithm based on constraint tree, in which morphological rules constraint, metrical rules constraint and phonotactic rules constraint are imposed.",
+    "Through analyzing those words, it is used to validate that whether the syllables of Standard Chinese (Mandarin) follows one general principle of syllabification: Minimal Onset Satisfaction."
+  ]
+}

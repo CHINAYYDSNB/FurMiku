@@ -1,0 +1,11 @@
+{
+  "word": "dmt",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "discrete multitone,离散编码",
+  "examples": [
+    "A clock synchronization method used in ADSL systems based on Discrete Multitone(DMT) is presented.",
+    "The error correcting and decoding, interleave and and DMT modulation and demodulation are analyzed in detail.",
+    "The main works in the paper could be described as follow: Study the theory of ADSL and DMT, design and debug the high density 32 line ADSL board for co."
+  ]
+}

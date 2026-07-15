@@ -1,0 +1,12 @@
+{
+  "word": "tdma",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Time Division Multiple Access,时分多路寻址技术",
+  "examples": [
+    "An acquisition method of frequency hopping signal in a TDMA system is presented in this paper.",
+    "PHS uses TDMA/TDD for its radio channel access method, and 32 kbit/s ADPCM for its voice codec.",
+    "The maximum data rates are achieved only by allocation of more than one time slot in the TDMA frame.",
+    "Even when you look at cellular phones in the second generation you have four different standards: GSM, TDMA, CDMA, PDC."
+  ]
+}

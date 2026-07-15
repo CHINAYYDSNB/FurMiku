@@ -1,0 +1,11 @@
+{
+  "word": "nonzero",
+  "phonetic": "ˌnɒnˈzɪərəʊ",
+  "phoneticUs": "nɑːnˈzɪroʊ",
+  "meaning": "[计] 非零",
+  "examples": [
+    "Its value must be a positive nonzero integer number.",
+    "If the function succeeds, the return value is nonzero.",
+    "The only convention prescribed is that 0 should be returned for success and a nonzero value for failure."
+  ]
+}

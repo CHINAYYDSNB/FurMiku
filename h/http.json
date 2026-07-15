@@ -1,0 +1,13 @@
+{
+  "word": "http",
+  "phonetic": "ˌeɪtʃ tiː tiː ˈpiː",
+  "phoneticUs": "ˌeɪtʃ tiː tiː ˈpiː",
+  "meaning": "Hypertext Transfer Protocol,超文本传输协议",
+  "examples": [
+    "We need to put a http-equiv.",
+    "HTTP clients include this token in all future HTTP requests.",
+    "HTTP tests can now be directed through an HTTP proxy and other changes.",
+    "Here we are going to set up the DNS and HTTP settings on a FreeBSD machine.",
+    "Creating rules and filters that trigger messages, tweets or even HTTP requests are elegant and effortless."
+  ]
+}

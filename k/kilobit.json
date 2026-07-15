@@ -1,0 +1,13 @@
+{
+  "word": "kilobit",
+  "phonetic": "ˈkɪləbɪt",
+  "phoneticUs": "ˈkɪləbɪt",
+  "meaning": "n.[计] 千(二进制)位,千比特",
+  "examples": [
+    "One kilobit ( Kb ) is 1024 bits. One megabit ( Mb ) is 1024 kilobits. One gigabit ( Gb ) is 1024 megabits.",
+    "Commercial broadband Internet commonly has 256 kilobit per second, which is about the slowest broadband speed for connections advertised worldwide.",
+    "Its engineers showed off a 256-kilobit MRAM embedded in a standard microprocessor.",
+    "VOD, a unique 300 kilobit per second (kbps) data stream has to be allocated for the duration of the transmission to each user.",
+    "In February Motorola offered a peek at just how far the MRAM quest has come, when its engineers showed off a 256-kilobit MRAM embedded in a standard microprocessor."
+  ]
+}

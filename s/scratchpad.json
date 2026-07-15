@@ -1,0 +1,11 @@
+{
+  "word": "scratchpad",
+  "phonetic": "ˈskrætʃpæd",
+  "phoneticUs": "ˈskrætʃpæd",
+  "meaning": "便签簿,中间结果暂存器",
+  "examples": [
+    "notes -- temporary \"scratchpad\" notes",
+    "A valid write to the scratchpad will clear the PF bit.",
+    "Read access to these registers is through the scratchpad."
+  ]
+}

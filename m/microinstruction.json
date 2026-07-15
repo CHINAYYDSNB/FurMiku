@@ -1,0 +1,10 @@
+{
+  "word": "microinstruction",
+  "phonetic": "ˈmaɪkrəʊɪnstrʌkʃn",
+  "phoneticUs": "ˈmaɪkroʊɪnstrʌkʃn",
+  "meaning": "n.[计]微指令",
+  "examples": [
+    "No decoding is needed to microinstruction.",
+    "Combined with the design of a math coprocessor, the paper dis-cusses how to determine microinstruction format and write microgram code. Multiplication code is presented as an example."
+  ]
+}

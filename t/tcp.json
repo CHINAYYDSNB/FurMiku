@@ -1,0 +1,13 @@
+{
+  "word": "tcp",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Transfer Control Protocol,传输控制协议 /TCP/IP软件 /TCP/IP栈 /用于网络的一组通讯协议,包括IP(Internet Protocol)和TCP(Transmission Control Protocol) /TCP/IP衛 suite//TCP/IP协议栈",
+  "examples": [
+    "He recruited some of the workers to start making spiral bulbs for TCP.",
+    "The dendrites of the TCP neurons usually make axodendritic synapses and dendrodendritic synapses with axonal terminals and presynaptic dendrites, respectively.",
+    "The internet sends information as discrete packets of data using a suite ofprotocols known as TCP/IP.",
+    "Known as TCP, the Transmission Control Protocol is core to the functioning of the the Internet.",
+    "Yet TCP is facing a new problem: technology used in energy-efficient light bulbs is changing."
+  ]
+}

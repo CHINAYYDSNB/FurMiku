@@ -1,0 +1,10 @@
+{
+  "word": "filelist",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "文件清单",
+  "examples": [
+    "The server side runs a RESTful service that implements the rest/filestore/filelist request.",
+    "I am working on a file explorer, which shows a file list, inside the filelist, which requires to place a file icon next to each file in a folder."
+  ]
+}

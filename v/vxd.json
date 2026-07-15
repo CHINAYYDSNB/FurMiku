@@ -1,0 +1,11 @@
+{
+  "word": "vxd",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Virtual Device Driver 虚拟设备驱动程序",
+  "examples": [
+    "How to protect the CMOS data with VXD technology is discussed in this paper.",
+    "Whether to use standard O/S services, or put some code into the kernel (e. g. in a custom driver, kernel module, or VxD)",
+    "The difficulties of the whole system design are the design of the pit judgment arithmetic, the writing of the HY6070 VXD, the design and operation about the database."
+  ]
+}

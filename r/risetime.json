@@ -1,0 +1,11 @@
+{
+  "word": "risetime",
+  "phonetic": "ˈraɪztaɪm",
+  "phoneticUs": "ˈraɪzˌtaɪm",
+  "meaning": "n.[电] 上升时间",
+  "examples": [
+    "General pulsers can obtain sharp risetime only when it is used for a resistive load.",
+    "The risetime of electrical pulse and the delay-time between the linear model and nonlinear model are calculated in this paper, and the results match the experimental measure.",
+    "These results calculated by the analytic theory are close to those obtained by PIC simulation and reveal the advantages of high efficiency and short microwave pulse risetime for the generator."
+  ]
+}

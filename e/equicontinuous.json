@@ -1,0 +1,11 @@
+{
+  "word": "equicontinuous",
+  "phonetic": "ˌiːkwɪkənˈtɪnjʊəs",
+  "phoneticUs": "",
+  "meaning": "adj.同等连续的",
+  "examples": [
+    "Theorem 3 X is a bornologic space if and only if every uniformly bounded set of linear operators from X to Y is equicontinuous.",
+    "We characterize almost periodicity with equicontinuity, and prove that if the group is uniform equicontinuous then it is topologically equivalent to an isometric one.",
+    "In this paper, the following two properties of compact system be proved; (1) a factor of a minimal system is minimal; (2) a factor of an equicontinuous system is equicontinuous system."
+  ]
+}

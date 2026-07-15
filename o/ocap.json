@@ -1,0 +1,13 @@
+{
+  "word": "ocap",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Open Cable Application Platform,开放式线缆应用平台",
+  "examples": [
+    "Build structure of the OCAP implementation.",
+    "You are almost ready to start building OCAP applications.",
+    "The OCAP RI locates an application using two main files.",
+    "Cable's solution to this is middleware software originally called OpenCable Application Platform ( OCAP) and more recently renamed to simply: OpenCable.",
+    "OpenCable Application Platform (OCAP) would allow the cable company to download the same software to every CableCARD 2.0 host device regardless of the manufacturer."
+  ]
+}

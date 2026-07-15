@@ -1,0 +1,11 @@
+{
+  "word": "ftpd",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "文件传输服务器软件",
+  "examples": [
+    "And for the FTP daemon, the file FTPD would be created.",
+    "The ftp daemon (ftpd), for example, could benefit from this capability.",
+    "Where is the actual daemon, for example ftpd, and is the IP or hostname"
+  ]
+}

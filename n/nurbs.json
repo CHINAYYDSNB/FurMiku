@@ -1,0 +1,11 @@
+{
+  "word": "nurbs",
+  "phonetic": "nɜːbz",
+  "phoneticUs": "",
+  "meaning": "曲线曲面的非均匀有理B样条",
+  "examples": [
+    "A algorithm is presented for locally fairing NURBS curves.",
+    "NURBS curve has been widely used in curve and surface design.",
+    "This thesis studies the problems of geometric continuity in NURBS surfaces reconstruction."
+  ]
+}

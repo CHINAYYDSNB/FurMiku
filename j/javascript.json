@@ -1,0 +1,13 @@
+{
+  "word": "javascript",
+  "phonetic": "ˈdʒɑ:vəˌskrɪpt",
+  "phoneticUs": "ˈdʒɑːvəˌskrɪpt",
+  "meaning": "n.Java描述语言",
+  "examples": [
+    "The second page of the wizard is the Import JavaScript Library screen.",
+    "Listing 8 shows a JavaScript file that includes comments and extra formatting.",
+    "You can add additional hints and drag sources dynamically to the form using JavaScript.",
+    "Or at least not the parts that are needed to handle PHP or JavaScript.",
+    "The cloud service can be easily integrated in your website via a Javascript or web API."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "word": "wdp",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Wireless Transport Layer,无线寻址信息协议",
+  "examples": [
+    "Figure 6 also describes an example of the mediation approach where the service provider USES a WebSphere DataPower SOA appliance (WDP) to implement a mediation proxy layer.",
+    "In this example, routing rules are configured in a WDP web service proxy to route requests from users for two different tenants (a and b) to the respective tenant-specific instance of an application.",
+    "Or, if not, the site becomes redundant until WDP buy a new stadium."
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "word": "olap",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "online analytical processing,在线分析处理",
+  "examples": [
+    "Optimize OLAP models and cubes.",
+    "Design and implement OLAP data marts.",
+    "This is a common task in OLAP applications.",
+    "\"It won't replace Cognos or OLAP and reporting tools, because it has a different function, \" Vesset added.",
+    "In essence, Hadoop replaces the role of OLAP (online analytical processing) in preparing data to answer specific questions."
+  ]
+}

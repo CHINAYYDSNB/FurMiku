@@ -1,0 +1,11 @@
+{
+  "word": "trinocular",
+  "phonetic": "traɪˈnɒkjʊlə",
+  "phoneticUs": "",
+  "meaning": "adj.三目的 (指双目显微镜另备有一透镜作照相记录用的显微镜)",
+  "examples": [
+    "To realize accurate 3d scene matching, a trinocular stereo matching scheme based on edge segment was developed.",
+    "To acquire range information quickly and effectively, a trinocular active range sensor based on structured light is suggested in this paper.",
+    "One method of adjusting the dynamic homography of the vision cell is proposed to realize the global trinocular positioning without blind areas."
+  ]
+}

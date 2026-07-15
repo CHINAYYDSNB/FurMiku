@@ -1,0 +1,11 @@
+{
+  "word": "oid",
+  "phonetic": "ɔɪd",
+  "phoneticUs": "ɔɪd",
+  "meaning": "Object identifier,对象标识符",
+  "examples": [
+    "This makes OID very effective in the field of User interface design.",
+    "Also look at the SYNTAX field in Figure 13, which contains an OID value.",
+    "The OID value identifies the syntax (or data format) for the attribute value."
+  ]
+}

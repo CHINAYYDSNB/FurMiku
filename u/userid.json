@@ -1,0 +1,11 @@
+{
+  "word": "userid",
+  "phonetic": "ˌjuːzərˌaɪˈdiː",
+  "phoneticUs": "ˌjuːzərˌaɪˈdiː",
+  "meaning": "在电子邮件地址中@符号之前的名称",
+  "examples": [
+    "The password associated with the userid.",
+    "Maps certificate information to a userid.",
+    "Instance userid for first instance: db2admin."
+  ]
+}

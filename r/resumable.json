@@ -1,0 +1,10 @@
+{
+  "word": "resumable",
+  "phonetic": "rɪˈzjuːməbl",
+  "phoneticUs": "rɪˈzjʊməbl",
+  "meaning": "adj.可恢复的",
+  "examples": [
+    "We can modify above example to support resumable downloading.",
+    "Supports cross-domain, chunked and resumable file uploads and client-side image resizing."
+  ]
+}

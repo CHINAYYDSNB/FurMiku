@@ -1,0 +1,13 @@
+{
+  "word": "encoder",
+  "phonetic": "ɪnˈkəʊdə(r)",
+  "phoneticUs": "ɪnˈkoʊdər",
+  "meaning": "n.译码器,编码器",
+  "examples": [
+    "In the case of the JSON encoder, the actual data is converted to JSON.",
+    "The encoder is set to the AMR_NB, which is an audio format, sampling at 8 KHz.",
+    "The simplicity of the Activity Streams standard makes it easy to build an encoder.",
+    "The best decoder rats correctly mimicked their corresponding encoder partners 70 per cent of the time.",
+    "The majority of the time, the decoder rat performed the same action as the encoder."
+  ]
+}

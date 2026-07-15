@@ -1,0 +1,11 @@
+{
+  "word": "supremum",
+  "phonetic": "s(j)uːˈpriːməm",
+  "phoneticUs": "səˈpriməm",
+  "meaning": "n.[数]上确界",
+  "examples": [
+    "The operator norm of \"T\" is the essential supremum of \"h\".",
+    "The supremum axiom of the reals refers to subsets of the reals and is therefore a second-order logical statement.",
+    "Third, the convergence and supremum of the algorithm were proved, and the asymptotic time complexity was analyzed;"
+  ]
+}

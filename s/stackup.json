@@ -1,0 +1,10 @@
+{
+  "word": "stackup",
+  "phonetic": "ˈstækʌp",
+  "phoneticUs": "ˈstækˌʌp",
+  "meaning": "n.(飞机等待依次着陆时的)定高分层盘旋",
+  "examples": [
+    "With the circuit schematic design and the high-speed PCB design, completes stackup design and high-speed signal line design.",
+    "With the circuit schematic design and the high speed PCB design, completes PCB composition, stackup design, internal layer design, system grounding design and high-speed signal line design."
+  ]
+}

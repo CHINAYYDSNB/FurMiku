@@ -1,0 +1,11 @@
+{
+  "word": "morphia",
+  "phonetic": "ˈmɔːfiə",
+  "phoneticUs": "ˈmɔːrfiə",
+  "meaning": "(=morphine)n.吗啡",
+  "examples": [
+    "Morphia is a powerful tool for interacting with MongoDB.",
+    "Morphia, by default, USES the class name to name the collection.",
+    "To apply the indexes, Morphia needs to know which classes are going to be mapped."
+  ]
+}

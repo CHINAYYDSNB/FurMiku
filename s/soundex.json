@@ -1,0 +1,11 @@
+{
+  "word": "soundex",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "探测法",
+  "examples": [
+    "For a start, words that sound distinct may have the same soundex.",
+    "Soundex searches allow for irregular spellings, particularly in English.",
+    "Unfortunately, the Soundex algorithm is a poor candidate for spell checking."
+  ]
+}

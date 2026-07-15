@@ -1,0 +1,11 @@
+{
+  "word": "zif",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Zero Insertion Force,零插入力组件",
+  "examples": [
+    "Moreover, the cross pillar support and the point pillar support, which are in ZIF format, are researched in the thesis.",
+    "The software structure is made up of device driver, hardware abstract layer (HAL), visual machine (VM) and reading ZIF file.",
+    "On most devices, ribbon cables are attached with ZIF connectors or are soldered to the surface of the board, not sandwiched between layers."
+  ]
+}

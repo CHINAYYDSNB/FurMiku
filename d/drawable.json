@@ -1,0 +1,11 @@
+{
+  "word": "drawable",
+  "phonetic": "ˈdrɔːəbl",
+  "phoneticUs": "ˈdrɔːəbl",
+  "meaning": "adj.可曳的,可拉的",
+  "examples": [
+    "Actually rendering the pixels to the drawable surface is simple once the precise pixel values have been determined.",
+    "For more information about how to create a drawable resource that handles multiple button states, read the state List documentation.",
+    "Notice how in this function a rectangle of chunkSize by chunkSize pixels is copied from the appropriate frame to the drawable surface."
+  ]
+}

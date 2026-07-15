@@ -1,0 +1,11 @@
+{
+  "word": "encipher",
+  "phonetic": "ɪnˈsaɪfə",
+  "phoneticUs": "enˈsaɪfər",
+  "meaning": "vt.译成密码",
+  "examples": [
+    "This paper analyzes and studies encipher in phone bank system.",
+    "The operator would then proceed to encipher N in the same fashion, and so on.",
+    "WEP uses CRC 32 checking code inside the RC4 encipher system to provide message integrity check."
+  ]
+}

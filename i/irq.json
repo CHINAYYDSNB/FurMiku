@@ -1,0 +1,11 @@
+{
+  "word": "irq",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "interrupt request,中断请求",
+  "examples": [
+    "Strategy 1: Software-generated IRQ",
+    "Watchdog timer:Can generate a system reset or IRQ 15.",
+    "The IRQ column indicates the number of interrupts that occurred while that process was running."
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "word": "simd",
+  "phonetic": "ˈsɪmd",
+  "phoneticUs": "es aɪ em diː",
+  "meaning": "Single Instrution Multi Data,单指令多数据",
+  "examples": [
+    "This is known as SIMD (single instruction, multiple data), or data parallelism.",
+    "A new address generator of the embeded SIMD coprocessor is introduced in this paper.",
+    "A whole implementation framework of code selection which is support of SIMD has been advanced.",
+    "The biggest speed boost comes when software is rewritten to take advantage of the Streaming SIMD Extensions.",
+    "Intel has added 70 new processor instructions, called Streaming SIMD Extensions."
+  ]
+}

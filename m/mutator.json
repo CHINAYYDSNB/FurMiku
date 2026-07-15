@@ -1,0 +1,11 @@
+{
+  "word": "mutator",
+  "phonetic": "ˈmjuːteɪtə",
+  "phoneticUs": "",
+  "meaning": "n.=mutator gene",
+  "examples": [
+    "Let us extend our Point class with a mutator.",
+    "A mutator method exists for each attribute of a structured type.",
+    "Each property has an accessor and a mutator (getter and setter)."
+  ]
+}

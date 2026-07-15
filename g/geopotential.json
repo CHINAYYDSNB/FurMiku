@@ -1,0 +1,11 @@
+{
+  "word": "geopotential",
+  "phonetic": "dʒiːəʊpəˈtenʃ(ə)l",
+  "phoneticUs": "dʒiːoʊpəˈtenʃəl",
+  "meaning": "n.[物]重力势",
+  "examples": [
+    "High order, high precision geopotential models have broad application.",
+    "The quasi-geoid computed by geopotential model is fitted with the quasi-geoid measured by GPS leveling.",
+    "There are many gravity quantities expressed by finite spherical harmonic series expansions in the computing for geopotential."
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "word": "transcode",
+  "phonetic": "trænzˈkəʊd",
+  "phoneticUs": "trænsˈkoʊd",
+  "meaning": "vt.转换...的代码vi.把一种代码转换成另一种代码",
+  "examples": [
+    "Avoiding unnecessary calls to XMLString: : transcode .",
+    "You can use it to play video, transcode video, and serve streaming video.",
+    "The app's primary function is to transcode that video so it's viewable on Apple products",
+    "Customers are charged based on the number of minutes they need to transcode and the selected resolution.",
+    "It also supports pre-defined transcoding presets that make it easy to transcode video for smartphones, tablets, web browsers and other devices."
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "word": "spga",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "开关门阵列",
+  "examples": [
+    "SPGA algorithm compensates the envelope and phase of the echo signal which has not be corrected range migration.",
+    "The simulation results using SPGA algorithm show that SPGA algorithm estimates the sway effectively and the image quality is improved without along track shift, so the targets are oriented exactly."
+  ]
+}

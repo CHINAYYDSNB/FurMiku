@@ -1,0 +1,11 @@
+{
+  "word": "neutronics",
+  "phonetic": "njuːtrɒnɪks",
+  "phoneticUs": "njuːˈtrɑːnɪks",
+  "meaning": "n.中子物理学",
+  "examples": [
+    "Neutronics and thermal hydraulics calculation were performed to estimate the performance of the whole system.",
+    "Taking the two typical blanket configuration as examples, the neutronics calculation and the contrast analysis have been performed.",
+    "MCAM is a software used for MCNP automatic modeling and visualization. This article presents the principle, approach and the implementation of MCNP neutronics model visualization."
+  ]
+}

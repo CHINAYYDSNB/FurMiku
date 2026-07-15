@@ -1,0 +1,10 @@
+{
+  "word": "radiolocation",
+  "phonetic": "ˌreɪdɪəʊləˈkeɪʃən",
+  "phoneticUs": "",
+  "meaning": "n.用电波探测器探测",
+  "examples": [
+    "The ship is equipped with a complete set of radiolocation equipment, homing heads and locations stations.",
+    "An extended Kalman filtering (EKF) algorithm is designed for radiolocation in cellular communication system, simulation is conducted to examine its performance."
+  ]
+}

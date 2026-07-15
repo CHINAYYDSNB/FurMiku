@@ -1,0 +1,11 @@
+{
+  "word": "testability",
+  "phonetic": "testəˈbɪləti",
+  "phoneticUs": "testəˈbɪlɪti",
+  "meaning": "易测性",
+  "examples": [
+    "It is recommended that you perform the testability review.",
+    "Testability patterns: Inversion of Control, Separated Presentation",
+    "The metadata approach doesn't hamper the testability of the layers per se."
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "word": "kdc",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "密钥分配中心",
+  "examples": [
+    "The KDC maintains a database of secret keys.",
+    "The server service principal should exist in KDC database.",
+    "The slave KDC is all set to assist the master KDC to handle the client requests.",
+    "Gold Fields says that some 11, 000 miners reported for duty on Friday at its KDC West mine.",
+    "Gold Fields reinstated the 8, 500 workers that were dismissed from its KDC East operation and have started up."
+  ]
+}

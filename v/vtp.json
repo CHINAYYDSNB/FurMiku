@@ -1,0 +1,10 @@
+{
+  "word": "vtp",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "VLAN Trunking Protocol,中继协议",
+  "examples": [
+    "Configure, verify, and troubleshoot VTP.",
+    "Status on whether VTP trap generation mode is enabled or disabled."
+  ]
+}

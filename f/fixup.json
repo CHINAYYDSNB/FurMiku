@@ -1,0 +1,11 @@
+{
+  "word": "fixup",
+  "phonetic": "ˈfɪksʌp",
+  "phoneticUs": "fɪksʌp",
+  "meaning": "v.[计] 固定,修正",
+  "examples": [
+    "If serializing XML, be aware of namespace fixup.",
+    "Indicates that the value is a relative address fixup.",
+    "Finally, transaction logging also means the end of those long Fixup sessions!"
+  ]
+}

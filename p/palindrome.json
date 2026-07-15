@@ -1,0 +1,11 @@
+{
+  "word": "palindrome",
+  "phonetic": "ˈpælɪndrəʊm",
+  "phoneticUs": "ˈpælɪndroʊm",
+  "meaning": "n.回文(指顺读和倒读都一样的词语)",
+  "examples": [
+    "It's not a palindrome.",
+    "Find any largest palindrome in a string no more than 20,000 characters long.",
+    "Palindrome poem is a unique literature type of the ancient poems of our country."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "word": "igmp",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Internet Group Management Protocol,Internet组管理协议",
+  "examples": [
+    "IGMP is the Internet Group Management Protocol.",
+    "The client sends an IGMP join message to its designated multicast router.",
+    "In this paper, the multicast protocol (IGMP Snooping) on Ethernet switch is discussed."
+  ]
+}

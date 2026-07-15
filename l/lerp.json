@@ -1,0 +1,9 @@
+{
+  "word": "lerp",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "n.昆虫分泌出来的一种蜜",
+  "examples": [
+    "It also means that the further the two points are from one another, the higher the value returned by Lerp will be, meaning we can move the camera more quickly the further away it is."
+  ]
+}

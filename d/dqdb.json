@@ -1,0 +1,11 @@
+{
+  "word": "dqdb",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Distributed Queue Dual Bus,分布排列双总线",
+  "examples": [
+    "DQDB link layer model was adopted in data lineate transmission.",
+    "This paper puts forward a Linear Optical Network protocol (LONP) based on Metropolitan Area Network (MAN) protocol DQDB.",
+    "The performances of DQDB man with multiple priorities are analyzed. The expressions of mean message sojourn time in the buffer are derived."
+  ]
+}

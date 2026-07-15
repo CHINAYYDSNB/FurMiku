@@ -1,0 +1,11 @@
+{
+  "word": "driftless",
+  "phonetic": "ˈdrɪftlɪs",
+  "phoneticUs": "ˈdrɪftləs",
+  "meaning": "adj.无目标的,无定向的",
+  "examples": [
+    "The control of system can be converted to the motion planning problem for a driftless system.",
+    "This paper deals with the dynamic feedback linearization problem of mechanical driftless systems.",
+    "A formulation of the stabilizing control law is obtained for control-affine driftless systems by means of approximating the value function of the performance index by a CLF."
+  ]
+}

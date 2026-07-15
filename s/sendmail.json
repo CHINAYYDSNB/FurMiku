@@ -1,0 +1,13 @@
+{
+  "word": "sendmail",
+  "phonetic": "ˈsendmeɪl",
+  "phoneticUs": "ˈsendmeɪl",
+  "meaning": "发送邮件",
+  "examples": [
+    "Sendmail Version 8.13.4 (with libmilter).",
+    "Read about the sendmail capabilities bug.",
+    "A mail transfer agent such as Sendmail 8.7 or later.",
+    "Sendmail, the UNIX program that handles electronic mail, is commonly referred to as a beast.",
+    "The new NT version of Sendmail, like its Unix counterpart, includes strong spam-blocking capabilities."
+  ]
+}

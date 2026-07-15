@@ -1,0 +1,12 @@
+{
+  "word": "mtbf",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Mean Time Between Failures,平均故障间隔时间",
+  "examples": [
+    "MTBF quite commonly appears as a non-functional requirement.",
+    "What are the expected availability, reliability, MTBF and Time-to-Repair?",
+    "The net effect of these tricks is to be able to generate MTBF Numbers measured in years in just a few weeks.",
+    "The M5M has an MTBF (mean time between failures) of 2.4 million hours."
+  ]
+}

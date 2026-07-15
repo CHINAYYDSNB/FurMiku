@@ -1,0 +1,13 @@
+{
+  "word": "microkernel",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "n.微核",
+  "examples": [
+    "The use of a resource-oriented microkernel has several key benefits.",
+    "The microkernel approach, taken by Mach, was not a great success.",
+    "The closest analog in a modern system is the nanokernel in the Symbian microkernel.",
+    "No because they are not microkernel based real time operating system with fault tolorent.",
+    "The microkernel is so secured that every thing is separated from the microkernel like device drivers, file system work and personal, networking."
+  ]
+}

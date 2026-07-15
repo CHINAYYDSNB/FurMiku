@@ -1,0 +1,9 @@
+{
+  "word": "reattempt",
+  "phonetic": "riːəˈtem(p)t",
+  "phoneticUs": "ˈriəˈtempt",
+  "meaning": "n.再尝试,重新尝试v.再尝试",
+  "examples": [
+    "To fix the error when running ifxclone utility, edit the ONCONFIG file of the secondary server and set FULL_DISK_INIT 1 and reattempt ifxclone command."
+  ]
+}

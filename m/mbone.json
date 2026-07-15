@@ -1,0 +1,9 @@
+{
+  "word": "mbone",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "multicast backbone,中枢主播网",
+  "examples": [
+    "Participants who wish to join a multicast session send a request to join the session to their local MBONE router."
+  ]
+}

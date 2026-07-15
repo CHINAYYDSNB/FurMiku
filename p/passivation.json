@@ -1,0 +1,11 @@
+{
+  "word": "passivation",
+  "phonetic": "ˌpæsɪˈveɪʃən",
+  "phoneticUs": "pæsɪˈveɪʃən",
+  "meaning": "n.钝化",
+  "examples": [
+    "Allocating the state to a persistent store is known as passivation.",
+    "A few simple passivation tests can be executed early on in the development process to avoid serialization problems.",
+    "When an EJB lifecycle event happens, such as passivation, the connector will now log a message to the standard output."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "word": "qp",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "queen's pawn (国际象棋中的)后前兵",
+  "examples": [
+    "qp()->attr('name', 'value') sets the value of the name attribute to value.",
+    "Plot demand and marginal revenue, and total revenue qp (q) as a function of q.",
+    "The foreach loop is the most important line in the script: foreach (qp($url, 'entry') as $result)."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "word": "fadein",
+  "phonetic": "ˈfeɪdɪn",
+  "phoneticUs": "feɪˈdɪn",
+  "meaning": "n.渐明,渐显",
+  "examples": [
+    "Perhaps I need to reload the page in between the fadeIn and fadeOut?",
+    "Each time a timetick event occurs in FadeIn state, the handleEvent method will call a function that increases the opacity of the tooltip slightly.",
+    "The function will return the current state, leaving the finite state machine in FadeIn state, until the tooltip's opacity reaches the maximum opacity parameter."
+  ]
+}

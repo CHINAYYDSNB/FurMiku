@@ -1,0 +1,13 @@
+{
+  "word": "emulator",
+  "phonetic": "ˈemjuleɪtə(r)",
+  "phoneticUs": "ˈemjuleɪtər",
+  "meaning": "n.竞争者",
+  "examples": [
+    "The idea of an emulator is simple.",
+    "So how does the NDK work on the emulator?",
+    "MonkeyDevice: Represents a device or emulator.",
+    "We fired up Jelly Bean in the Android emulator and started poking around a bit.",
+    "What we're going to do first is set up the Atari 2600 emulator Stella."
+  ]
+}

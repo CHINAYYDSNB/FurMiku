@@ -1,0 +1,11 @@
+{
+  "word": "supertype",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "父型",
+  "examples": [
+    "Remember, the supertype relation is reflexive.",
+    "The type from which a subtype inherits attributes is known as its supertype.",
+    "Local handles have the class Local and can also be stored in variables declared with the supertype handle."
+  ]
+}

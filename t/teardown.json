@@ -1,0 +1,13 @@
+{
+  "word": "teardown",
+  "phonetic": "ˈteəˌdaʊn",
+  "phoneticUs": "ˈteərˌdaʊn",
+  "meaning": "n.拆卸",
+  "examples": [
+    "Write the setup and teardown methods.",
+    "FBI Vehicle-Tracking Device: The teardown.",
+    "Each test function call is sandwiched between a call to setUp and tearDown.",
+    "So you all remember that not-so-conclusive iFixit teardown of the iPod touch right?",
+    "New gadget lands at the iFixit labs, and the good folk there give it a teardown."
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "word": "recursion",
+  "phonetic": "rɪˈkɜːʃn",
+  "phoneticUs": "rɪˈkɜːrʒn",
+  "meaning": "n.[数]递归,递归式",
+  "examples": [
+    "Statically forbid polymorphic recursion.",
+    "That language didn't even support recursion.",
+    "A similar problem is too much recursion.",
+    "Yet growth occurs non-linearly through the compounding power that comes with recursion."
+  ]
+}

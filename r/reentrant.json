@@ -1,0 +1,11 @@
+{
+  "word": "reentrant",
+  "phonetic": "riːˈentrənt",
+  "phoneticUs": "rɪˈentrənt",
+  "meaning": "n.再进去,凹角adj.再进去的,凹角的",
+  "examples": [
+    "Must not call non-reentrant functions?",
+    "Must not call any non-reentrant functions",
+    "Non-reentrant functions and static variables."
+  ]
+}

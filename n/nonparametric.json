@@ -1,0 +1,11 @@
+{
+  "word": "nonparametric",
+  "phonetic": "ˌnɒnˌpærəˈmetrɪk",
+  "phoneticUs": "ˈnɑːnpærəˈmetrɪk",
+  "meaning": "adj.[统]非参数的",
+  "examples": [
+    "The kernel estimate of nonparametric regression function has been researched recently.",
+    "Furthermore, the nonparametric form of bootstrapping makes no assumptions about the underlying PDF.",
+    "Methods It is discussed by nonparametric piecewise polynomial estimation and least squares estimation."
+  ]
+}

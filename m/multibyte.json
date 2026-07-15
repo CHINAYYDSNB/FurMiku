@@ -1,0 +1,11 @@
+{
+  "word": "multibyte",
+  "phonetic": "ˌmʌltiˈbaɪt",
+  "phoneticUs": "ˌmʌltiˈbaɪt",
+  "meaning": "n.[计]多字节",
+  "examples": [
+    "Code conversion to multibyte encodings.",
+    "One other issue of concern for multibyte words is alignment.",
+    "UTF-8 also works better with tools that don't expect to receive multibyte data."
+  ]
+}

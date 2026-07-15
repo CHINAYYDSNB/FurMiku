@@ -1,0 +1,13 @@
+{
+  "word": "heteroscedasticity",
+  "phonetic": "ˌhetərəʊskədæsˈtɪsətɪ",
+  "phoneticUs": "",
+  "meaning": "n.[统]异方差性",
+  "examples": [
+    "Non-constant error variance or heteroscedasticity.",
+    "One kind of heteroscedasticity testing method was proposed through extreme value theory and extreme value index estimator.",
+    "The generalized autoregressive conditional heteroscedasticity (GARCH) model has the ability to describe the volatility of time series.",
+    "They treat horrifying statistical conditions such as unobserved heterogeneity, selection bias, heteroscedasticity, and autocorrelation.",
+    "For example, if you have identified a heteroscedasticity problem in your data, there are various buttons to press that can cure it for you."
+  ]
+}

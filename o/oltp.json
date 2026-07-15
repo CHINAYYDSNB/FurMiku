@@ -1,0 +1,13 @@
+{
+  "word": "oltp",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "联机事务处理",
+  "examples": [
+    "In an OLTP environment, use the default.",
+    "OLTP applications should not be performing large sorts.",
+    "This means it should not be an overloaded OLTP application.",
+    "Both OLTP and DW segments of database software serve different purpose and benefit from faster servers.",
+    "For example, normal ATM transactions during the day will be stored in OLTP database real time."
+  ]
+}

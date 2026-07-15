@@ -1,0 +1,11 @@
+{
+  "word": "onload",
+  "phonetic": "ˌɒnˈləʊd",
+  "phoneticUs": "ˈɑːnloʊd",
+  "meaning": "vt.装载",
+  "examples": [
+    "Listing 1. The body onload handler.",
+    "Listing 1. Code for onLoad function.",
+    "Thus, in Listing 4, the HTML element has an onload attribute."
+  ]
+}

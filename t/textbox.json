@@ -1,0 +1,11 @@
+{
+  "word": "textbox",
+  "phonetic": "ˈteksbɒks",
+  "phoneticUs": "ˈtekstbɑːks",
+  "meaning": "n.[计]文本框",
+  "examples": [
+    "Figure 2 shows the TextBox widget.",
+    "Drag a TextBox onto the form.",
+    "To create a textbox as your table column."
+  ]
+}

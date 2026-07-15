@@ -1,0 +1,11 @@
+{
+  "word": "parellel",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "并行的",
+  "examples": [
+    "The thick leaves have vein-parellel mesophyll cells.",
+    "The main approaches of improving FFT processing speed include pipeline and parellel architecture.",
+    "So the synchronous parellel data can be gotten if the rising of sample clock is set at the middle of the stable time of all deserialized data."
+  ]
+}

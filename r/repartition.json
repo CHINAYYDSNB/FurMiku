@@ -1,0 +1,11 @@
+{
+  "word": "repartition",
+  "phonetic": "riːpɑːˈtɪʃ(ə)n",
+  "phoneticUs": "",
+  "meaning": "n.重新分配v.重新分配",
+  "examples": [
+    "By avoiding dual booting, there is no need to repartition (to install Linux).",
+    "And say you're unable to repartition the drive due to critical data hanging out at hdb2.",
+    "Any time you repartition your hard drive, you run the risk of destroying the data on the original partitions."
+  ]
+}

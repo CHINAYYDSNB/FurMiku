@@ -1,0 +1,11 @@
+{
+  "word": "underflow",
+  "phonetic": "ˈʌndəfləʊ",
+  "phoneticUs": "ˈʌndərˈfloʊ",
+  "meaning": "[汁]下溢",
+  "examples": [
+    "Overflow or underflow in the arithmetic operation.",
+    "The stack could underflow if you clean up too much in a function and then attempt to return.",
+    "High pressure thickening is a new high capacity thickening technology, which can produce high underflow density at high throughput."
+  ]
+}

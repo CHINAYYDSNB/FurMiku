@@ -1,0 +1,11 @@
+{
+  "word": "spline",
+  "phonetic": "splaɪn",
+  "phoneticUs": "sˈplaɪn",
+  "meaning": "n.方栓,齿条,止转楔,花键vt.用花键联接,开键槽",
+  "examples": [
+    "I made a simple blueprint setup from these images and started to build a spline cage.",
+    "The computer calculates the inbetweens values based on a spline curve connecting the keyframe values.",
+    "Now I can just apply the spline method I described for the facade, drawing a spline with face snapping active."
+  ]
+}

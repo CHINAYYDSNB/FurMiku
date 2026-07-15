@@ -1,0 +1,13 @@
+{
+  "word": "ntp",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "normal temperature and pressure,标准温度和压力;Network Time Protocol,网络时间协议",
+  "examples": [
+    "Sync 'ing your local time with NTP.",
+    "Enter enable sntp-client — Turns on NTP.",
+    "With both systems configured, start the NTP daemon on the NIS master using",
+    "By settling with NTP, RIM has eliminated the possibility of suffering that heavy blow.",
+    "BBHub - Lesson for all in RIM-NTP dispute: should software be patentable at all?"
+  ]
+}

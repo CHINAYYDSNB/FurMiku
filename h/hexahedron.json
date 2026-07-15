@@ -1,0 +1,11 @@
+{
+  "word": "hexahedron",
+  "phonetic": "ˌheksəˈhiːdrən; ˌheksəˈhedrən",
+  "phoneticUs": "ˌheksəˈhiːdrən; ˌheksəˈhedrən",
+  "meaning": "n.六面体",
+  "examples": [
+    "Isoparametric element of arbitrary hexahedron plays an important role in finite element analysis.",
+    "A convenient and applied geometric transformation function, which is suit for interface of quadrangle or hexahedron, is proposed.",
+    "A practical method of generating hexahedron mesh for finite element method through transfering lines into volumes was introduced."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "word": "wtls",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Wireless Transport Layer Security,无线传输层保密",
+  "examples": [
+    "WTLS protocol is such a typical secure transport protocol, which has the upper functions.",
+    "Aim In order to solve the trouble of the lack of forward secrecy and intermediator attack in current WTLS protocol.",
+    "The gateway and the client then perform a standard WTLS handshake that both encrypts the communication and authenticates the gateway to the handset and vice versa."
+  ]
+}

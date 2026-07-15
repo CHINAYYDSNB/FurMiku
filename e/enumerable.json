@@ -1,0 +1,11 @@
+{
+  "word": "enumerable",
+  "phonetic": "ɪˈnjuːm(ə)rəb(ə)l",
+  "phoneticUs": "ɪˈnjumərəbəl",
+  "meaning": "adj.可点数的,可列举的",
+  "examples": [
+    "The first returns an enumerable object instead of the actual result of the function.",
+    "The MatchIterator class is enumerable and handles the regular expression processing.",
+    "As with the RegexMatches implementation, I prefer to use a custom enumerable object to return group information."
+  ]
+}

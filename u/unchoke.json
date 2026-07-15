@@ -1,0 +1,11 @@
+{
+  "word": "unchoke",
+  "phonetic": "ˌʌnˈtʃəʊk",
+  "phoneticUs": "",
+  "meaning": "vt.清除...的障碍 疏通",
+  "examples": [
+    "The 'unchoke' message is fixed-length and has no payload.",
+    "In such cases it will usually continue to get poor download rates until the optimistic unchoke finds better peers.",
+    "If a client has a complete file, it USES its upload rate rather than its download rate to decide which peers to unchoke."
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "word": "minux",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "一种小巧的UNIX操作系统",
+  "examples": [
+    "This function checks the magic number of the image to determine if it's a minux, etc2, romfs, cramfs, or gzip format."
+  ]
+}

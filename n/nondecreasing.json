@@ -1,0 +1,11 @@
+{
+  "word": "nondecreasing",
+  "phonetic": "ˌnɒnˌdiːˈkriːsɪŋ",
+  "phoneticUs": "nɑːndɪˈkriːsɪŋ",
+  "meaning": "adj.不减少的",
+  "examples": [
+    "Please write a function to merger the two lists together to obtain a new nondecreasing order list.",
+    "An approximation algorithm is presented for minimizing a nondecreasing supermodular set function, and its performance guarantee is probed.",
+    "For each test case, output one line containing the number of nondecreasing subsequences you can find from the sequence S, the answer should % 1000000007."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "word": "eigenvector",
+  "phonetic": "ˈaɪɡənvektə(r)",
+  "phoneticUs": "ˈaɪdʒənˌvektər",
+  "meaning": "n.[数]特征向量",
+  "examples": [
+    "Google's PageRank is a variant of the Eigenvector centrality measure.",
+    "Matrix iteration method can be employed to figure out the first eigenvalue and eigenvector of a matrix.",
+    "Linear transformations and linear operators, eigenvector expansion, matrices as representations of linear operators."
+  ]
+}

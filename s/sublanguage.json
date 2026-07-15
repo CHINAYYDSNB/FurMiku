@@ -1,0 +1,11 @@
+{
+  "word": "sublanguage",
+  "phonetic": "ˈsʌbˌlæŋɡwɪdʒ",
+  "phoneticUs": "ˈsʌbˌlæŋɡwɪdʒ",
+  "meaning": "n.[语]次语言(指社会中某一集团或阶层专用的言语)",
+  "examples": [
+    "Second, we introduce the precompiler technics for Data Sublanguage.",
+    "This is a sublanguage allowing navigation to nodes, retrieval of sets of nodes, and so forth.",
+    "Reasoners for OWL DL, while dealing with a decidable sublanguage, will be subject to higher worst-case complexity."
+  ]
+}

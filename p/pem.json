@@ -1,0 +1,13 @@
+{
+  "word": "pem",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Privacy Enhanced Mail 加密邮件",
+  "examples": [
+    "X.509 Certificates can be PEM or DER encoded.",
+    "The rest of the output is an unencrypted PEM private key.",
+    "Pkcs12 files can be in PEM (as created by openssl pkcs12).",
+    "There are two dominant flavors of fuel cell: proton-exchange membrane (PEM) and solid oxide.",
+    "That's why consumer electronics makers are developing PEM cells that run on the more convenient methanol."
+  ]
+}

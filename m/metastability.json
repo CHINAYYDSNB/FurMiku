@@ -1,0 +1,11 @@
+{
+  "word": "metastability",
+  "phonetic": "metəstəˈbɪləti",
+  "phoneticUs": "ˌmetəstəˈbɪləti",
+  "meaning": "n.[化][物]亚稳性 亚稳度",
+  "examples": [
+    "An important problem in multi-clock domain design is how to avoid metastability.",
+    "Metastability and how to generate empty and full flag correctly is key in the design of asynchronous FIFO.",
+    "The design of asynchronous FIFO meets with two troubles, metastability and how to generate empty and full flag correctly."
+  ]
+}

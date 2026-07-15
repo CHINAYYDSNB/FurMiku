@@ -1,0 +1,11 @@
+{
+  "word": "runnable",
+  "phonetic": "ˈrʌnəbl",
+  "phoneticUs": "ˈrʌnəbl",
+  "meaning": "adj.可追捕的,可猎取的",
+  "examples": [
+    "Both NUnit and console runnable tests.",
+    "The Runnable is run on the J2EE worker thread.",
+    "A Runnable is submitted to a custom thread pool."
+  ]
+}

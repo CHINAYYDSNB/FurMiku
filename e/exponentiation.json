@@ -1,0 +1,11 @@
+{
+  "word": "exponentiation",
+  "phonetic": "ˌekspəˌnenʃɪˈeɪʃən",
+  "phoneticUs": "ˌekspoʊˌnenʃɪˈeɪʃn",
+  "meaning": "[数]求幂",
+  "examples": [
+    "We need to know how hard it is to reverse the exponentiation.",
+    "See Integer Exponentiation. Hint: choose either of the bottom two functions.",
+    "Finally, the operator ** performs exponentiation; that is, it raises a number to a power."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "word": "pwd",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Public Works Department (美国)公共工程处",
+  "examples": [
+    "Listing 1: Output from the strace PWD command.",
+    "Listing 1 shows an example of the PWD command being traced.",
+    "Answer: Modify the makefile and specify values for ALIAS, UID, and PWD."
+  ]
+}

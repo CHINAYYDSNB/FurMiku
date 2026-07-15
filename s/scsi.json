@@ -1,0 +1,13 @@
+{
+  "word": "scsi",
+  "phonetic": "ˈskʌzi",
+  "phoneticUs": "ˈskʌzi",
+  "meaning": "Small Computer System Interface,小型计算机系统接口",
+  "examples": [
+    "It also manages SCSI-specific error recovery.",
+    "All SCSI commands should also contain a control byte.",
+    "Status: SCSI status byte as defined by the SCSI standard.",
+    "The SCSI Trade Association (STA) is a trade group promoting the use of SCSI storage interfaces.",
+    "The SCSI interface (and its cousin SATA) is the most widespread enterprise storage interface."
+  ]
+}

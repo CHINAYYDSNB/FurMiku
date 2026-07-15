@@ -1,0 +1,10 @@
+{
+  "word": "unactuated",
+  "phonetic": "ʌnˈæktʃueɪtɪd",
+  "phoneticUs": "ˌʌnˈæktʃueɪtɪd",
+  "meaning": "adj.未开动的,未经激励的",
+  "examples": [
+    "To verify the control method , we design and produce a robot with a unactuated arm.",
+    "The unactuated joints can't be controlled directly, so it is an incomplete controllable system. Smooth feedback control is invalid for such system."
+  ]
+}

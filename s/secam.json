@@ -1,0 +1,10 @@
+{
+  "word": "secam",
+  "phonetic": "ˈsiːkæm",
+  "phoneticUs": "ˈsiːkæm",
+  "meaning": "SEquential Couleur Avec Memoire SECAM制式(顺序与存储彩色电视系统)",
+  "examples": [
+    "SECAM uses the same bandwidth as PAL but transmits the colour information sequentially.",
+    "You can alter this behavior by editing /etc/kboot.conf — for the purposes of this article series, you'll want to run in one of the RGB modes, either 480i for NTSC users or 576i for PAL/SECAM users."
+  ]
+}

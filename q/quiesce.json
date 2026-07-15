@@ -1,0 +1,11 @@
+{
+  "word": "quiesce",
+  "phonetic": "kwaɪˈes",
+  "phoneticUs": "kwɪˈes",
+  "meaning": "v.静默,沉寂",
+  "examples": [
+    "You may want to quiesce a device during maintenance.",
+    "Run “tfsservicecontrol quiesce” to shut down all TFS services.",
+    "After making this selection, the quiesce checkbox option is enabled."
+  ]
+}

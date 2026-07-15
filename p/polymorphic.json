@@ -1,0 +1,13 @@
+{
+  "word": "polymorphic",
+  "phonetic": "ˌpɒlɪˈmɔːfɪk",
+  "phoneticUs": "ˌpɑːlɪˈmɔːrfɪk",
+  "meaning": "adj.多形的,多态的,多形态的",
+  "examples": [
+    "Statically forbid polymorphic recursion.",
+    "This type will be used later to dispatch polymorphic behavior.",
+    "Probing of overloaded and polymorphic functions is not supported.",
+    "While Live OneCare did manage to spot 100% of the macro viruses it was tested against, it missed some wild viruses, polymorphic programs and file infectors.",
+    "Even worse, it appears that BadNews is polymorphic, that is, it changes its own code structure depending on its deployment parameters making it considerably harder to detect and remove."
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "word": "migrator",
+  "phonetic": "maɪˈɡreɪtə(r)",
+  "phoneticUs": "ˈmaɪɡreɪtər",
+  "meaning": "n.候鸟,移居者",
+  "examples": [
+    "Resource Manager services - Resource Manager services include purger, migrator, replicator and stager.",
+    "Note that the migrator is a high-performance, multi-threaded process that you can schedule to start at specified time."
+  ]
+}

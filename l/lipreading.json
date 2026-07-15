@@ -1,0 +1,11 @@
+{
+  "word": "lipreading",
+  "phonetic": "ˈlɪpˌriːdɪŋ",
+  "phoneticUs": "",
+  "meaning": "n.读唇法(聋子以观察人发生时的口型学语的方法)",
+  "examples": [
+    "A mixed method based on SVD-QR and deformable template is proposed to extract lipreading feature.",
+    "Experiments also prove that the features of blocks DCT coefficients in lip region are efficacious to visual single channel lipreading system.",
+    "At last, We set up a real time speech and lipreading human-machine interaction platform for the first time in China. including software and hardware design."
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "word": "vlsm",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Variable Length Subnet masks,变长子网掩码",
+  "examples": [
+    "OSPF was designed to support variable-length subnet masking (VLSM).",
+    "VLSM?Variable – Length Subnet Mask?"
+  ]
+}

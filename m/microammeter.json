@@ -1,0 +1,10 @@
+{
+  "word": "microammeter",
+  "phonetic": "maɪkrəʊˈæmɪtə(r)",
+  "phoneticUs": "maɪkroʊˈæmɪtər",
+  "meaning": "n.[电]微安(培)计",
+  "examples": [
+    "A changed temperature lead to the change of value of the thermistor, then the bridge balance broke up, which induced the change of current value to the microammeter.",
+    "In the studying of the specific property of the diode, the zero drift of the microammeter is caused by electromagnetic wave, and it has great effects on the result of the measure."
+  ]
+}

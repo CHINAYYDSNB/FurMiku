@@ -1,0 +1,11 @@
+{
+  "word": "zener",
+  "phonetic": "'zinər",
+  "phoneticUs": "'zinər",
+  "meaning": "breakdown[电子]齐纳击穿(在半导体中的一种非破坏性击穿)",
+  "examples": [
+    "You cannot replace it by a standard Zener diode!",
+    "It's just that a buried zener is even better, if you can afford the higher voltage drop .",
+    "Zener references contain batteries that keep the unit under power during transport and calibration."
+  ]
+}

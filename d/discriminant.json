@@ -1,0 +1,12 @@
+{
+  "word": "discriminant",
+  "phonetic": "dɪˈskrɪmɪnənt",
+  "phoneticUs": "dɪˈskrɪmənənt",
+  "meaning": "[计] 判别式",
+  "examples": [
+    "In this paper, a novel tensor subspace learning algorithm, tensor locality discriminant projection, is proposed.",
+    "In the paper, the discriminant function is derived from the Fisher principle to distinguish large pore paths in sandstone oil layers based on logging curves.",
+    "To the corresponding research on kernel locality preserving projection (KLPP) and unsupervised discriminant projection (UDP), they are combined with each other.",
+    "The score is called the Discriminant Inventory Function, or DIF."
+  ]
+}

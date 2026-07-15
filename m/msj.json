@@ -1,0 +1,11 @@
+{
+  "word": "msj",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Master of Science in Journalism 新闻学硕士",
+  "examples": [
+    "The example script uses the following command to install MSJ: FAStTMSJ*_install.bin -i silent.",
+    "The installation of this rpm is handled by the install.sh script, which then installs MSJ.",
+    "Configure the paths to disk using MSJ as explained under Configuring paths to disks and load balancing."
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "word": "odbc",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Open Database Connectivity,开放式数据库连接性",
+  "examples": [
+    "Early releases of ODBC were slow.",
+    "In this step you configure the ODBC stages.",
+    "Finally, catalog the database as an ODBC data source.",
+    "The product can also use a Query Designer to integrate more intelligent data into documents using ODBC, which will enable live business data to be imported directly into a document."
+  ]
+}

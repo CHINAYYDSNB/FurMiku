@@ -1,0 +1,11 @@
+{
+  "word": "tristimulus",
+  "phonetic": "traɪˈstɪmjʊləs",
+  "phoneticUs": "traɪˈstɪmjʊləs",
+  "meaning": "adj.[物]三(色)刺激的 三色的",
+  "examples": [
+    "The model was originally developed based on the tristimulus theory of color perception.",
+    "The computation of tristimulus values is a basic step for obtaining various colorimetric quantities.",
+    "Since this CIE1931 RGB system results negative tristimulus values in calculation, the CIE1931 XYZ standard colorimetric observer was brought forth."
+  ]
+}

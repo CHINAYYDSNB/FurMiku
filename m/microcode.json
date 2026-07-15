@@ -1,0 +1,12 @@
+{
+  "word": "microcode",
+  "phonetic": "ˈmaɪkrəʊkəʊd",
+  "phoneticUs": "ˈmaɪkroʊkoʊd",
+  "meaning": "[计] 微码",
+  "examples": [
+    "The reset downloads the microcode on the interface again.",
+    "Use the lscfg command to determine the Microcode level of the FC adapter.",
+    "Microcode downloads: Get the most current release information for your adapter.",
+    "Get to certain capabilities, into the BIOS, into the microcode."
+  ]
+}

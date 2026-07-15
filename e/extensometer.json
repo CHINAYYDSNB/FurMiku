@@ -1,0 +1,11 @@
+{
+  "word": "extensometer",
+  "phonetic": "ˌekstenˈsɒmɪtə(r)",
+  "phoneticUs": "ˌekstenˈsɑːmətər",
+  "meaning": "n.[机]伸长计,变形测定器",
+  "examples": [
+    "SATEC series 300 LX, featuring an Automatic Extensometer and Pneumatic Grips, and 3300 series testers.",
+    "The linearity of a large range extensometer is a critical problem, because its elastic'element is under large deformation.",
+    "In design of large range extensometer whose range is 100% strain, according to theory formulas and factual technics, using MATLAB to optimize the structure and size."
+  ]
+}

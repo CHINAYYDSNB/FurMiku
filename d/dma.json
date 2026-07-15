@@ -1,0 +1,13 @@
+{
+  "word": "dma",
+  "phonetic": "ˌdiː em ˈeɪ",
+  "phoneticUs": "ˌdiː em ˈeɪ",
+  "meaning": "Direct Memory Access,直接存储器存取",
+  "examples": [
+    "Queue DMA GETs for all buffers.",
+    "Once the DMA is completed, your function is done.",
+    "Finally, all DMA command names have a _cmd suffix.",
+    "If the asset manager is trading directly through DMA they should have the same surveillance tools as a broker.",
+    "Both companies have found public support from the Direct Marketing Association (DMA), which counts eBay and Amazon among its members."
+  ]
+}

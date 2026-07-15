@@ -1,0 +1,9 @@
+{
+  "word": "unshift",
+  "phonetic": "ʌnˈʃɪft",
+  "phoneticUs": "ʌnˈʃɪft",
+  "meaning": "vi.松开打字机或键盘的字型变换键",
+  "examples": [
+    "Unshift adds one or more elements to the beginning of an array and returns the new length of the array."
+  ]
+}

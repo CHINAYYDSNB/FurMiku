@@ -1,0 +1,11 @@
+{
+  "word": "lognormal",
+  "phonetic": "ˌlɒɡˈnɔːməl",
+  "phoneticUs": "ˌlɔːɡˈnɔːrml",
+  "meaning": "adj.[数]对数正态的",
+  "examples": [
+    "When the dataset was fitted against a three parameter lognormal distribution curve, the data was a reasonable fit.",
+    "If the cold deformation rate is higher than 70 %, the recrystallized grain size distribution agrees with lognormal distribution.",
+    "This paper studies how to use the geostatistical method in processing geochemical data, which follows the lognormal distribution."
+  ]
+}

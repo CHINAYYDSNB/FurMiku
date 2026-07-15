@@ -1,0 +1,13 @@
+{
+  "word": "sdram",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Synchronous DRAM,同步DRAM",
+  "examples": [
+    "Video data stream is stored into SDRAM via It's controller.",
+    "For the problem of huge data storage, use SDRAM to store the data, and use FPGA to control SDRAM to complete the transpose.",
+    "A dynamic SDRAM access scheduler according to modern SDRAM technology and memory access scheduling algorithms is proposed in this paper.",
+    "The laptop comes with 64M bytes of SDRAM (Synchronous Dynamic Random Access Memory) and Microsoft's Windows NT 4.0 operating system preinstalled.",
+    "We test each drive with a Micron 433-MHz Celeron system equipped with 64MB of SDRAM, a 10GB hard disk, and a DVD-ROM drive."
+  ]
+}

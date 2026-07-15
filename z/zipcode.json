@@ -1,0 +1,11 @@
+{
+  "word": "zipcode",
+  "phonetic": "zɪpˈkəʊd",
+  "phoneticUs": "ˈzɪpkoʊd",
+  "meaning": "n.邮政编码",
+  "examples": [
+    "Below is an example of a custom constraint named zipcode.",
+    "In the example in Listing 3, the zipCode element is not defined globally.",
+    "Observant readers might notice that the zipCode field is a normal text field."
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "word": "oversubscribe",
+  "phonetic": "ˌəʊvəsəbˈskraɪb",
+  "phoneticUs": "ˈoʊvərsəbˈskraɪb",
+  "meaning": "vt.认购超额",
+  "examples": [
+    "Be careful when designing hierarchal networks that you do not oversubscribe too much.",
+    "We're also using a good deal of thin-provisioning in storage to be able to oversubscribe our storage space.",
+    "So we've been working on a multi-tier storage strategy to thin-provision or oversubscribe, and that has already been working extremely well in our existing datacenters."
+  ]
+}

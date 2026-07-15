@@ -1,0 +1,12 @@
+{
+  "word": "voxel",
+  "phonetic": "ˈvɒksəl",
+  "phoneticUs": "vɒkˈsəl",
+  "meaning": "三维空间中定义一个点的图象信息的单位",
+  "examples": [
+    "Volume data segmentation is the premise of voxel modeling.",
+    "It goes beyond 2-d raster formats to include voxel, or 3-d, raster format.",
+    "Methods: White matter density was compared among three groups by voxel-based morphometry.",
+    "Each bit of each object in the arena must be triangulated continuously, so that the computer can keep track of which voxel it is in."
+  ]
+}

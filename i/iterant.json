@@ -1,0 +1,10 @@
+{
+  "word": "iterant",
+  "phonetic": "ˈɪtəˌreɪt",
+  "phoneticUs": "ˈɪtərənt",
+  "meaning": "adj.重复的,复述的",
+  "examples": [
+    "In 3dmax, use \"array\" as a tool to iterant moving of an object with various parts, and it can also take the moving together arrayed to achieve better results.",
+    "But In grid computing environment, remote files need to be multi-times duplicated among the adjacent hosts which cooperate distributedly, and that causes the iterant operation problem."
+  ]
+}

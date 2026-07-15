@@ -1,0 +1,11 @@
+{
+  "word": "markovian",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "adj.[统]马尔可夫链的 马尔可夫过程的,无后效过程的",
+  "examples": [
+    "The Statistical properties of Brownian bound oscillator under the Markovian limit are studied.",
+    "A three-state Markovian model of the F-PRMA system is developed based on Markov process theory.",
+    "The convergences of several genetic algorithms are studied by using Markovian chain theory in stochastic processes."
+  ]
+}

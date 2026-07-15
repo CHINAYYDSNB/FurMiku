@@ -1,0 +1,11 @@
+{
+  "word": "predistortion",
+  "phonetic": "ˌpriːdɪsˈtɔːʃən",
+  "phoneticUs": "",
+  "meaning": "n.[电子]预矫正",
+  "examples": [
+    "RF predistortion is the main power amplifier linearization technique used for wideband repeater at present.",
+    "The article firstly introduces the linearization techniques: predistortion technique and technique feedforward.",
+    "This paper presents a new predistortion linearizer which USES the 2nd order low frequency intermodulation signal."
+  ]
+}

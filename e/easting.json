@@ -1,0 +1,11 @@
+{
+  "word": "easting",
+  "phonetic": "ˈiːstɪŋ",
+  "phoneticUs": "ˈistɪŋ",
+  "meaning": "n.东行航程,朝东方",
+  "examples": [
+    "SetVariables USES the easting and northing values to set required variables.",
+    "The ellipsoid the central meridian the scale the scale at the central meridian the false easting and the false northing.",
+    "The collection of photogrammctric data provides free elevation data in addition to the northing and easting data of the ground plane."
+  ]
+}

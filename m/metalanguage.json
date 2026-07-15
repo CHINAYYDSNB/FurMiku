@@ -1,0 +1,12 @@
+{
+  "word": "metalanguage",
+  "phonetic": "ˈmetəlæŋɡwɪdʒ",
+  "phoneticUs": "ˈmetəlæŋɡwɪdʒ",
+  "meaning": "n.语言分析用的语言",
+  "examples": [
+    "Likewise, XML is a metalanguage because it's a language that describes languages.",
+    "The development of a programming language involves the use of a metalanguage.",
+    "Formal syntactic models for the description of grammar, eg generative grammar, are a type of metalanguage.",
+    "SGML, like XML, is a metalanguage -- a language used for defining other languages."
+  ]
+}

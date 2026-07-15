@@ -1,0 +1,11 @@
+{
+  "word": "l2tp",
+  "phonetic": "",
+  "phoneticUs": "",
+  "meaning": "Layer 2 Tunneling Protocol,二层通道协议",
+  "examples": [
+    "L2TP with lower cost and interoperability initiative, etc.",
+    "The key technology of VPDN is tunneling technology, which usually refers to Layer2Tunneling Protocol (L2TP).",
+    "Currently Windows XP provides a certain level of security by using Point-to-Point Tunneling Protocol (PPTP) or Layer Two Tunneling Protocol (L2TP)."
+  ]
+}

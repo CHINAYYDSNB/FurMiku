@@ -1,0 +1,11 @@
+{
+  "word": "extern",
+  "phonetic": "ˈekstɜːn",
+  "phoneticUs": "ˈekstɜːrn",
+  "meaning": "n.走读生,走读医学研究生adj.<古>外(面)的,外来的",
+  "examples": [
+    "How to set value of extern variable?",
+    "This is only an extern reference, not the declaration itself.",
+    "Indexer modifiers like new, virtual, extern etc. are available as stereotype properties."
+  ]
+}
